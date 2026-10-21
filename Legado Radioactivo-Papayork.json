@@ -23,8 +23,8 @@
     "name": "Legado Radioactivo-Papayork",
     "description": "",
     "author": "",
-    "windowWidth": 480,
-    "windowHeight": 270,
+    "windowWidth": 960,
+    "windowHeight": 540,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -2696,6 +2696,22 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Mini/PicoHierro.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Menu/BorrarNormal.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Menu/BorrarNormal.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Menu/BorrarHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Menu/BorrarHover.png",
         "userAdded": true,
         "smoothed": false
       }
@@ -11137,7 +11153,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/BarraRapidaMini.png",
+                  "image": "Inventario/BarraRapida.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11268,7 +11284,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/EtiquetaItemMini.png",
+                  "image": "Inventario/EtiquetaItem.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11309,7 +11325,7 @@
       "string": "",
       "font": "Fuentes/PixelifySans.ttf",
       "textAlignment": "left",
-      "characterSize": 9,
+      "characterSize": 11,
       "color": {
         "b": 210,
         "g": 246,
@@ -11333,7 +11349,7 @@
         "font": "Fuentes/PixelifySans.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
-        "characterSize": 9,
+        "characterSize": 11,
         "lineHeight": 0,
         "color": "255;246;210"
       }
@@ -11992,7 +12008,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/HudPanelMini.png",
+                  "image": "HUD/HudPanel.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12034,7 +12050,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini0.png",
+                  "image": "HUD/Dial0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12063,7 +12079,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini1.png",
+                  "image": "HUD/Dial1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12092,7 +12108,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini2.png",
+                  "image": "HUD/Dial2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12121,7 +12137,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini3.png",
+                  "image": "HUD/Dial3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12150,7 +12166,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini4.png",
+                  "image": "HUD/Dial4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12179,7 +12195,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/DialMini5.png",
+                  "image": "HUD/Dial5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12221,7 +12237,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/EstacionMini0.png",
+                  "image": "HUD/Estacion0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12250,7 +12266,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/EstacionMini1.png",
+                  "image": "HUD/Estacion1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12279,7 +12295,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/EstacionMini2.png",
+                  "image": "HUD/Estacion2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12308,7 +12324,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/EstacionMini3.png",
+                  "image": "HUD/Estacion3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12350,7 +12366,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/HudMonedaMini.png",
+                  "image": "HUD/HudMoneda.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12392,7 +12408,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/HudExpMarcoMini.png",
+                  "image": "HUD/HudExpMarco.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12434,7 +12450,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "HUD/HudExpRellenoMini.png",
+                  "image": "HUD/HudExpRelleno.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -12470,7 +12486,7 @@
       "string": "Lun. 1",
       "font": "Fuentes/PixelifySans.ttf",
       "textAlignment": "left",
-      "characterSize": 9,
+      "characterSize": 11,
       "color": {
         "b": 210,
         "g": 246,
@@ -12494,7 +12510,7 @@
         "font": "Fuentes/PixelifySans.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
-        "characterSize": 9,
+        "characterSize": 11,
         "lineHeight": 0,
         "color": "255;246;210"
       }
@@ -12514,7 +12530,7 @@
       "string": "12:00 PM",
       "font": "Fuentes/PixelifySans.ttf",
       "textAlignment": "left",
-      "characterSize": 9,
+      "characterSize": 11,
       "color": {
         "b": 210,
         "g": 246,
@@ -12538,7 +12554,7 @@
         "font": "Fuentes/PixelifySans.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
-        "characterSize": 9,
+        "characterSize": 11,
         "lineHeight": 0,
         "color": "255;246;210"
       }
@@ -12558,7 +12574,7 @@
       "string": "0",
       "font": "Fuentes/PixelifySans.ttf",
       "textAlignment": "left",
-      "characterSize": 9,
+      "characterSize": 11,
       "color": {
         "b": 54,
         "g": 242,
@@ -12582,7 +12598,7 @@
         "font": "Fuentes/PixelifySans.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
-        "characterSize": 9,
+        "characterSize": 11,
         "lineHeight": 0,
         "color": "251;242;54"
       }
@@ -12602,7 +12618,7 @@
       "string": "Nv 1",
       "font": "Fuentes/PixelifySans.ttf",
       "textAlignment": "left",
-      "characterSize": 8,
+      "characterSize": 10,
       "color": {
         "b": 106,
         "g": 255,
@@ -12626,7 +12642,7 @@
         "font": "Fuentes/PixelifySans.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
-        "characterSize": 8,
+        "characterSize": 10,
         "lineHeight": 0,
         "color": "214;255;106"
       }
@@ -18055,6 +18071,11 @@
           "name": "EscenaCargar",
           "type": "string",
           "value": ""
+        },
+        {
+          "name": "ConfirmarBorrar",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -18906,6 +18927,117 @@
               "name": "CY",
               "type": "number",
               "value": 756
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "BotonUI",
+          "persistentUuid": "6994d614-f060-457c-b10c-abc8ae534410",
+          "width": 0,
+          "x": 348,
+          "y": 337,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Accion",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Pantalla",
+              "type": "string",
+              "value": "Partidas"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Numero",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "BotonUI",
+          "persistentUuid": "e4bd1fac-5e33-448b-b2e9-7478bec04e39",
+          "width": 0,
+          "x": 348,
+          "y": 385,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Accion",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Pantalla",
+              "type": "string",
+              "value": "Partidas"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Numero",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "BotonUI",
+          "persistentUuid": "4655c9fe-513e-4bef-a271-f11ef27221af",
+          "width": 0,
+          "x": 348,
+          "y": 433,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Accion",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Pantalla",
+              "type": "string",
+              "value": "Partidas"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Borrar"
+            },
+            {
+              "name": "Numero",
+              "type": "number",
+              "value": 3
             }
           ]
         }
@@ -19792,6 +19924,11 @@
               "name": "Hover",
               "type": "boolean",
               "value": false
+            },
+            {
+              "name": "Numero",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -19895,6 +20032,64 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Menu/BotonMiniHover.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "BorrarNormal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Menu/BorrarNormal.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "BorrarHover",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Menu/BorrarHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20222,6 +20417,138 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"UI\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Fundido\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"UI\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"UI\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Fundido\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Fundido\"",
+                "0"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
@@ -22167,6 +22494,18 @@
                     "",
                     "\"Left\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "IsCursorOnObject",
+                    "inverted": true
+                  },
+                  "parameters": [
+                    "BotonUI",
+                    "",
+                    "",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -23002,6 +23341,197 @@
                       ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "BotonUI",
+                    "Accion",
+                    "=",
+                    "\"Borrar\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(BotonUI.Numero) + \"/Escena\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Hecho",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "ConfirmarBorrar",
+                        "=",
+                        "BotonUI.Numero"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "DeleteGroupFichier"
+                      },
+                      "parameters": [
+                        "\"PapayorkPartidas\"",
+                        "\"Ranura\" + ToString(BotonUI.Numero)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "ConfirmarBorrar",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Hecho",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "TextoRanura",
+                            "Numero",
+                            "=",
+                            "BotonUI.Numero"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "TextoRanura",
+                            "Text",
+                            "=",
+                            "\"Partida \" + ToString(TextoRanura.Numero) + NewLine() + \"Vacía\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Hecho",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "ConfirmarBorrar",
+                        "!=",
+                        "BotonUI.Numero"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "ConfirmarBorrar",
+                        "=",
+                        "BotonUI.Numero"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "TextoRanura",
+                            "Numero",
+                            "=",
+                            "BotonUI.Numero"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "TextoRanura",
+                            "Text",
+                            "=",
+                            "\"¿Borrar la partida \" + ToString(TextoRanura.Numero) + \" para siempre?\" + NewLine() + \"Clic otra vez en la papelera\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variables": [
+                {
+                  "name": "Hecho",
+                  "type": "boolean",
+                  "value": false
                 }
               ]
             }
@@ -24210,6 +24740,80 @@
                     "",
                     "EscenaCargar",
                     ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "BotonUI",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "BotonUI",
+                "Accion",
+                "=",
+                "\"Borrar\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "BotonUI"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "BotonUI",
+                "=",
+                "-100"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(BotonUI.Numero) + \"/Escena\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Show"
+                  },
+                  "parameters": [
+                    "BotonUI",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetX"
+                  },
+                  "parameters": [
+                    "BotonUI",
+                    "=",
+                    "348"
                   ]
                 }
               ]
@@ -25908,6 +26512,125 @@
             "textG": 0,
             "textR": 0
           },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Luz Exterior\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Inventario\"",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
           "comment": "Sonido al comenzar la escena"
         },
         {
@@ -26209,6 +26932,24 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UIHD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         },
         {
           "ambientLightColorB": 200,
@@ -27521,6 +28262,125 @@
             "textG": 0,
             "textR": 0
           },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Luz Exterior\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Interfaz 2\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Interfaz 2\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Interfaz 2\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Inventario\"",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
           "comment": "Sonido al comenzar la escena"
         },
         {
@@ -27822,6 +28682,24 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UIHD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         },
         {
           "ambientLightColorB": 200,
@@ -42937,6 +43815,125 @@
       },
       "events": [
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Luz Exterior\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Inventario\"",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -43235,6 +44232,24 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UIHD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         },
         {
           "ambientLightColorB": 200,
@@ -43580,6 +44595,68 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"\"",
+                "0"
+              ]
+            }
+          ]
+        },
         {
           "aiGeneratedEventId": "01KTMQ1B0KVE8N6DVDYCVB8F68",
           "type": "BuiltinCommonInstructions::Standard",
@@ -47407,13 +48484,6 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "UICompacta"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
           "target": "Tienda"
         },
         {
@@ -50169,7 +51239,7 @@
                   "parameters": [
                     "TextoEtiqueta",
                     "=",
-                    "240"
+                    "480"
                   ]
                 },
                 {
@@ -56340,7 +57410,7 @@
                   "parameters": [
                     "HudMonedas",
                     "=",
-                    "424 - HudMonedas.Width()"
+                    "875 - HudMonedas.Width()"
                   ]
                 },
                 {
@@ -56362,7 +57432,7 @@
                     "HudExpRelleno",
                     "Resizable",
                     "=",
-                    "max(0, 24 * min(1, Exp / ExpSiguiente))"
+                    "max(0, 38 * min(1, Exp / ExpSiguiente))"
                   ]
                 },
                 {
@@ -62639,133 +63709,6 @@
               "name": "Zona",
               "type": "string",
               "value": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "associatedLayout": "Nivel 01",
-      "name": "UICompacta",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "UI compacta: la barra rapida usa casillas de 20px e iconos <Id>_mini (la mochila abierta sigue en grande)"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SceneJustBegins"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringObjectVariable"
-                  },
-                  "parameters": [
-                    "CantidadItem",
-                    "Grupo",
-                    "=",
-                    "\"Barra\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextObject::Text::SetFontSize"
-                  },
-                  "parameters": [
-                    "CantidadItem",
-                    "=",
-                    "8"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "StringObjectVariable"
-              },
-              "parameters": [
-                "SlotUI",
-                "Grupo",
-                "=",
-                "\"Barra\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "SlotUI",
-                "\"Mini\" + SlotUI.Animation::Name()"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::ForEach",
-          "object": "IconoItem",
-          "conditions": [
-            {
-              "type": {
-                "value": "StringObjectVariable"
-              },
-              "parameters": [
-                "IconoItem",
-                "Grupo",
-                "=",
-                "\"Barra\""
-              ]
-            },
-            {
-              "type": {
-                "value": "StringVariable"
-              },
-              "parameters": [
-                "Mochila[IconoItem.Indice].Id",
-                "!=",
-                "\"\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "IconoItem",
-                "Mochila[IconoItem.Indice].Id + \"_mini\""
-              ]
             }
           ]
         }
@@ -76680,12 +77623,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "BarraRapida",
           "persistentUuid": "1bba7ba0-ef20-426e-8536-ba5c5ac8daba",
           "width": 0,
-          "x": 136,
-          "y": 242,
+          "x": 304,
+          "y": 492,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -76696,12 +77639,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "EtiquetaItem",
           "persistentUuid": "eba2d48d-558c-4331-b4af-48eed18c4757",
           "width": 0,
-          "x": 195,
-          "y": 228,
+          "x": 420,
+          "y": 472,
           "zOrder": 140,
           "numberProperties": [],
           "stringProperties": [],
@@ -76712,12 +77655,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "TextoEtiqueta",
           "persistentUuid": "08ed3a12-ae5a-4d98-a787-e7cd11054fa7",
           "width": 0,
-          "x": 205,
-          "y": 228,
+          "x": 430,
+          "y": 474,
           "zOrder": 150,
           "numberProperties": [],
           "stringProperties": [],
@@ -76840,12 +77783,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "ece32f66-effc-40a7-bb18-36215f97cf86",
           "width": 0,
-          "x": 140,
-          "y": 245,
+          "x": 310,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -76867,12 +77810,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "1ec8c5c8-a9b0-43cf-985c-3bea33646dc1",
           "width": 0,
-          "x": 150,
-          "y": 255,
+          "x": 327,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -76894,12 +77837,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "9d18ee64-3678-47ec-89ef-2d7a762a64a7",
           "width": 0,
-          "x": 151,
-          "y": 254,
+          "x": 328,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -76917,7 +77860,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 159
+              "value": 341
             }
           ]
         },
@@ -76926,12 +77869,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "c11c8b0d-a233-4891-87fd-0c7800ded613",
           "width": 0,
-          "x": 160,
-          "y": 245,
+          "x": 344,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -76953,12 +77896,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "c1ca7f90-6271-4eae-8746-e650f07e9f24",
           "width": 0,
-          "x": 170,
-          "y": 255,
+          "x": 361,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -76980,12 +77923,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "80acb90f-878a-4831-a5d7-1c9e57d3967a",
           "width": 0,
-          "x": 171,
-          "y": 254,
+          "x": 362,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77003,7 +77946,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 179
+              "value": 375
             }
           ]
         },
@@ -77012,12 +77955,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "ecfac214-5f98-4d08-bb4d-91c5e267d780",
           "width": 0,
-          "x": 180,
-          "y": 245,
+          "x": 378,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77039,12 +77982,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "3f575049-2164-478f-b38e-6cf06c7672e9",
           "width": 0,
-          "x": 190,
-          "y": 255,
+          "x": 395,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77066,12 +78009,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "5a53e66f-35e4-4de1-8d0f-8ac37ecd955b",
           "width": 0,
-          "x": 191,
-          "y": 254,
+          "x": 396,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77089,7 +78032,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 199
+              "value": 409
             }
           ]
         },
@@ -77098,12 +78041,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "f647a165-d25e-4906-b742-dc1e83f165a0",
           "width": 0,
-          "x": 200,
-          "y": 245,
+          "x": 412,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77125,12 +78068,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "0118c0f5-541b-4ebf-abf8-8b1e0fe55476",
           "width": 0,
-          "x": 210,
-          "y": 255,
+          "x": 429,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77152,12 +78095,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "14f56cd5-04cf-4a6d-8d65-b150a2b7b0bb",
           "width": 0,
-          "x": 211,
-          "y": 254,
+          "x": 430,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77175,7 +78118,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 219
+              "value": 443
             }
           ]
         },
@@ -77184,12 +78127,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "4afc4a46-bbbd-4495-bff1-dfab15f81cb9",
           "width": 0,
-          "x": 220,
-          "y": 245,
+          "x": 446,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77211,12 +78154,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "9e69a98b-07fa-4ef2-aa36-0c81c8a5d67d",
           "width": 0,
-          "x": 230,
-          "y": 255,
+          "x": 463,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77238,12 +78181,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "d948d27a-a7c8-4641-8fd6-d0cef5268dba",
           "width": 0,
-          "x": 231,
-          "y": 254,
+          "x": 464,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77261,7 +78204,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 239
+              "value": 477
             }
           ]
         },
@@ -77270,12 +78213,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "1e9eaa9c-1ab4-4176-98f8-32b50e6a6216",
           "width": 0,
-          "x": 240,
-          "y": 245,
+          "x": 480,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77297,12 +78240,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "aab21ad3-a4ab-4775-9a90-767f943e5d9a",
           "width": 0,
-          "x": 250,
-          "y": 255,
+          "x": 497,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77324,12 +78267,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "62e4a0a0-33c9-4f02-b288-3c35b8d5faca",
           "width": 0,
-          "x": 251,
-          "y": 254,
+          "x": 498,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77347,7 +78290,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 259
+              "value": 511
             }
           ]
         },
@@ -77356,12 +78299,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "b4a23535-9b85-4310-89f6-15cc8e29792b",
           "width": 0,
-          "x": 260,
-          "y": 245,
+          "x": 514,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77383,12 +78326,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "eb0949d3-1712-40f3-9730-f2a42b2f21e9",
           "width": 0,
-          "x": 270,
-          "y": 255,
+          "x": 531,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77410,12 +78353,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "fea42b2d-54dc-4c46-8366-4d024707b828",
           "width": 0,
-          "x": 271,
-          "y": 254,
+          "x": 532,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77433,7 +78376,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 279
+              "value": 545
             }
           ]
         },
@@ -77442,12 +78385,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "3a8130ba-f865-434e-8219-81c0a7bf1c33",
           "width": 0,
-          "x": 280,
-          "y": 245,
+          "x": 548,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77469,12 +78412,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "7afeec90-874d-4f4d-9ebb-18f67f21218e",
           "width": 0,
-          "x": 290,
-          "y": 255,
+          "x": 565,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77496,12 +78439,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "a62654f6-96e9-437b-b4b2-8afcf9ebba82",
           "width": 0,
-          "x": 291,
-          "y": 254,
+          "x": 566,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77519,7 +78462,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 299
+              "value": 579
             }
           ]
         },
@@ -77528,12 +78471,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "229e0ba7-2ee5-4330-9542-fb9eeb01d9e7",
           "width": 0,
-          "x": 300,
-          "y": 245,
+          "x": 582,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77555,12 +78498,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "0de09b87-bda7-47b0-aa47-9f8466f12598",
           "width": 0,
-          "x": 310,
-          "y": 255,
+          "x": 599,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77582,12 +78525,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "3dddace8-547f-438f-b944-e843e784b6d9",
           "width": 0,
-          "x": 311,
-          "y": 254,
+          "x": 600,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77605,7 +78548,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 319
+              "value": 613
             }
           ]
         },
@@ -77614,12 +78557,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "SlotUI",
           "persistentUuid": "1bd8700b-a3af-46ff-875d-2b20bf4128c3",
           "width": 0,
-          "x": 320,
-          "y": 245,
+          "x": 616,
+          "y": 496,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -77641,12 +78584,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "IconoItem",
           "persistentUuid": "a4b916fc-4fd2-4e13-a2c0-56bfd62df102",
           "width": 0,
-          "x": 330,
-          "y": 255,
+          "x": 633,
+          "y": 513,
           "zOrder": 120,
           "numberProperties": [],
           "stringProperties": [],
@@ -77668,12 +78611,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "CantidadItem",
           "persistentUuid": "633a1289-f665-43cb-a57f-0bcb5ebcfe70",
           "width": 0,
-          "x": 331,
-          "y": 254,
+          "x": 634,
+          "y": 516,
           "zOrder": 130,
           "numberProperties": [],
           "stringProperties": [],
@@ -77691,7 +78634,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 339
+              "value": 647
             }
           ]
         },
@@ -80339,12 +81282,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudPanel",
           "persistentUuid": "d7dcd9d6-5b84-4ab6-bf49-e5e95b7e2994",
           "width": 0,
-          "x": 380,
-          "y": 2,
+          "x": 804,
+          "y": 6,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -80355,12 +81298,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudDial",
           "persistentUuid": "1331332b-7fba-4cde-8003-70446d8b20e9",
           "width": 0,
-          "x": 382,
-          "y": 4,
+          "x": 808,
+          "y": 10,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -80371,12 +81314,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudFecha",
           "persistentUuid": "1bda135c-635f-4ab6-bae6-b36542f01923",
           "width": 0,
-          "x": 413,
-          "y": 4,
+          "x": 849,
+          "y": 11,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80387,12 +81330,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudEstacion",
           "persistentUuid": "59b22174-157f-4c03-b3cc-ea5b30c9be75",
           "width": 0,
-          "x": 466,
-          "y": 5,
+          "x": 930,
+          "y": 11,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80403,12 +81346,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudHora",
           "persistentUuid": "bfe4d59b-a38b-4d8c-90f0-246d51342dcb",
           "width": 0,
-          "x": 413,
-          "y": 17,
+          "x": 849,
+          "y": 29,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80419,12 +81362,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudMoneda",
           "persistentUuid": "ca9f6876-9197-4e1d-b878-90f04df68072",
           "width": 0,
-          "x": 384,
-          "y": 33,
+          "x": 811,
+          "y": 48,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80435,12 +81378,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudMonedas",
           "persistentUuid": "7cb61e9d-a4a2-4f3a-9b98-e8cb783bd411",
           "width": 0,
-          "x": 394,
-          "y": 31,
+          "x": 844,
+          "y": 48,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80451,12 +81394,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudNivel",
           "persistentUuid": "8cac279f-0e91-42e2-a2c8-152e73a146f0",
           "width": 0,
-          "x": 430,
-          "y": 32,
+          "x": 884,
+          "y": 48,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80467,12 +81410,12 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudExpMarco",
           "persistentUuid": "c0467221-f760-4879-8f51-259082af24a0",
           "width": 0,
-          "x": 448,
-          "y": 35,
+          "x": 906,
+          "y": 51,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -80481,14 +81424,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 3,
+          "height": 6,
           "keepRatio": true,
-          "layer": "Inventario",
+          "layer": "UIHD",
           "name": "HudExpRelleno",
           "persistentUuid": "aa52238b-eb35-4d8a-b8c2-8d343e15f6d4",
-          "width": 24,
-          "x": 449,
-          "y": 36,
+          "width": 38,
+          "x": 907,
+          "y": 52,
           "zOrder": 43,
           "numberProperties": [],
           "stringProperties": [],
