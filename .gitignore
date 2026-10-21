@@ -1,0 +1,13 @@
+# Respaldos locales del proyecto (el historial ya está en git)
+*.respaldo*.json
+*.json.autosave
+
+# Ejecutables exportados (superan el límite de 100 MB de GitHub; van en Releases)
+Ejecutables/
+
+# Salidas intermedias de los generadores de arte
+arte/out/
+__pycache__/
+
+# Documentos de la materia
+*.docx
