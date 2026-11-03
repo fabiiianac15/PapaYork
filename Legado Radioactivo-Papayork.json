@@ -5754,6 +5754,134 @@
         "name": "Natural/Pedro2/PescaTirarAbajo2.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PanelMochila.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PanelMochila.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PanelPausa.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PanelPausa.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PanelTienda.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PanelTienda.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/BarraRapida.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/BarraRapida.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/EtiquetaItem.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/EtiquetaItem.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/Casilla.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/Casilla.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/CasillaHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/CasillaHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/CasillaSeleccionada.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/CasillaSeleccionada.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaMochila.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaMochila.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaMochilaActiva.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaMochilaActiva.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaOpciones.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaOpciones.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaOpcionesActiva.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaOpcionesActiva.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaSalir.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaSalir.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaSalirActiva.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaSalirActiva.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaVecinos.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaVecinos.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/PestanaVecinosActiva.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/PestanaVecinosActiva.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -20576,7 +20704,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/Casilla.png",
+                  "image": "Natural/UI/Casilla.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -20605,7 +20733,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/CasillaHover.png",
+                  "image": "Natural/UI/CasillaHover.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -20634,7 +20762,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/CasillaSeleccionada.png",
+                  "image": "Natural/UI/CasillaSeleccionada.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22761,7 +22889,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/BarraRapida.png",
+                  "image": "Natural/UI/BarraRapida.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22803,7 +22931,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PanelMochila.png",
+                  "image": "Natural/UI/PanelMochila.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22892,7 +23020,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/EtiquetaItem.png",
+                  "image": "Natural/UI/EtiquetaItem.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -22979,13 +23107,13 @@
       "textAlignment": "left",
       "characterSize": 14,
       "color": {
-        "b": 170,
-        "g": 236,
-        "r": 255
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": true,
+        "isOutlineEnabled": false,
         "isShadowEnabled": false,
         "italic": false,
         "outlineColor": "60;30;12",
@@ -23003,7 +23131,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 14,
         "lineHeight": 0,
-        "color": "255;236;170"
+        "color": "70;40;20"
       }
     },
     {
@@ -23023,9 +23151,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 28,
-        "g": 55,
-        "r": 90
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -23047,7 +23175,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "90;55;28"
+        "color": "70;40;20"
       }
     },
     {
@@ -23067,9 +23195,9 @@
       "textAlignment": "left",
       "characterSize": 13,
       "color": {
-        "b": 210,
-        "g": 246,
-        "r": 255
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -23091,7 +23219,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 13,
         "lineHeight": 0,
-        "color": "255;246;210"
+        "color": "70;40;20"
       }
     },
     {
@@ -23111,9 +23239,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 190,
-        "g": 220,
-        "r": 235
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -23135,7 +23263,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "235;220;190"
+        "color": "70;40;20"
       }
     },
     {
@@ -23155,9 +23283,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 170,
-        "g": 200,
-        "r": 220
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -23179,7 +23307,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "220;200;170"
+        "color": "70;40;20"
       }
     },
     {
@@ -24706,7 +24834,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PanelMochila.png",
+                  "image": "Natural/UI/PanelMochila.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -24744,13 +24872,13 @@
       "textAlignment": "left",
       "characterSize": 14,
       "color": {
-        "b": 170,
-        "g": 236,
-        "r": 255
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": true,
+        "isOutlineEnabled": false,
         "isShadowEnabled": false,
         "italic": false,
         "outlineColor": "60;30;12",
@@ -24768,7 +24896,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 14,
         "lineHeight": 0,
-        "color": "255;236;170"
+        "color": "70;40;20"
       }
     },
     {
@@ -24788,9 +24916,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 28,
-        "g": 55,
-        "r": 90
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -24812,7 +24940,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "90;55;28"
+        "color": "70;40;20"
       }
     },
     {
@@ -24832,9 +24960,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 28,
-        "g": 55,
-        "r": 90
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -24856,7 +24984,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "90;55;28"
+        "color": "70;40;20"
       }
     },
     {
@@ -26861,7 +26989,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Pueblo/PanelTienda.png",
+                  "image": "Natural/UI/PanelTienda.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -26899,13 +27027,13 @@
       "textAlignment": "left",
       "characterSize": 13,
       "color": {
-        "b": 170,
-        "g": 236,
-        "r": 255
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": true,
+        "isOutlineEnabled": false,
         "isShadowEnabled": false,
         "italic": false,
         "outlineColor": "60;30;12",
@@ -26923,7 +27051,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 13,
         "lineHeight": 0,
-        "color": "255;236;170"
+        "color": "70;40;20"
       }
     },
     {
@@ -26943,13 +27071,13 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 54,
-        "g": 242,
-        "r": 251
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": true,
+        "isOutlineEnabled": false,
         "isShadowEnabled": false,
         "italic": false,
         "outlineColor": "36;21;13",
@@ -26967,7 +27095,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "251;242;54"
+        "color": "70;40;20"
       }
     },
     {
@@ -26987,9 +27115,9 @@
       "textAlignment": "left",
       "characterSize": 13,
       "color": {
-        "b": 210,
-        "g": 246,
-        "r": 255
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -27011,7 +27139,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 13,
         "lineHeight": 0,
-        "color": "255;246;210"
+        "color": "70;40;20"
       }
     },
     {
@@ -27031,9 +27159,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 190,
-        "g": 220,
-        "r": 235
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -27055,7 +27183,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "235;220;190"
+        "color": "70;40;20"
       }
     },
     {
@@ -27075,9 +27203,9 @@
       "textAlignment": "left",
       "characterSize": 10,
       "color": {
-        "b": 170,
-        "g": 200,
-        "r": 220
+        "r": 70,
+        "g": 40,
+        "b": 20
       },
       "content": {
         "bold": false,
@@ -27099,7 +27227,7 @@
         "verticalTextAlignment": "top",
         "characterSize": 10,
         "lineHeight": 0,
-        "color": "220;200;170"
+        "color": "70;40;20"
       }
     },
     {
@@ -28344,7 +28472,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaMochila.png",
+                  "image": "Natural/UI/PestanaMochila.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28373,7 +28501,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaMochilaActiva.png",
+                  "image": "Natural/UI/PestanaMochilaActiva.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28402,7 +28530,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaOpciones.png",
+                  "image": "Natural/UI/PestanaOpciones.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28431,7 +28559,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaOpcionesActiva.png",
+                  "image": "Natural/UI/PestanaOpcionesActiva.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28460,7 +28588,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaSalir.png",
+                  "image": "Natural/UI/PestanaSalir.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28489,7 +28617,65 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PestanaSalirActiva.png",
+                  "image": "Natural/UI/PestanaSalirActiva.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vecinos",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/UI/PestanaVecinos.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VecinosActiva",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/UI/PestanaVecinosActiva.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -28531,7 +28717,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Inventario/PanelPausa.png",
+                  "image": "Natural/UI/PanelPausa.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -87197,7 +87383,7 @@
                           },
                           "parameters": [
                             "TextoInfoTipo",
-                            "\"235;220;190\""
+                            "\"129;121;104\""
                           ]
                         }
                       ]
@@ -87223,7 +87409,7 @@
                           },
                           "parameters": [
                             "TextoInfoTipo",
-                            "\"143;220;46\""
+                            "\"78;121;25\""
                           ]
                         }
                       ]
@@ -87249,7 +87435,7 @@
                           },
                           "parameters": [
                             "TextoInfoTipo",
-                            "\"110;180;255\""
+                            "\"60;99;140\""
                           ]
                         }
                       ]
@@ -87275,7 +87461,7 @@
                           },
                           "parameters": [
                             "TextoInfoTipo",
-                            "\"214;120;255\""
+                            "\"117;66;140\""
                           ]
                         }
                       ]
@@ -94296,7 +94482,7 @@
                       },
                       "parameters": [
                         "TextoInfoTipo",
-                        "\"235;220;190\""
+                        "\"129;121;104\""
                       ]
                     }
                   ]
@@ -94322,7 +94508,7 @@
                       },
                       "parameters": [
                         "TextoInfoTipo",
-                        "\"143;220;46\""
+                        "\"78;121;25\""
                       ]
                     }
                   ]
@@ -94348,7 +94534,7 @@
                       },
                       "parameters": [
                         "TextoInfoTipo",
-                        "\"110;180;255\""
+                        "\"60;99;140\""
                       ]
                     }
                   ]
@@ -94374,7 +94560,7 @@
                       },
                       "parameters": [
                         "TextoInfoTipo",
-                        "\"214;120;255\""
+                        "\"117;66;140\""
                       ]
                     }
                   ]
@@ -98158,6 +98344,44 @@
                 "=",
                 "Puesto.Y() + 50"
               ]
+            },
+            {
+              "type": {
+                "value": "TextObject::SetWrapping"
+              },
+              "parameters": [
+                "DescTienda",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::WrappingWidth"
+              },
+              "parameters": [
+                "DescTienda",
+                "=",
+                "345"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::SetWrapping"
+              },
+              "parameters": [
+                "TextoInfoDesc",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::WrappingWidth"
+              },
+              "parameters": [
+                "TextoInfoDesc",
+                "=",
+                "345"
+              ]
             }
           ],
           "events": [
@@ -100403,7 +100627,7 @@
                       },
                       "parameters": [
                         "DetalleTienda",
-                        "\"143;220;46\""
+                        "\"78;121;25\""
                       ]
                     }
                   ]
@@ -100430,7 +100654,7 @@
                       },
                       "parameters": [
                         "DetalleTienda",
-                        "\"217;87;99\""
+                        "\"119;47;54\""
                       ]
                     }
                   ]
@@ -100562,7 +100786,7 @@
                       },
                       "parameters": [
                         "DetalleTienda",
-                        "\"251;242;54\""
+                        "\"138;133;29\""
                       ]
                     }
                   ]
@@ -100599,7 +100823,7 @@
                       },
                       "parameters": [
                         "DetalleTienda",
-                        "\"217;87;99\""
+                        "\"119;47;54\""
                       ]
                     }
                   ]
@@ -100636,7 +100860,7 @@
                       },
                       "parameters": [
                         "DetalleTienda",
-                        "\"217;87;99\""
+                        "\"119;47;54\""
                       ]
                     }
                   ]
@@ -124972,7 +125196,7 @@
           "name": "SlotUI",
           "persistentUuid": "39807a05-be6c-4a28-9371-f153e2b3779d",
           "width": 0,
-          "x": 122,
+          "x": 114,
           "y": 42,
           "zOrder": 520,
           "numberProperties": [],
@@ -125004,7 +125228,7 @@
           "name": "IconoItem",
           "persistentUuid": "1160c016-3e26-417c-969b-6d1d0625af81",
           "width": 0,
-          "x": 139,
+          "x": 131,
           "y": 59,
           "zOrder": 530,
           "numberProperties": [],
@@ -125031,7 +125255,7 @@
           "name": "CantidadItem",
           "persistentUuid": "ceb5e4d3-021a-43eb-8836-c0de07617f63",
           "width": 0,
-          "x": 140,
+          "x": 132,
           "y": 62,
           "zOrder": 540,
           "numberProperties": [],
@@ -125050,7 +125274,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 153
+              "value": 145
             }
           ]
         },
@@ -125063,7 +125287,7 @@
           "name": "SlotUI",
           "persistentUuid": "797a45ce-035c-4614-b321-6236ac05cb64",
           "width": 0,
-          "x": 170,
+          "x": 154,
           "y": 42,
           "zOrder": 520,
           "numberProperties": [],
@@ -125095,7 +125319,7 @@
           "name": "IconoItem",
           "persistentUuid": "0cbfc48b-fac8-45b9-9cdc-0c593b054d3c",
           "width": 0,
-          "x": 187,
+          "x": 171,
           "y": 59,
           "zOrder": 530,
           "numberProperties": [],
@@ -125122,7 +125346,7 @@
           "name": "CantidadItem",
           "persistentUuid": "c77cda8f-b1c4-4e6b-aca7-8d28fb0c3309",
           "width": 0,
-          "x": 188,
+          "x": 172,
           "y": 62,
           "zOrder": 540,
           "numberProperties": [],
@@ -125141,7 +125365,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 201
+              "value": 185
             }
           ]
         },
@@ -125154,7 +125378,7 @@
           "name": "SlotUI",
           "persistentUuid": "1e56222f-db50-413f-a588-9b16a9c270a6",
           "width": 0,
-          "x": 218,
+          "x": 194,
           "y": 42,
           "zOrder": 520,
           "numberProperties": [],
@@ -125186,7 +125410,7 @@
           "name": "IconoItem",
           "persistentUuid": "a16221d8-5d08-474b-9b12-b97ad993b4dc",
           "width": 0,
-          "x": 235,
+          "x": 211,
           "y": 59,
           "zOrder": 530,
           "numberProperties": [],
@@ -125213,7 +125437,7 @@
           "name": "CantidadItem",
           "persistentUuid": "959149e5-ee31-4c07-9201-0e46ed45d3dc",
           "width": 0,
-          "x": 236,
+          "x": 212,
           "y": 62,
           "zOrder": 540,
           "numberProperties": [],
@@ -125232,7 +125456,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 249
+              "value": 225
             }
           ]
         },
@@ -125245,7 +125469,7 @@
           "name": "SlotUI",
           "persistentUuid": "52e0bee2-ca43-4c57-8a17-b772ff956cba",
           "width": 0,
-          "x": 266,
+          "x": 234,
           "y": 42,
           "zOrder": 520,
           "numberProperties": [],
@@ -125277,7 +125501,7 @@
           "name": "IconoItem",
           "persistentUuid": "8c6c5b3b-4a5b-4ce2-b90d-32f33f811ae3",
           "width": 0,
-          "x": 283,
+          "x": 251,
           "y": 59,
           "zOrder": 530,
           "numberProperties": [],
@@ -125304,7 +125528,7 @@
           "name": "CantidadItem",
           "persistentUuid": "dfdae087-5d57-469e-835f-b0fa6d987700",
           "width": 0,
-          "x": 284,
+          "x": 252,
           "y": 62,
           "zOrder": 540,
           "numberProperties": [],
@@ -125323,7 +125547,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 297
+              "value": 265
             }
           ]
         },
@@ -125336,7 +125560,7 @@
           "name": "SlotUI",
           "persistentUuid": "8705b689-c220-4290-be4b-4a74eaf0508d",
           "width": 0,
-          "x": 314,
+          "x": 274,
           "y": 42,
           "zOrder": 520,
           "numberProperties": [],
@@ -125368,7 +125592,7 @@
           "name": "IconoItem",
           "persistentUuid": "2e1938e0-3863-4a78-8417-091ff54713d3",
           "width": 0,
-          "x": 331,
+          "x": 291,
           "y": 59,
           "zOrder": 530,
           "numberProperties": [],
@@ -125395,7 +125619,7 @@
           "name": "CantidadItem",
           "persistentUuid": "dfd171d5-77a3-4f2b-803f-3c568a8176f5",
           "width": 0,
-          "x": 332,
+          "x": 292,
           "y": 62,
           "zOrder": 540,
           "numberProperties": [],
@@ -125414,7 +125638,7 @@
             {
               "name": "SX",
               "type": "number",
-              "value": 345
+              "value": 305
             }
           ]
         },
@@ -128157,7 +128381,7 @@
           "name": "PestanaPausa",
           "persistentUuid": "f678fe82-a3cb-4ae1-863e-f16eb8946d0c",
           "width": 0,
-          "x": 300,
+          "x": 286,
           "y": 14,
           "zOrder": 505,
           "numberProperties": [],
@@ -128179,7 +128403,7 @@
           "name": "PestanaPausa",
           "persistentUuid": "ef98b79d-9f01-437c-b2df-87370d5f201a",
           "width": 0,
-          "x": 330,
+          "x": 346,
           "y": 14,
           "zOrder": 505,
           "numberProperties": [],
@@ -128201,7 +128425,7 @@
           "name": "PestanaPausa",
           "persistentUuid": "53cc8c46-8b88-42ca-b655-fe83d25ddde4",
           "width": 0,
-          "x": 360,
+          "x": 376,
           "y": 14,
           "zOrder": 505,
           "numberProperties": [],
@@ -129069,6 +129293,119 @@
               "name": "CY",
               "type": "number",
               "value": 162
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "PestanaPausa",
+          "persistentUuid": "a26f90b2-4ff8-4d2d-957f-310388e358f3",
+          "width": 0,
+          "x": 316,
+          "y": 14,
+          "zOrder": 505,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "SlotUI",
+          "persistentUuid": "cb4e962b-9a17-4cfa-9c52-c81d392c85f5",
+          "width": 0,
+          "x": 314,
+          "y": 42,
+          "zOrder": 520,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Grupo",
+              "type": "string",
+              "value": "Oferta"
+            },
+            {
+              "name": "Puede",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "IconoItem",
+          "persistentUuid": "230376ec-72ad-4e41-9d79-d5939e407b95",
+          "width": 0,
+          "x": 331,
+          "y": 59,
+          "zOrder": 530,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Grupo",
+              "type": "string",
+              "value": "Oferta"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "CantidadItem",
+          "persistentUuid": "acd7e4b1-5d8e-4770-865c-b09949824618",
+          "width": 0,
+          "x": 332,
+          "y": 62,
+          "zOrder": 540,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Indice",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Grupo",
+              "type": "string",
+              "value": "Oferta"
+            },
+            {
+              "name": "SX",
+              "type": "number",
+              "value": 345
             }
           ]
         }
