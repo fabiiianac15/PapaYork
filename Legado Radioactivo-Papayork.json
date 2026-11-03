@@ -5882,6 +5882,134 @@
         "name": "Natural/UI/PestanaVecinosActiva.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Carpita.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Carpita.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/PezPapa.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/PezPapa.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Bagre.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Bagre.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Trucha.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Trucha.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Anguila.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Anguila.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Mojarra.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Mojarra.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/Lucio.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/Lucio.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Peces/ReyTuberculo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Peces/ReyTuberculo.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Cana.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Cana.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Pista.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Pista.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Barra.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Barra.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Medidor.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Medidor.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Boya1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Boya1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Boya2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Boya2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Aviso.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Aviso.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pesca/Linea.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pesca/Linea.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -19375,6 +19503,534 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Carpita",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Carpita.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PezPapa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/PezPapa.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bagre",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Bagre.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Trucha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Trucha.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anguila",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Anguila.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mojarra",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Mojarra.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lucio",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/Lucio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ReyTuberculo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Peces/ReyTuberculo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cana",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pesca/Cana.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regadera",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Objetos/Regadera.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semillas de Zanahoria",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Semillas de Zanahoria",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 27
+                      },
+                      {
+                        "x": 6,
+                        "y": 27
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -22788,6 +23444,267 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Natural/Objetos/Regadera.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Carpita",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Carpita.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PezPapa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/PezPapa.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bagre",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Bagre.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Trucha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Trucha.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anguila",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Anguila.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mojarra",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Mojarra.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lucio",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Lucio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ReyTuberculo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/ReyTuberculo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cana",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Cana.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -29327,6 +30244,525 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PescaPista",
+      "persistentUuid": "f1785c6e-bea8-4c4d-9aa4-744235055492",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Pista.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PescaBarra",
+      "persistentUuid": "af901d70-0b81-48d2-99bc-d39688e88f35",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Barra.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PescaMedidor",
+      "persistentUuid": "668fb0f6-2c69-4597-aa9d-9e051536042b",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Medidor.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "PescaPez",
+      "persistentUuid": "d5241e7c-69c9-43ed-a934-4896d1571cf5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Carpita",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Carpita.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PezPapa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/PezPapa.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bagre",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Bagre.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Trucha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Trucha.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Anguila",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Anguila.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mojarra",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Mojarra.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lucio",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/Lucio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ReyTuberculo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Peces/ReyTuberculo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Boya",
+      "persistentUuid": "af84cb2d-5994-43b1-bef6-f77b94b5ed47",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.4,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Boya1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Boya2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "AvisoPesca",
+      "persistentUuid": "814cc802-9141-4c1f-944c-0e378130d1d9",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Aviso.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "LineaPesca",
+      "persistentUuid": "f0198d4e-628f-46c6-9b3d-21f10af63870",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Pesca/Linea.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -29698,6 +31134,27 @@
       },
       {
         "objectName": "PolvoPaso"
+      },
+      {
+        "objectName": "PescaPista"
+      },
+      {
+        "objectName": "PescaBarra"
+      },
+      {
+        "objectName": "PescaMedidor"
+      },
+      {
+        "objectName": "PescaPez"
+      },
+      {
+        "objectName": "Boya"
+      },
+      {
+        "objectName": "AvisoPesca"
+      },
+      {
+        "objectName": "LineaPesca"
       }
     ]
   },
@@ -30945,7 +32402,7 @@
             {
               "name": "Descripcion",
               "type": "string",
-              "value": "Clic en tierra arada para regarla. Se rellena con clic en el agua. Hay que regar cada día."
+              "value": "Clic en tierra arada para regar. Se rellena con clic en el agua."
             },
             {
               "name": "Max",
@@ -30961,6 +32418,330 @@
               "name": "Precio",
               "type": "number",
               "value": 30
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Herramienta"
+            }
+          ]
+        },
+        {
+          "name": "Carpita",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Común en aguas tranquilas. Sabe a tierra y a domingo."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Carpita de Papayork"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "PezPapa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Redondo y con ojitos. Nadie sabe si es pez o tubérculo."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Pez Papa"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 22
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Bagre",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Vive pegado al fondo y odia subir."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Bagre Terroso"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Trucha",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Le gusta el agua fría de la mañana."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Trucha Plateada"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 40
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Anguila",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Solo sale de noche. Resbala hasta en la mochila."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Anguila Verdosa"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 55
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Mojarra",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Brilla en la oscuridad. Mejor no comerla."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Mojarra Brillante"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 65
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Lucio",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Nació río abajo del reactor. Muerde con rabia."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Lucio del Reactor"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 110
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Rara"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "ReyTuberculo",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "El pez jefe del río. Dicen que HetolMimiao lo vio una vez."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 99
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Rey Tubérculo"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 300
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Rara"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Pez"
+            }
+          ]
+        },
+        {
+          "name": "Cana",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Clic en el agua para lanzar. Al picar, clic y mantén pulsado."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Caña de pescar"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 40
             },
             {
               "name": "Rareza",
@@ -32655,6 +34436,26 @@
                   "value": "Item"
                 }
               ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Id",
+                  "type": "string",
+                  "value": "Cana"
+                },
+                {
+                  "name": "Precio",
+                  "type": "number",
+                  "value": 80
+                },
+                {
+                  "name": "Tipo",
+                  "type": "string",
+                  "value": "Item"
+                }
+              ]
             }
           ]
         }
@@ -33809,6 +35610,586 @@
       "name": "Pescando",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "Peces",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Carpita",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 15
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Suave"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 26
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "0123"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 01 Pueblo"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "PezPapa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 25
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Suave"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 15
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 35
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 20
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "012"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 01"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Bagre",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 35
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Hunde"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 25
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 60
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 18
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 26
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "0123"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 02 Pueblo"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "Trucha",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 45
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Saltos"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 20
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 45
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "012"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 02"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 8
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "Anguila",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 55
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Saltos"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 40
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 90
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 20
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 26
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "123"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 02 Pueblo"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "Mojarra",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 50
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Suave"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 25
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 26
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "0123"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 01"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "Lucio",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 72
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Saltos"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 50
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 110
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 15
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 22
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "12"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 02"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 18
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "ReyTuberculo",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Dificultad",
+              "type": "number",
+              "value": 90
+            },
+            {
+              "name": "Movimiento",
+              "type": "string",
+              "value": "Hunde"
+            },
+            {
+              "name": "TamanoMin",
+              "type": "number",
+              "value": 90
+            },
+            {
+              "name": "TamanoMax",
+              "type": "number",
+              "value": 160
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 18
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 24
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "0123"
+            },
+            {
+              "name": "Lugar",
+              "type": "string",
+              "value": "Nivel 02"
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 60
+            },
+            {
+              "name": "Prob",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PezActual",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Dificultad",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Movimiento",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "TamanoMin",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "TamanoMax",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "HoraMin",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "HoraMax",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Estaciones",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "Lugar",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "Exp",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Prob",
+          "type": "number",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "ClavePez",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "PezElegido",
+      "type": "string",
+      "value": "Carpita"
+    },
+    {
+      "name": "PescaEstado",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PescaEspera",
+      "type": "number",
+      "value": 3
+    },
+    {
+      "name": "PescaPeso",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PezY",
+      "type": "number",
+      "value": 84
+    },
+    {
+      "name": "PezVel",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PezDest",
+      "type": "number",
+      "value": 84
+    },
+    {
+      "name": "BarY",
+      "type": "number",
+      "value": 75
+    },
+    {
+      "name": "BarVel",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PescaMedida",
+      "type": "number",
+      "value": 0.3
+    },
+    {
+      "name": "BarPulsada",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "HoraPesca",
+      "type": "number",
+      "value": 6
+    },
+    {
+      "name": "TallaPez",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -83019,6 +85400,13 @@
           "include": {
             "includeConfig": 0
           },
+          "target": "Pesca"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
           "target": "Cultivos"
         },
         {
@@ -84415,6 +86803,16 @@
               },
               "parameters": [
                 "DialogoAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
                 "False",
                 ""
               ]
@@ -100246,6 +102644,97 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "StringVariable"
+                      },
+                      "parameters": [
+                        "Tiendas[TipoTienda][SlotUI.Indice].Tipo",
+                        "=",
+                        "\"Item\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StringVariable"
+                      },
+                      "parameters": [
+                        "Items[Tiendas[TipoTienda][SlotUI.Indice].Id].Tipo",
+                        "=",
+                        "\"Herramienta\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "k",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Repeat",
+                      "repeatExpression": "30",
+                      "conditions": [],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringVariable"
+                              },
+                              "parameters": [
+                                "Mochila[k].Id",
+                                "=",
+                                "Tiendas[TipoTienda][SlotUI.Indice].Id"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "SlotUI",
+                                "Puede",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "k",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
                         "value": "StringObjectVariable"
                       },
                       "parameters": [
@@ -110461,6 +112950,2694 @@
                 "Opacity",
                 "=",
                 "130"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "Pesca",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "PESCA. PescaEstado: 0 nada, 1 lanzando, 2 esperando, 3 pico, 4 minijuego. Todo el minijuego se mide en segundos reales con TimeDelta()."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "PescaPista",
+                    "690",
+                    "130",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "PescaPista",
+                    "=",
+                    "6000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPista"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "PescaBarra",
+                    "700",
+                    "141",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "PescaBarra",
+                    "=",
+                    "6001"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaBarra"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "PescaMedidor",
+                    "736",
+                    "141",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "PescaMedidor",
+                    "=",
+                    "6001"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaMedidor"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "PescaPez",
+                    "699",
+                    "141",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "PescaPez",
+                    "=",
+                    "6002"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPez"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Boya",
+                    "0",
+                    "0",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "Boya",
+                    "=",
+                    "-6700"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Boya"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "AvisoPesca",
+                    "0",
+                    "0",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "AvisoPesca",
+                    "=",
+                    "95000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "AvisoPesca"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "LineaPesca",
+                    "0",
+                    "0",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "LineaPesca",
+                    "=",
+                    "80000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "LineaPesca"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Lanzar: cana en la mano y clic en agua cercana"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DialogoAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"Cana\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "Agua2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), Agua2.X() + 16, Agua2.Y() + 16)",
+                "<",
+                "130"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "-",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Recursos/Soltar.wav",
+                "no",
+                "50",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "Boya",
+                "=",
+                "Agua2.X() + 9",
+                "=",
+                "Agua2.Y() + 9"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "abs(Agua2.X() + 16 - Personaje_jugador.X())",
+                    ">=",
+                    "abs(Agua2.Y() + 16 - Personaje_jugador.Y())"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Agua2.X() + 16",
+                    "<",
+                    "Personaje_jugador.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "abs(Agua2.X() + 16 - Personaje_jugador.X())",
+                    ">=",
+                    "abs(Agua2.Y() + 16 - Personaje_jugador.Y())"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Agua2.X() + 16",
+                    ">=",
+                    "Personaje_jugador.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "abs(Agua2.X() + 16 - Personaje_jugador.X())",
+                    "<",
+                    "abs(Agua2.Y() + 16 - Personaje_jugador.Y())"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Agua2.Y() + 16",
+                    "<",
+                    "Personaje_jugador.Y()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "abs(Agua2.X() + 16 - Personaje_jugador.X())",
+                    "<",
+                    "abs(Agua2.Y() + 16 - Personaje_jugador.Y())"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Agua2.Y() + 16",
+                    ">=",
+                    "Personaje_jugador.Y()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pedro segun el momento de la pesca"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation",
+                "=",
+                "\"PescaLanzar\" + NombresDir[Personaje_jugador.Direccion]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation",
+                "=",
+                "\"PescaEsperar\" + NombresDir[Personaje_jugador.Direccion]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation",
+                "=",
+                "\"PescaEsperar\" + NombresDir[Personaje_jugador.Direccion]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation",
+                "=",
+                "\"PescaTirar\" + NombresDir[Personaje_jugador.Direccion]"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\"",
+                ">=",
+                "0.45"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEspera",
+                "=",
+                "RandomFloatInRange(1.5, 7)"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "Boya",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "LineaPesca",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "La linea va de la punta de la cana a la boya"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                ">=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "LineaPesca",
+                "=",
+                "Personaje_jugador.PointX(\"Punta\")",
+                "=",
+                "Personaje_jugador.PointY(\"Punta\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "LineaPesca",
+                "Resizable",
+                "=",
+                "DistanceBetweenPositions(Personaje_jugador.PointX(\"Punta\"), Personaje_jugador.PointY(\"Punta\"), Boya.X() + 7, Boya.Y() + 6)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "LineaPesca",
+                "=",
+                "AngleBetweenPositions(Personaje_jugador.PointX(\"Punta\"), Personaje_jugador.PointY(\"Punta\"), Boya.X() + 7, Boya.Y() + 6)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Esperar. Clic antes de tiempo: recoge la linea"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\"",
+                ">",
+                "0.3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaPista"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaBarra"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaMedidor"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaPez"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Boya"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "AvisoPesca"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "LineaPesca"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TimerElapsedTime(\"Pesca\")",
+                ">=",
+                "PescaEspera"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "AvisoPesca",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "AvisoPesca",
+                "=",
+                "Personaje_jugador.CenterX() - 7",
+                "=",
+                "Personaje_jugador.Y() - 72"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Cultivos/Temblor.wav",
+                "no",
+                "70",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "HoraPesca",
+                "=",
+                "mod(Reloj.Hora, 12)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "PezElegido",
+                "=",
+                "\"Carpita\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaPeso",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Reloj.M",
+                    "=",
+                    "\"PM\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "HoraPesca",
+                    "+",
+                    "12"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Reloj.M",
+                    "=",
+                    "\"AM\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "HoraPesca",
+                    "<",
+                    "6"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "HoraPesca",
+                    "+",
+                    "24"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEachChildVariable",
+              "iterableVariableName": "Peces",
+              "valueIteratorVariableName": "PezActual",
+              "keyIteratorVariableName": "ClavePez",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "StrFind(PezActual.Lugar, CurrentSceneName())",
+                    "!=",
+                    "-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "StrFind(PezActual.Estaciones, ToString(Calendario.Estacion))",
+                    "!=",
+                    "-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "HoraPesca",
+                    ">=",
+                    "PezActual.HoraMin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "HoraPesca",
+                    "<=",
+                    "PezActual.HoraMax"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaPeso",
+                    "+",
+                    "PezActual.Prob"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "RandomFloat(PescaPeso)",
+                        "<",
+                        "PezActual.Prob"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "PezElegido",
+                        "=",
+                        "ClavePez"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pico: un segundo para reaccionar"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "4"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "AvisoPesca"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PezY",
+                "=",
+                "84"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PezVel",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PezDest",
+                "=",
+                "84"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarY",
+                "=",
+                "59"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarVel",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaMedida",
+                "=",
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "PescaPez",
+                "PezElegido"
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "PescaPista",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "PescaBarra",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "PescaMedidor",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "PescaPez",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Menu/Click.wav",
+                "no",
+                "70",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Pesca\"",
+                ">=",
+                "1.1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaPista"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaBarra"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaMedidor"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "PescaPez"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Boya"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "AvisoPesca"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "LineaPesca"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 50",
+                "Personaje_jugador.Y() - 58",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"Se escapó...\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"217;87;99\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1.5",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2.3",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Minijuego: mantener pulsado sube la barra, soltar la deja caer"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PescaEstado",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "RandomFloat(1)",
+                    "<",
+                    "(0.5 + Peces[PezElegido].Dificultad / 35) * TimeDelta()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezDest",
+                    "=",
+                    "RandomInRange(0, 168)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "+",
+                    "(PezDest - PezY) * (1.5 + Peces[PezElegido].Dificultad / 14) * TimeDelta()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "-",
+                    "PezVel * 2.6 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Peces[PezElegido].Movimiento",
+                    "=",
+                    "\"Saltos\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "RandomFloat(1)",
+                    "<",
+                    "(Peces[PezElegido].Dificultad / 45) * TimeDelta()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "+",
+                    "RandomInRange(-1, 0) * 2 * 220 + 220 + RandomInRange(-40, 40)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "Peces[PezElegido].Movimiento",
+                    "=",
+                    "\"Hunde\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "+",
+                    "70 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezY",
+                    "+",
+                    "PezVel * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PezY",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezY",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "=",
+                    "abs(PezVel) * 0.4"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PezY",
+                    ">",
+                    "168"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezY",
+                    "=",
+                    "168"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PezVel",
+                    "=",
+                    "-abs(PezVel) * 0.4"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "BarPulsada",
+                    "False",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "BarPulsada",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Space\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "BarPulsada",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "BarPulsada",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarVel",
+                    "-",
+                    "560 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "BarPulsada",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarVel",
+                    "+",
+                    "430 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarY",
+                    "+",
+                    "BarVel * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "BarY",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarY",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarVel",
+                    "=",
+                    "abs(BarVel) * 0.45"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "BarY",
+                    ">",
+                    "150"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarY",
+                    "=",
+                    "150"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "BarVel",
+                    "=",
+                    "-abs(BarVel) * 0.45"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "PezY + 16",
+                    ">=",
+                    "BarY"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "PezY + 16",
+                    "<=",
+                    "BarY + 50"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    "+",
+                    "0.13 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "PezY + 16",
+                    "<",
+                    "BarY"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    "-",
+                    "0.15 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "PezY + 16",
+                    ">",
+                    "BarY + 50"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    "-",
+                    "0.15 * TimeDelta()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetY"
+                  },
+                  "parameters": [
+                    "PescaBarra",
+                    "=",
+                    "141 + BarY"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetY"
+                  },
+                  "parameters": [
+                    "PescaPez",
+                    "=",
+                    "141 + PezY"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetX"
+                  },
+                  "parameters": [
+                    "PescaPez",
+                    "=",
+                    "699 + sin(TimeFromStart() * 9) * 2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "PescaMedidor",
+                    "Resizable",
+                    "=",
+                    "max(1, 200 * PescaMedida)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetY"
+                  },
+                  "parameters": [
+                    "PescaMedidor",
+                    "=",
+                    "341 - PescaMedidor.Height()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeColor"
+                  },
+                  "parameters": [
+                    "PescaMedidor",
+                    "\"168;236;74\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    "<",
+                    "0.3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeColor"
+                  },
+                  "parameters": [
+                    "PescaMedidor",
+                    "\"214;80;72\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    ">=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "TallaPez",
+                    "=",
+                    "RandomInRange(Peces[PezElegido].TamanoMin, Peces[PezElegido].TamanoMax)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Exp",
+                    "+",
+                    "Peces[PezElegido].Exp"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Recursos",
+                    "Personaje_jugador.X() - 16",
+                    "Personaje_jugador.Y() - 30",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Recursos",
+                    "PezElegido"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "HUD/SubirNivel.wav",
+                    "no",
+                    "70",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Pescando",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaEstado",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPista"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaBarra"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaMedidor"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPez"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Boya"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "AvisoPesca"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "LineaPesca"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "Personaje_jugador.CenterX() - 50",
+                    "Personaje_jugador.Y() - 58",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"¡\" + Items[PezElegido].Nombre + \"! \" + ToString(TallaPez) + \" cm\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"251;242;54\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "2",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "2.8",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PescaMedida",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Pescando",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PescaEstado",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPista"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaBarra"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaMedidor"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "PescaPez"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "Boya"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "AvisoPesca"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Hide"
+                  },
+                  "parameters": [
+                    "LineaPesca"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "Personaje_jugador.CenterX() - 50",
+                    "Personaje_jugador.Y() - 58",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"Se soltó...\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"217;87;99\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "1.5",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "2.3",
+                    "yes"
+                  ]
+                }
               ]
             }
           ]
