@@ -4170,6 +4170,30 @@
         "preloadAsMusic": false,
         "preloadAsSound": true,
         "preloadInCache": false
+      },
+      {
+        "file": "Natural/Objetos/Regadera.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Objetos/Regadera.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Objetos/EnergiaMarco.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Objetos/EnergiaMarco.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Objetos/EnergiaRelleno.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Objetos/EnergiaRelleno.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -12727,6 +12751,35 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Regadera",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Objetos/Regadera.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -19088,6 +19141,90 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "EnergiaMarco",
+      "persistentUuid": "c83fb9db-6ed1-40f1-944e-7f352a99ca8e",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Normal",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Objetos/EnergiaMarco.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "EnergiaRelleno",
+      "persistentUuid": "4a29b3b4-2b7f-46b4-a2dd-059f3963f180",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Normal",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Objetos/EnergiaRelleno.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -19450,6 +19587,12 @@
       },
       {
         "objectName": "Orilla"
+      },
+      {
+        "objectName": "EnergiaMarco"
+      },
+      {
+        "objectName": "EnergiaRelleno"
       }
     ]
   },
@@ -20050,7 +20193,7 @@
             {
               "name": "Descripcion",
               "type": "string",
-              "value": "Crece en el claro del bosque. Doña Rosa lo compra bien."
+              "value": "Crece en el claro del bosque. Doña Rosa lo compra bien. Clic derecho: comer (+10 de energía)."
             },
             {
               "name": "Max",
@@ -20076,6 +20219,11 @@
               "name": "Tipo",
               "type": "string",
               "value": "Forraje"
+            },
+            {
+              "name": "Energia",
+              "type": "number",
+              "value": 10
             }
           ]
         },
@@ -20266,7 +20414,7 @@
             {
               "name": "Descripcion",
               "type": "string",
-              "value": "Una papa sana de tu granja. Se venderá bien en el pueblo."
+              "value": "Una papa sana de tu granja. Se venderá bien en el pueblo. Clic derecho: comer (+20 de energía)."
             },
             {
               "name": "Max",
@@ -20292,6 +20440,11 @@
               "name": "Tipo",
               "type": "string",
               "value": "Cultivo"
+            },
+            {
+              "name": "Energia",
+              "type": "number",
+              "value": 20
             }
           ]
         },
@@ -20646,7 +20799,7 @@
             {
               "name": "Descripcion",
               "type": "string",
-              "value": "Fresca y crujiente. Se podrá vender en el pueblo."
+              "value": "Fresca y crujiente. Se podrá vender en el pueblo. Clic derecho: comer (+15 de energía)."
             },
             {
               "name": "Max",
@@ -20672,6 +20825,47 @@
               "name": "Tipo",
               "type": "string",
               "value": "Cultivo"
+            },
+            {
+              "name": "Energia",
+              "type": "number",
+              "value": 15
+            }
+          ]
+        },
+        {
+          "name": "Regadera",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Descripcion",
+              "type": "string",
+              "value": "Clic en tierra arada para regarla. Se rellena con clic en el agua. Hay que regar cada día."
+            },
+            {
+              "name": "Max",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "Nombre",
+              "type": "string",
+              "value": "Regadera"
+            },
+            {
+              "name": "Precio",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "Rareza",
+              "type": "string",
+              "value": "Común"
+            },
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Herramienta"
             }
           ]
         }
@@ -21730,7 +21924,22 @@
             {
               "name": "ProbMutante",
               "type": "number",
-              "value": 4
+              "value": 10
+            },
+            {
+              "name": "DiasMadurar",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "012"
+            },
+            {
+              "name": "NecesitaRiego",
+              "type": "boolean",
+              "value": true
             }
           ]
         },
@@ -21766,7 +21975,22 @@
             {
               "name": "ProbMutante",
               "type": "number",
-              "value": 12
+              "value": 30
+            },
+            {
+              "name": "DiasMadurar",
+              "type": "number",
+              "value": 8
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "0123"
+            },
+            {
+              "name": "NecesitaRiego",
+              "type": "boolean",
+              "value": true
             }
           ]
         },
@@ -21803,6 +22027,21 @@
               "name": "ProbMutante",
               "type": "number",
               "value": 0
+            },
+            {
+              "name": "DiasMadurar",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "Estaciones",
+              "type": "string",
+              "value": "012"
+            },
+            {
+              "name": "NecesitaRiego",
+              "type": "boolean",
+              "value": true
             }
           ]
         }
@@ -22284,6 +22523,26 @@
                   "name": "Precio",
                   "type": "number",
                   "value": 15
+                },
+                {
+                  "name": "Tipo",
+                  "type": "string",
+                  "value": "Item"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Id",
+                  "type": "string",
+                  "value": "Regadera"
+                },
+                {
+                  "name": "Precio",
+                  "type": "number",
+                  "value": 60
                 },
                 {
                   "name": "Tipo",
@@ -23368,6 +23627,46 @@
       "name": "ZoomMundoPrueba",
       "type": "number",
       "value": 1
+    },
+    {
+      "name": "Energia",
+      "type": "number",
+      "value": 100
+    },
+    {
+      "name": "EnergiaMax",
+      "type": "number",
+      "value": 100
+    },
+    {
+      "name": "RegaderaAgua",
+      "type": "number",
+      "value": 20
+    },
+    {
+      "name": "RegaderaMax",
+      "type": "number",
+      "value": 20
+    },
+    {
+      "name": "PedirNuevoDia",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "DesmayoSueno",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "CreceHoy",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "Protegido",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -29274,6 +29573,46 @@
           "actions": [
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                "=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "PedirNuevoDia",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetStringVariable"
               },
               "parameters": [
@@ -29287,7 +29626,7 @@
                 "value": "JSONToGlobalVariableStructure"
               },
               "parameters": [
-                "\"[{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0}]\"",
+                "\"[{\\\"Id\\\":\\\"Regadera\\\",\\\"Cantidad\\\":1},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0},{\\\"Id\\\":\\\"\\\",\\\"Cantidad\\\":0}]\"",
                 "Mochila"
               ]
             },
@@ -29906,6 +30245,78 @@
                   "parameters": [
                     "TempTexto",
                     "Granja"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/Energia\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/Energia\"",
+                    "",
+                    "TempTexto"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "JSONToGlobalVariableStructure"
+                  },
+                  "parameters": [
+                    "TempTexto",
+                    "Energia"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/RegaderaAgua\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/RegaderaAgua\"",
+                    "",
+                    "TempTexto"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "JSONToGlobalVariableStructure"
+                  },
+                  "parameters": [
+                    "TempTexto",
+                    "RegaderaAgua"
                   ]
                 }
               ]
@@ -68425,6 +68836,45 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "DesmayoSueno",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoGO",
+                    "Clave",
+                    "=",
+                    "\"Sub\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoGO",
+                    "Text",
+                    "=",
+                    "\"Eran las 2 de la mañana y el sueño te venció...\""
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -69076,6 +69526,64 @@
           "conditions": [
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Destino",
+                "=",
+                "\"Nivel 01\""
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Salida\"",
+                ">=",
+                "0.7"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "PedirNuevoDia",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "StringVariable"
               },
               "parameters": [
@@ -69105,6 +69613,43 @@
                 "",
                 "\"Nivel 01\"",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Destino",
+                "=",
+                "\"Menu Principal\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "False",
+                ""
               ]
             }
           ]
@@ -72536,6 +73081,13 @@
             "includeConfig": 0
           },
           "target": "Fabricacion"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "NuevoDia"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -77184,6 +77736,16 @@
                 "1",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                ">",
+                "0"
+              ]
             }
           ],
           "actions": [],
@@ -77319,6 +77881,16 @@
                         "no",
                         "60",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Energia",
+                        "-",
+                        "3"
                       ]
                     }
                   ],
@@ -77586,6 +78158,16 @@
                         "Labrando",
                         "True",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Energia",
+                        "-",
+                        "2"
                       ]
                     }
                   ],
@@ -77957,6 +78539,16 @@
                         "no",
                         "55",
                         "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Energia",
+                        "-",
+                        "3"
                       ]
                     }
                   ],
@@ -80173,133 +80765,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Comment",
-                  "color": {
-                    "b": 109,
-                    "g": 230,
-                    "r": 255,
-                    "textB": 0,
-                    "textG": 0,
-                    "textR": 0
-                  },
-                  "comment": "A las 12 AM empieza un dia nuevo"
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "StringVariable"
-                      },
-                      "parameters": [
-                        "Reloj.M",
-                        "=",
-                        "\"AM\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Calendario.Dia",
-                        "+",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Calendario.DiaTotal",
-                        "+",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Dia",
-                            ">",
-                            "28"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Dia",
-                            "=",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Estacion",
-                            "+",
-                            "1"
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "NumberVariable"
-                              },
-                              "parameters": [
-                                "Calendario.Estacion",
-                                ">",
-                                "3"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Calendario.Estacion",
-                                "=",
-                                "0"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Calendario.Anio",
-                                "+",
-                                "1"
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
@@ -80395,7 +80860,7 @@
                   "parameters": [
                     "LuzExterior.R",
                     "=",
-                    "lerp(LuzExterior.R,68,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.R,176,LuzExterior.VelTran)"
                   ]
                 },
                 {
@@ -80405,7 +80870,7 @@
                   "parameters": [
                     "LuzExterior.G",
                     "=",
-                    "lerp(LuzExterior.G,118,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.G,164,LuzExterior.VelTran)"
                   ]
                 },
                 {
@@ -80415,7 +80880,7 @@
                   "parameters": [
                     "LuzExterior.B",
                     "=",
-                    "lerp(LuzExterior.B,223,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.B,206,LuzExterior.VelTran)"
                   ]
                 }
               ]
@@ -80553,7 +81018,7 @@
                   "parameters": [
                     "LuzExterior.G",
                     "=",
-                    "lerp(LuzExterior.G,169,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.G,196,LuzExterior.VelTran)"
                   ]
                 },
                 {
@@ -80563,7 +81028,7 @@
                   "parameters": [
                     "LuzExterior.B",
                     "=",
-                    "lerp(LuzExterior.B,5,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.B,136,LuzExterior.VelTran)"
                   ]
                 }
               ]
@@ -80602,7 +81067,7 @@
                   "parameters": [
                     "LuzExterior.R",
                     "=",
-                    "lerp(LuzExterior.R,26,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.R,82,LuzExterior.VelTran)"
                   ]
                 },
                 {
@@ -80612,7 +81077,7 @@
                   "parameters": [
                     "LuzExterior.G",
                     "=",
-                    "lerp(LuzExterior.G,22,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.G,84,LuzExterior.VelTran)"
                   ]
                 },
                 {
@@ -80622,7 +81087,7 @@
                   "parameters": [
                     "LuzExterior.B",
                     "=",
-                    "lerp(LuzExterior.B,65,LuzExterior.VelTran)"
+                    "lerp(LuzExterior.B,136,LuzExterior.VelTran)"
                   ]
                 }
               ]
@@ -85384,7 +85849,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "CULTIVOS\nGranja[celda] = {X, Y, Escena, Planta, Horas, Etapa, Abono}. Cultivos[tipo] tiene los datos de cada planta.\nCada hora del reloj suma horas a todos los cultivos (tambien en otras zonas). El objeto Cultivo solo muestra la etapa."
+          "comment": "CULTIVOS Granja[celda] = {X, Y, Escena, Planta, Etapa, Abono, Regada, DiasCrecidos}. Crecen de noche en el evento externo NuevoDia. Cultivos[tipo] tiene los datos de cada planta."
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -85659,6 +86124,16 @@
                 "no",
                 "60",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Granja[SueloPreparado.MiCelda].DiasCrecidos",
+                "=",
+                "0"
               ]
             }
           ]
@@ -85954,6 +86429,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Granja[Cultivo.MiCelda].DiasCrecidos",
+                "=",
+                "0"
+              ]
             }
           ],
           "events": [
@@ -86075,398 +86560,6 @@
                 "Cultivo",
                 "Granja[Cultivo.MiCelda].Planta + \"_\" + ToString(Granja[Cultivo.MiCelda].Etapa)"
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Paso de una hora: crecen todos los cultivos y quiza sale una papa radiactiva de la tierra"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::CompareNumbers"
-              },
-              "parameters": [
-                "Reloj.Hora",
-                "!=",
-                "HoraVista"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "HoraVista",
-                "=",
-                "Reloj.Hora"
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::ForEachChildVariable",
-              "iterableVariableName": "Granja",
-              "valueIteratorVariableName": "CeldaGranja",
-              "keyIteratorVariableName": "ClaveGranja",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "CeldaGranja.Planta",
-                    "!=",
-                    "\"\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Granja[ClaveGranja].Horas",
-                    "+",
-                    "1"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "CeldaGranja.Abono",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Horas",
-                        "+",
-                        "1"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Etapa",
-                        "=",
-                        "min(3, floor(Granja[ClaveGranja].Horas / Cultivos[CeldaGranja.Planta].HorasEtapa))"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "StringVariable"
-                      },
-                      "parameters": [
-                        "CeldaGranja.Escena",
-                        "=",
-                        "CurrentSceneName()"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Etapa",
-                        ">=",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Etapa",
-                        "<",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::CompareNumbers"
-                      },
-                      "parameters": [
-                        "RandomInRange(1, 100)",
-                        "<=",
-                        "Cultivos[CeldaGranja.Planta].ProbMutante"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::CompareNumbers"
-                      },
-                      "parameters": [
-                        "SceneInstancesCount(PapaEmerge) + SceneInstancesCount(Papa)",
-                        "<",
-                        "9"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Protegido",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::Name"
-                          },
-                          "parameters": [
-                            "Construccion",
-                            "Animation",
-                            "=",
-                            "\"Espantapapas\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::CompareNumbers"
-                          },
-                          "parameters": [
-                            "DistanceBetweenPositions(Construccion.CeldaX, Construccion.CeldaY, CeldaGranja.X, CeldaGranja.Y)",
-                            "<",
-                            "100"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "Protegido",
-                            "True",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Protegido",
-                            "False",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "PapaEmerge",
-                            "CeldaGranja.X",
-                            "CeldaGranja.Y",
-                            "\"\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetStringObjectVariable"
-                          },
-                          "parameters": [
-                            "PapaEmerge",
-                            "MiCelda",
-                            "=",
-                            "ClaveGranja"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetZOrder"
-                          },
-                          "parameters": [
-                            "PapaEmerge",
-                            "=",
-                            "PapaEmerge.Y() + 30"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "PlaySound"
-                          },
-                          "parameters": [
-                            "",
-                            "Cultivos/Temblor.wav",
-                            "no",
-                            "80",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetStringVariable"
-                          },
-                          "parameters": [
-                            "Granja[ClaveGranja].Planta",
-                            "=",
-                            "\"\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Granja[ClaveGranja].Horas",
-                            "=",
-                            "0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Granja[ClaveGranja].Etapa",
-                            "=",
-                            "0"
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Comment",
-                          "color": {
-                            "b": 109,
-                            "g": 230,
-                            "r": 255,
-                            "textB": 0,
-                            "textG": 0,
-                            "textR": 0
-                          },
-                          "comment": "La planta se transforma en la papa radiactiva: desaparece de su tierra"
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "StringObjectVariable"
-                              },
-                              "parameters": [
-                                "Cultivo",
-                                "MiCelda",
-                                "=",
-                                "ClaveGranja"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Delete"
-                              },
-                              "parameters": [
-                                "Cultivo",
-                                ""
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "StringObjectVariable"
-                              },
-                              "parameters": [
-                                "SueloPreparado",
-                                "MiCelda",
-                                "=",
-                                "ClaveGranja"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetBooleanObjectVariable"
-                              },
-                              "parameters": [
-                                "SueloPreparado",
-                                "Plantada",
-                                "False",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "variables": [
-            {
-              "name": "Protegido",
-              "type": "boolean",
-              "value": false
             }
           ]
         },
@@ -87798,6 +87891,26 @@
                     "\"PapayorkPartidas\"",
                     "\"Ranura\" + ToString(RanuraActual) + \"/Monedas\"",
                     "ToJSON(Monedas)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraActual) + \"/Energia\"",
+                    "ToJSON(Energia)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraActual) + \"/RegaderaAgua\"",
+                    "ToJSON(RegaderaAgua)"
                   ]
                 },
                 {
@@ -93446,190 +93559,16 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "Reloj.M",
-                    "=",
-                    "\"PM\""
-                  ]
-                }
-              ],
+              "conditions": [],
               "actions": [
                 {
                   "type": {
-                    "value": "SetNumberVariable"
+                    "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "Calendario.Dia",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Calendario.DiaTotal",
-                    "+",
-                    "1"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Calendario.Dia",
-                        ">",
-                        "28"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Calendario.Dia",
-                        "=",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Calendario.Estacion",
-                        "+",
-                        "1"
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Estacion",
-                            ">",
-                            "3"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Estacion",
-                            "=",
-                            "0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "Calendario.Anio",
-                            "+",
-                            "1"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::ForEachChildVariable",
-              "iterableVariableName": "Granja",
-              "valueIteratorVariableName": "CeldaGranja",
-              "keyIteratorVariableName": "ClaveGranja",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "StringVariable"
-                  },
-                  "parameters": [
-                    "CeldaGranja.Planta",
-                    "!=",
-                    "\"\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Granja[ClaveGranja].Horas",
-                    "+",
-                    "Salto"
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "CeldaGranja.Abono",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Horas",
-                        "+",
-                        "Salto"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "Granja[ClaveGranja].Etapa",
-                        "=",
-                        "min(3, floor(Granja[ClaveGranja].Horas / Cultivos[CeldaGranja.Planta].HorasEtapa))"
-                      ]
-                    }
+                    "PedirNuevoDia",
+                    "True",
+                    ""
                   ]
                 }
               ]
@@ -93695,7 +93634,7 @@
                   "parameters": [
                     "LuzExterior.R",
                     "=",
-                    "68"
+                    "176"
                   ]
                 },
                 {
@@ -93705,7 +93644,7 @@
                   "parameters": [
                     "LuzExterior.G",
                     "=",
-                    "118"
+                    "164"
                   ]
                 },
                 {
@@ -93715,7 +93654,7 @@
                   "parameters": [
                     "LuzExterior.B",
                     "=",
-                    "223"
+                    "206"
                   ]
                 },
                 {
@@ -93824,76 +93763,6 @@
                     "0",
                     "\"easeInQuad\"",
                     "2.5",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "TextoFlotante",
-                    "Personaje_jugador.CenterX() - 40",
-                    "Personaje_jugador.Y() - 40",
-                    "\"\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "TextoFlotante",
-                    "Text",
-                    "=",
-                    "\"¡Buenos días! Día \" + ToString(Calendario.Dia)"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextObject::ChangeColor"
-                  },
-                  "parameters": [
-                    "TextoFlotante",
-                    "\"251;242;54\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetZOrder"
-                  },
-                  "parameters": [
-                    "TextoFlotante",
-                    "=",
-                    "100000"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-                  },
-                  "parameters": [
-                    "TextoFlotante",
-                    "Tween",
-                    "\"Subir\"",
-                    "TextoFlotante.Y() - 20",
-                    "\"easeOutQuad\"",
-                    "2",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-                  },
-                  "parameters": [
-                    "TextoFlotante",
-                    "Tween",
-                    "\"Desaparecer\"",
-                    "0",
-                    "\"easeInQuad\"",
-                    "3",
                     "yes"
                   ]
                 },
@@ -95428,6 +95297,16 @@
               },
               "parameters": [
                 "TiendaAbierta",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DialogoAbierto",
                 "False",
                 ""
               ]
@@ -97697,6 +97576,2224 @@
                 "ZoomMundoPrueba",
                 "\"Luz Exterior\"",
                 "0"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "NuevoDia",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "NUEVO DIA: todo lo que pasa de noche sale de aqui. Dormir o desmayarse pide PedirNuevoDia = true."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnergiaMarco",
+                    "930",
+                    "418",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "EnergiaMarco",
+                    "=",
+                    "5000"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnergiaRelleno",
+                    "934",
+                    "422",
+                    "\"UIHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "EnergiaRelleno",
+                    "=",
+                    "5001"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "PedirNuevoDia",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "PedirNuevoDia",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Calendario.Dia",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Calendario.DiaTotal",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "=",
+                "EnergiaMax"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Reloj.Hora",
+                "=",
+                "6"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Reloj.Minuto",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Reloj.M",
+                "=",
+                "\"AM\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Reloj.Mediodia",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "LuzExterior.R",
+                "=",
+                "176"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "LuzExterior.G",
+                "=",
+                "164"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "LuzExterior.B",
+                "=",
+                "206"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Calendario.Dia",
+                    ">",
+                    "28"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Calendario.Dia",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Calendario.Estacion",
+                    "+",
+                    "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Calendario.Estacion",
+                        ">",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Calendario.Estacion",
+                        "=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Calendario.Anio",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEachChildVariable",
+              "iterableVariableName": "Granja",
+              "valueIteratorVariableName": "CeldaGranja",
+              "keyIteratorVariableName": "ClaveGranja",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringVariable"
+                      },
+                      "parameters": [
+                        "CeldaGranja.Planta",
+                        "!=",
+                        "\"\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "StrFind(Cultivos[CeldaGranja.Planta].Estaciones, ToString(Calendario.Estacion))",
+                            "=",
+                            "-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringVariable"
+                          },
+                          "parameters": [
+                            "Granja[ClaveGranja].Planta",
+                            "=",
+                            "\"\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "Granja[ClaveGranja].Etapa",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "Granja[ClaveGranja].DiasCrecidos",
+                            "=",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringObjectVariable"
+                              },
+                              "parameters": [
+                                "Cultivo",
+                                "MiCelda",
+                                "=",
+                                "ClaveGranja"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "Cultivo",
+                                ""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringObjectVariable"
+                              },
+                              "parameters": [
+                                "SueloPreparado",
+                                "MiCelda",
+                                "=",
+                                "ClaveGranja"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanObjectVariable"
+                              },
+                              "parameters": [
+                                "SueloPreparado",
+                                "Plantada",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "StrFind(Cultivos[CeldaGranja.Planta].Estaciones, ToString(Calendario.Estacion))",
+                            "!=",
+                            "-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "CreceHoy",
+                            "=",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Granja[ClaveGranja].Regada",
+                                "True",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "CreceHoy",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Cultivos[CeldaGranja.Planta].NecesitaRiego",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "CreceHoy",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "CreceHoy",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Granja[ClaveGranja].DiasCrecidos",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Granja[ClaveGranja].Abono",
+                                    "True",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetNumberVariable"
+                                  },
+                                  "parameters": [
+                                    "Granja[ClaveGranja].DiasCrecidos",
+                                    "+",
+                                    "1"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Granja[ClaveGranja].Etapa",
+                                "=",
+                                "max(Granja[ClaveGranja].Etapa, min(3, floor(Granja[ClaveGranja].DiasCrecidos * 3 / Cultivos[CeldaGranja.Planta].DiasMadurar)))"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringVariable"
+                              },
+                              "parameters": [
+                                "CeldaGranja.Escena",
+                                "=",
+                                "CurrentSceneName()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Granja[ClaveGranja].Etapa",
+                                ">=",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Granja[ClaveGranja].Etapa",
+                                "<",
+                                "3"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::CompareNumbers"
+                              },
+                              "parameters": [
+                                "RandomInRange(1, 100)",
+                                "<=",
+                                "Cultivos[CeldaGranja.Planta].ProbMutante"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::CompareNumbers"
+                              },
+                              "parameters": [
+                                "SceneInstancesCount(PapaEmerge) + SceneInstancesCount(Papa)",
+                                "<",
+                                "9"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Protegido",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                                  },
+                                  "parameters": [
+                                    "Construccion",
+                                    "Animation",
+                                    "=",
+                                    "\"Espantapapas\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                                  },
+                                  "parameters": [
+                                    "DistanceBetweenPositions(Construccion.CeldaX, Construccion.CeldaY, CeldaGranja.X, CeldaGranja.Y)",
+                                    "<",
+                                    "100"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Protegido",
+                                    "True",
+                                    ""
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Protegido",
+                                    "False",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "Create"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "PapaEmerge",
+                                    "CeldaGranja.X",
+                                    "CeldaGranja.Y",
+                                    "\"\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetStringObjectVariable"
+                                  },
+                                  "parameters": [
+                                    "PapaEmerge",
+                                    "MiCelda",
+                                    "=",
+                                    "ClaveGranja"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetZOrder"
+                                  },
+                                  "parameters": [
+                                    "PapaEmerge",
+                                    "=",
+                                    "PapaEmerge.Y() + 30"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Cultivos/Temblor.wav",
+                                    "no",
+                                    "80",
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetStringVariable"
+                                  },
+                                  "parameters": [
+                                    "Granja[ClaveGranja].Planta",
+                                    "=",
+                                    "\"\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetNumberVariable"
+                                  },
+                                  "parameters": [
+                                    "Granja[ClaveGranja].Horas",
+                                    "=",
+                                    "0"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetNumberVariable"
+                                  },
+                                  "parameters": [
+                                    "Granja[ClaveGranja].Etapa",
+                                    "=",
+                                    "0"
+                                  ]
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Comment",
+                                  "color": {
+                                    "b": 109,
+                                    "g": 230,
+                                    "r": 255,
+                                    "textB": 0,
+                                    "textG": 0,
+                                    "textR": 0
+                                  },
+                                  "comment": "La planta se transforma en la papa radiactiva: desaparece de su tierra"
+                                },
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [
+                                    {
+                                      "type": {
+                                        "value": "StringObjectVariable"
+                                      },
+                                      "parameters": [
+                                        "Cultivo",
+                                        "MiCelda",
+                                        "=",
+                                        "ClaveGranja"
+                                      ]
+                                    }
+                                  ],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "Delete"
+                                      },
+                                      "parameters": [
+                                        "Cultivo",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [
+                                    {
+                                      "type": {
+                                        "value": "StringObjectVariable"
+                                      },
+                                      "parameters": [
+                                        "SueloPreparado",
+                                        "MiCelda",
+                                        "=",
+                                        "ClaveGranja"
+                                      ]
+                                    }
+                                  ],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "SetBooleanObjectVariable"
+                                      },
+                                      "parameters": [
+                                        "SueloPreparado",
+                                        "Plantada",
+                                        "False",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Granja[ClaveGranja].Regada",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "Personaje_jugador.CenterX() - 40",
+                    "Personaje_jugador.Y() -52",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"¡Buenos días! Día \" + ToString(Calendario.Dia)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"251;242;54\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "2",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "3",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "A las 2 AM Pedro cae rendido: se reutiliza la pantalla de desmayo"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Reloj.M",
+                "=",
+                "\"AM\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Reloj.Hora",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Reloj.Hora",
+                "<",
+                "6"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "DesmayoSueno",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"GameOver\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Barra de energia"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "EnergiaRelleno",
+                "Resizable",
+                "=",
+                "max(0, 88 * Energia / EnergiaMax)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "EnergiaRelleno",
+                "=",
+                "510 - EnergiaRelleno.Height()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "EnergiaRelleno",
+                "\"126;190;80\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "<=",
+                "40"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "EnergiaRelleno",
+                "\"230;170;60\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "<=",
+                "15"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "EnergiaRelleno",
+                "\"214;80;72\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Sin energia no se usan las herramientas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "<=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Items[ItemEnMano].Tipo",
+                "=",
+                "\"Herramienta\""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Inventario/Seleccion.wav",
+                "no",
+                "40",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 40",
+                "Personaje_jugador.Y() -52",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"¡Estoy agotado! Come algo o duerme.\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"230;170;60\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Comer: clic derecho con comida en la mano"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "TiendaAbierta",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "FabricarAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DialogoAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "Items[ItemEnMano].Energia",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Mochila[RanuraSeleccionada].Cantidad",
+                ">=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Right\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "=",
+                "min(EnergiaMax, Energia + Items[ItemEnMano].Energia)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Mochila[RanuraSeleccionada].Cantidad",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Comer.ogg",
+                "no",
+                "70",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 40",
+                "Personaje_jugador.Y() -52",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"+\" + ToString(Items[ItemEnMano].Energia) + \" energía\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"153;229;80\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Regar: regadera en la mano y clic en tierra arada al lado de Pedro"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"Regadera\""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "SueloPreparado",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Rejilla::Rejilla::Vicelda"
+              },
+              "parameters": [
+                "Rejilla",
+                "=",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Granja[SueloPreparado.MiCelda].Regada",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Granja[SueloPreparado.MiCelda].Regada",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Energia",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Regar.ogg",
+                "no",
+                "60",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"Regadera\""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "SueloPreparado",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Rejilla::Rejilla::Vicelda"
+              },
+              "parameters": [
+                "Rejilla",
+                "=",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                "<=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 40",
+                "Personaje_jugador.Y() -52",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"La regadera está vacía\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"95;205;228\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Rellenar la regadera en el agua o en el pozo"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"Regadera\""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "Agua2",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Rejilla::Rejilla::Vicelda"
+              },
+              "parameters": [
+                "Rejilla",
+                "=",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                "=",
+                "RegaderaMax"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Regar.ogg",
+                "no",
+                "70",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 40",
+                "Personaje_jugador.Y() -52",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"Regadera llena\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"95;205;228\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MouseSobreUI",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"Regadera\""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "Pozo",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Rejilla::Rejilla::Vicelda"
+              },
+              "parameters": [
+                "Rejilla",
+                "=",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "RegaderaAgua",
+                "=",
+                "RegaderaMax"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Regar.ogg",
+                "no",
+                "70",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "TextoFlotante",
+                "Personaje_jugador.CenterX() - 40",
+                "Personaje_jugador.Y() -52",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Text",
+                "=",
+                "\"Regadera llena\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "\"95;205;228\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "=",
+                "100000"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Subir\"",
+                "TextoFlotante.Y() - 20",
+                "\"easeOutQuad\"",
+                "1",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "TextoFlotante",
+                "Tween",
+                "\"Desaparecer\"",
+                "0",
+                "\"easeInQuad\"",
+                "2",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "La tierra muestra si esta seca, abonada o regada"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "SueloPreparado",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "SueloPreparado",
+                    "\"Seca\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Granja[SueloPreparado.MiCelda].Abono",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "SueloPreparado",
+                    "\"Abonado\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Granja[SueloPreparado.MiCelda].Regada",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "SueloPreparado",
+                    "\"Regada\""
+                  ]
+                }
               ]
             }
           ]
