@@ -22203,6 +22203,11 @@
       "name": "TempPantalla",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "ZoomMundoPrueba",
+      "type": "number",
+      "value": 2
     }
   ],
   "layouts": [
@@ -39077,6 +39082,13 @@
           "include": {
             "includeConfig": 0
           },
+          "target": "PruebaZoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
           "target": "Personaje"
         },
         {
@@ -44592,6 +44604,13 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PruebaZoom"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -60333,6 +60352,13 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PruebaZoom"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -91315,6 +91341,78 @@
                     "TextoPausa.CY"
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "PruebaZoom",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "PRUEBA TEMPORAL DE ZOOM. La tecla Z cambia el mundo entre zoom 2 y zoom 1. La interfaz no cambia. Se quitara cuando se decida el zoom definitivo."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"z\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "ZoomMundoPrueba",
+                "=",
+                "3 - ZoomMundoPrueba"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "ZoomMundoPrueba",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "ZoomMundoPrueba",
+                "\"Luz Exterior\"",
+                "0"
               ]
             }
           ]
