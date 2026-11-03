@@ -4194,6 +4194,14 @@
         "name": "Natural/Objetos/EnergiaRelleno.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/Madera/Muelle1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Madera/Muelle1.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -9904,7 +9912,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya1.png",
+                  "image": "Natural/Madera/Vaya7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9952,7 +9960,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya2.png",
+                  "image": "Natural/Madera/Vaya1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10000,7 +10008,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya3.png",
+                  "image": "Natural/Madera/Vaya2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10048,7 +10056,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya4.png",
+                  "image": "Natural/Madera/Vaya3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10096,7 +10104,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya5.png",
+                  "image": "Natural/Madera/Vaya4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10144,7 +10152,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya6.png",
+                  "image": "Natural/Madera/Vaya5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10192,7 +10200,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Madera/Vaya7.png",
+                  "image": "Natural/Madera/Vaya6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -10470,7 +10478,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Decoracion/PlatPesc1.png",
+                  "image": "Natural/Madera/Muelle1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -64992,90 +65000,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "Orilla",
-          "persistentUuid": "f2a8c934-239b-4769-8f50-2621d52fa489",
-          "width": 0,
-          "x": 256,
-          "y": 478,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "3d1fcec0-fc79-47b8-8c26-85f5564d5d4b",
-          "width": 0,
-          "x": 256,
-          "y": 478,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "8afda0b8-be5b-47d5-bdcb-40b46b560def",
-          "width": 0,
-          "x": 256,
-          "y": 478,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "73bb0dd3-7f43-4d81-bc35-eb5163ecc94b",
-          "width": 0,
-          "x": 256,
-          "y": 478,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
           "persistentUuid": "f0b21115-4c19-4d88-9617-e9f5542e591d",
           "width": 0,
           "x": 256,
@@ -65337,69 +65261,6 @@
             {
               "name": "animation",
               "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "f50d4489-aa5a-480f-b4fd-42c1703154e7",
-          "width": 0,
-          "x": 302,
-          "y": 231,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "e7336d6a-f0ea-4298-be2b-0482f83b8962",
-          "width": 0,
-          "x": 302,
-          "y": 231,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "b08d87cd-5f9d-41c9-be93-af19995dfd62",
-          "width": 0,
-          "x": 302,
-          "y": 231,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
             }
           ],
           "stringProperties": [],
@@ -65769,90 +65630,6 @@
           "keepRatio": true,
           "layer": "",
           "name": "Orilla",
-          "persistentUuid": "807d41cb-c27b-4c81-858c-5c2ba83c6c8d",
-          "width": 0,
-          "x": 399,
-          "y": 230,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "c6da80ab-39bb-4564-bafa-fc7aa644e4f1",
-          "width": 0,
-          "x": 399,
-          "y": 230,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "4d51b65a-672a-4551-83ad-d7103859e3d3",
-          "width": 0,
-          "x": 399,
-          "y": 230,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "ae080314-11c7-4acb-95ad-fdd5fd3c4791",
-          "width": 0,
-          "x": 399,
-          "y": 230,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
           "persistentUuid": "48f2cd64-8f34-4ef1-bdc2-8d432014c896",
           "width": 0,
           "x": 416,
@@ -65983,69 +65760,6 @@
           "width": 0,
           "x": 480,
           "y": -32,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "b6a61fc3-756d-4204-8dc4-0a02c0533c03",
-          "width": 0,
-          "x": 480,
-          "y": 231,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "b4e5d30d-a816-43f7-b08c-05af16543e41",
-          "width": 0,
-          "x": 480,
-          "y": 231,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "be521c7e-4c0e-4b57-895c-5769b12e7b57",
-          "width": 0,
-          "x": 480,
-          "y": 231,
           "zOrder": 37,
           "numberProperties": [
             {
@@ -66676,174 +66390,6 @@
           "width": 0,
           "x": 608,
           "y": 512,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "3192dae3-a2d5-431d-baf5-73ec5b4c771b",
-          "width": 0,
-          "x": 675,
-          "y": 114,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "83962387-8770-4fcd-bc3d-76f50ae3b59e",
-          "width": 0,
-          "x": 675,
-          "y": 114,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "aeae01c3-4a6f-4083-954a-150ba4b6485c",
-          "width": 0,
-          "x": 675,
-          "y": 114,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "ef56ec33-56ef-47cd-a69c-a19a5fd62c4a",
-          "width": 0,
-          "x": 675,
-          "y": 114,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 3
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "4fbd811e-9383-42fb-95ed-718db19f1e12",
-          "width": 0,
-          "x": 701,
-          "y": 97,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "da6464a7-f8d3-4465-883b-646ceab81400",
-          "width": 0,
-          "x": 701,
-          "y": 97,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "5faedab4-f7a7-499f-ae9e-ea2f7d649843",
-          "width": 0,
-          "x": 701,
-          "y": 97,
-          "zOrder": 37,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 2
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Orilla",
-          "persistentUuid": "8b104161-06b4-4d2e-9d72-3c2de034d504",
-          "width": 0,
-          "x": 701,
-          "y": 97,
           "zOrder": 37,
           "numberProperties": [
             {
