@@ -4922,6 +4922,838 @@
         "name": "Natural/Pedro2/PolvoPaso.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaIzquierda4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaIzquierda4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaIzquierda5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaIzquierda5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoIzquierda4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoIzquierda4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoIzquierda5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoIzquierda5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonIzquierda4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonIzquierda4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonIzquierda5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonIzquierda5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarIzquierda4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarIzquierda4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaDerecha4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaDerecha4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaDerecha5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaDerecha5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoDerecha4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoDerecha4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoDerecha5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoDerecha5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonDerecha4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonDerecha4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonDerecha5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonDerecha5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarDerecha4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarDerecha4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaArriba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaArriba4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaArriba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaArriba5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoArriba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoArriba4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoArriba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoArriba5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonArriba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonArriba4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonArriba5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonArriba5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarArriba4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarArriba4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaAbajo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaAbajo4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/HachaAbajo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/HachaAbajo5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoAbajo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoAbajo4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PicoAbajo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PicoAbajo5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonAbajo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonAbajo4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/AzadonAbajo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/AzadonAbajo5.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/RegarAbajo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/RegarAbajo4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaLanzarAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaLanzarAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaEsperarAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaEsperarAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/PescaTirarAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/PescaTirarAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -4966,6 +5798,11 @@
         },
         {
           "name": "Invencible",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Regando",
           "type": "boolean",
           "value": false
         }
@@ -10202,6 +11039,4254 @@
                       {
                         "x": 12,
                         "y": 39.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hacha Izquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaIzquierda1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaIzquierda2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaIzquierda3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaIzquierda4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaIzquierda5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pico Izquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoIzquierda1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoIzquierda2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoIzquierda3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoIzquierda4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoIzquierda5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Azadon Izquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonIzquierda1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonIzquierda2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonIzquierda3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonIzquierda4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonIzquierda5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regar Izquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.11,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarIzquierda1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarIzquierda2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarIzquierda3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarIzquierda4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaLanzarIzquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.13,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarIzquierda1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarIzquierda2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarIzquierda3.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaEsperarIzquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.55,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarIzquierda1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarIzquierda2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaTirarIzquierda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarIzquierda1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarIzquierda2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 5,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hacha Derecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaDerecha1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaDerecha2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaDerecha3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaDerecha4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaDerecha5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pico Derecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoDerecha1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoDerecha2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoDerecha3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoDerecha4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoDerecha5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Azadon Derecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonDerecha1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonDerecha2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonDerecha3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonDerecha4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonDerecha5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regar Derecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.11,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarDerecha1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarDerecha2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarDerecha3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarDerecha4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaLanzarDerecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.13,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarDerecha1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarDerecha2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarDerecha3.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaEsperarDerecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.55,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarDerecha1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarDerecha2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaTirarDerecha",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarDerecha1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarDerecha2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 56,
+                      "y": 30
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hacha Arriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaArriba1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaArriba2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaArriba3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaArriba4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaArriba5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pico Arriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoArriba1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoArriba2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoArriba3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoArriba4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoArriba5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Azadon Arriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonArriba1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonArriba2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonArriba3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonArriba4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonArriba5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regar Arriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.11,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarArriba1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarArriba2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarArriba3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarArriba4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaLanzarArriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.13,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarArriba1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarArriba2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarArriba3.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaEsperarArriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.55,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarArriba1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarArriba2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaTirarArriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarArriba1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarArriba2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 36,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hacha Abajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaAbajo1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaAbajo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaAbajo3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaAbajo4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/HachaAbajo5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pico Abajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoAbajo1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoAbajo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoAbajo3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoAbajo4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PicoAbajo5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Azadon Abajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonAbajo1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonAbajo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonAbajo3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonAbajo4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/AzadonAbajo5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regar Abajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.11,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarAbajo1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarAbajo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarAbajo3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/RegarAbajo4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaLanzarAbajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.13,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarAbajo1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarAbajo2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaLanzarAbajo3.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaEsperarAbajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.55,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarAbajo1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaEsperarAbajo2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PescaTirarAbajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarAbajo1.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Pedro2/PescaTirarAbajo2.png",
+                  "points": [
+                    {
+                      "name": "Punta",
+                      "x": 38,
+                      "y": 61
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 31.5,
+                    "y": 57
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 31,
+                    "y": 47
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 43
+                      },
+                      {
+                        "x": 36,
+                        "y": 42
+                      },
+                      {
+                        "x": 35.5,
+                        "y": 53.5
+                      },
+                      {
+                        "x": 27,
+                        "y": 53.5
                       }
                     ]
                   ]
@@ -28533,6 +33618,11 @@
           "value": "Abajo"
         }
       ]
+    },
+    {
+      "name": "Pescando",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -54161,7 +59251,7 @@
           "stringProperties": [
             {
               "name": "tilemap",
-              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":52,\"dimY\":36,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7,7,6,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[3,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[3,4,4,4,4,4,4,4,4,4,2,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[-1,7,3,0,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,4,4,4,4],[-1,-1,3,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,6,4,4,4,4,4,4,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,-1,7,7,7,7,7,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[3,4,4,4,4,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[3,4,4,4,4,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[-1,7,7,7,6,4,4,4,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4]]}]}"
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":52,\"dimY\":36,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,7,7,6,4,4,4,4,4],[4,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[3,4,4,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[3,7,7,4,4,4,4,4,4,4,2,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4],[-1,-1,-1,3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,4,4,4,4],[-1,-1,-1,3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,6,7,7,7,7,7,7,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,6,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[3,4,4,4,4,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4],[3,4,4,4,4,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[3,4,4,4,4,4,4,4,4,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],[-1,7,7,7,6,4,4,4,8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4]]}]}"
             }
           ],
           "initialVariables": []
@@ -54203,7 +59293,7 @@
           "stringProperties": [
             {
               "name": "tilemap",
-              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":2,\"dimY\":1,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[7,7]]}]}"
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":2,\"dimY\":1,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,0]]}]}"
             }
           ],
           "initialVariables": []
@@ -54363,9 +59453,9 @@
           "name": "Arbol",
           "persistentUuid": "4d5b6c86-9a4d-4770-80d6-4bea2023527c",
           "width": 132,
-          "x": 27,
-          "y": 324,
-          "zOrder": 324,
+          "x": -37,
+          "y": 388,
+          "zOrder": 388,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -54815,8 +59905,8 @@
           "persistentUuid": "d9547f70-b004-46c6-9908-9f86fd7e5af7",
           "width": 0,
           "x": 189,
-          "y": 246,
-          "zOrder": 246,
+          "y": 310,
+          "zOrder": 310,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -67470,8 +72560,8 @@
           "persistentUuid": "29cce5cc-8b48-4e9f-8dfb-556e43129a14",
           "width": 0,
           "x": 974,
-          "y": 375,
-          "zOrder": 375,
+          "y": 535,
+          "zOrder": 535,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -67485,9 +72575,9 @@
           "name": "Arbol_3",
           "persistentUuid": "b00cd120-1318-4a6b-8b70-6f1afaf9bd66",
           "width": 0,
-          "x": 974,
-          "y": 414,
-          "zOrder": 414,
+          "x": 878,
+          "y": 318,
+          "zOrder": 318,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -67582,9 +72672,9 @@
           "name": "Arbol",
           "persistentUuid": "54807ebd-b21a-4598-8ff0-affbc2edc3f3",
           "width": 0,
-          "x": 724,
-          "y": 532,
-          "zOrder": 532,
+          "x": 820,
+          "y": 628,
+          "zOrder": 628,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -67726,8 +72816,8 @@
           "persistentUuid": "1060abaa-4b49-440d-8678-c2fc47551035",
           "width": 0,
           "x": 1221,
-          "y": -192,
-          "zOrder": -192,
+          "y": -240,
+          "zOrder": -240,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -67741,9 +72831,9 @@
           "name": "Arbol_2",
           "persistentUuid": "490397c9-0ec2-4eca-bc50-800a8ca7163a",
           "width": 0,
-          "x": 1223,
-          "y": -155,
-          "zOrder": -155,
+          "x": 1143,
+          "y": -75,
+          "zOrder": -75,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -75256,6 +80346,27 @@
                 "=",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Regando",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
             }
           ],
           "actions": [],
@@ -75921,6 +81032,16 @@
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "Pescando",
+                "False",
+                ""
+              ]
             }
           ],
           "actions": [],
@@ -84001,7 +89122,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Izquierda\""
+                    "\"Hacha Izquierda\""
                   ]
                 }
               ],
@@ -84084,7 +89205,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Derecha\""
+                    "\"Hacha Derecha\""
                   ]
                 }
               ],
@@ -84167,7 +89288,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Arriba\""
+                    "\"Hacha Arriba\""
                   ]
                 }
               ],
@@ -84250,7 +89371,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Abajo\""
+                    "\"Hacha Abajo\""
                   ]
                 }
               ],
@@ -84363,7 +89484,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Izquierda\""
+                    "\"Azadon Izquierda\""
                   ]
                 }
               ],
@@ -84446,7 +89567,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Derecha\""
+                    "\"Azadon Derecha\""
                   ]
                 }
               ],
@@ -84529,7 +89650,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Arriba\""
+                    "\"Azadon Arriba\""
                   ]
                 }
               ],
@@ -84612,7 +89733,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Abajo\""
+                    "\"Azadon Abajo\""
                   ]
                 }
               ],
@@ -84725,7 +89846,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Izquierda\""
+                    "\"Pico Izquierda\""
                   ]
                 }
               ],
@@ -84808,7 +89929,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Derecha\""
+                    "\"Pico Derecha\""
                   ]
                 }
               ],
@@ -84891,7 +90012,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Arriba\""
+                    "\"Pico Arriba\""
                   ]
                 }
               ],
@@ -84974,7 +90095,7 @@
                     "Personaje_jugador",
                     "Animation",
                     "=",
-                    "\"Ataque Abajo\""
+                    "\"Pico Abajo\""
                   ]
                 }
               ],
@@ -85025,6 +90146,368 @@
                       "parameters": [
                         "Personaje_jugador",
                         "Picando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Regando",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Animation"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Animation",
+                    "=",
+                    "\"Regar Izquierda\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation",
+                        "=",
+                        "\"Izquierda\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Regando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Animation",
+                    "=",
+                    "\"Regar Derecha\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation",
+                        "=",
+                        "\"Derecha\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Regando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Animation",
+                    "=",
+                    "\"Regar Arriba\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation",
+                        "=",
+                        "\"Arriba\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Regando",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Direccion",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Animation",
+                    "=",
+                    "\"Regar Abajo\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Animation",
+                        "=",
+                        "\"Abajo\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Personaje_jugador",
+                        "Regando",
                         "False",
                         ""
                       ]
@@ -103834,6 +109317,17 @@
                 "no",
                 "60",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Regando",
+                "True",
+                ""
               ]
             }
           ]
