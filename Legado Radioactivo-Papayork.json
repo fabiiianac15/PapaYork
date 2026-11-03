@@ -6010,6 +6010,22 @@
         "name": "Natural/Pesca/Linea.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/UI/CorazonVacio.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/CorazonVacio.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/UI/CorazonLleno.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/UI/CorazonLleno.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -30763,6 +30779,293 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Corazon",
+      "persistentUuid": "903c68ff-018c-438b-b6b0-0c21eb0cc827",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Vecino",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "N",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Vacio",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/UI/CorazonVacio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lleno",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/UI/CorazonLleno.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "RetratoMini",
+      "persistentUuid": "44f6a541-a6b6-40c1-b24e-7934aacf1c02",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Rosa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Retratos/Rosa.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fermin",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Retratos/Fermin.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ramiro",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Retratos/Ramiro.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lupita",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Retratos/Lupita.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tomas",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Retratos/Tomas.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "CorazonSube",
+      "persistentUuid": "a8d8d51f-4dad-4875-92d9-b3a7d53ba807",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "N",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/UI/CorazonLleno.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -31155,6 +31458,15 @@
       },
       {
         "objectName": "LineaPesca"
+      },
+      {
+        "objectName": "Corazon"
+      },
+      {
+        "objectName": "RetratoMini"
+      },
+      {
+        "objectName": "CorazonSube"
       }
     ]
   },
@@ -35410,6 +35722,597 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Rosa_0",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "¡Hola, Pedro! Qué gusto verte por el pueblo."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Tengo semillas frescas y te compro todo lo que coseches. ¡Pasa, pasa!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fermin_0",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "¡Pedro! ¿Vienes por una mejora?"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Tráeme lingotes y monedas, y te forjo herramientas que no le temen a ninguna papa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ramiro_0",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "¡Pedro Gutiérrez! El tataranieto de HetolMimiao. Bienvenido a Papayork."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Desde que volvió la radiación, las papas mutantes no nos dejan en paz."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Si limpias el valle, Papayork volverá a ser lo que era. ¡Cuento contigo!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lupita_0",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "¿Tú eres el de la granja? ¡Mi abuelo dice que allá las papas brillan de noche!"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Si encuentras una papa radiactiva bonita... ¿me la enseñas? ¡Prometo no comérmela!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tomas_0",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Ah, joven Pedro. Pesco en este lago desde antes de que nacieras."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Dicen que en el fondo del bosque hay una cueva... y que de ahí sale la radiación."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Yo que tú, me prepararía bien antes de ir a husmear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rosa_2",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Ya te conozco la cara de hambre, Pedro. Come bien, que el campo cobra."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Riega temprano. La tierra agradece más la mañana que la tarde."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rosa_4",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Tu tatarabuelo me compraba semillas a mí... bueno, a mi abuela. Decía que una papa bien cuidada nunca traiciona."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Por eso me da miedo lo que les pasa ahora. Algo las está cambiando desde abajo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fermin_2",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "No hablo mucho, muchacho. Pero tus herramientas se ven usadas, y eso me gusta."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Tráeme hierro del bosque y verás lo que sale de este yunque."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fermin_4",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Yo mismo ayudé a sellar la cueva del bosque, hace años. Esas rocas no se pusieron solas."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Fermin"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Con un buen pico y un núcleo radiactivo se podría abrir. Pero piensa bien si quieres ver lo que hay adentro."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ramiro_2",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Debo admitirlo: el pueblo habla bien de usted, joven Gutiérrez."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Si sigue así, hasta le pongo una placa. Pequeña, claro. El presupuesto no da."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ramiro_4",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Entre nosotros: los informes del reactor nunca se cerraron del todo."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Ramiro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Hay una caja con papeles en la alcaldía. Tal vez algún día deba leerlos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lupita_2",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "¿Sabías que las papas chiquitas se esconden cuando pasas? ¡Yo las he visto!"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "No le digas a mi mamá que voy al bosque, ¿sí?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lupita_4",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Eres mi mejor amigo grande, Pedro."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Lupita"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Te voy a contar un secreto: de noche la cueva brilla verde. ¡Yo la vi desde el puente!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tomas_2",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Pescar es esperar sin apurarse. Lo mismo vale para casi todo."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "En el río hay uno grande, viejo y mañoso. Le dicen el Rey Tubérculo. A mí nunca me dejó ganarle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tomas_4",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Yo estaba aquí la noche del reactor, ¿sabes? La luz se veía desde el lago."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Tomas"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Tu familia se fue y yo me quedé. Alguien tenía que acordarse de cómo era esto antes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RegaloTemp",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Rosa"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -36188,6 +37091,539 @@
     },
     {
       "name": "TallaPez",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "Amistad",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Rosa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Puntos",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "HabloHoy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "RegalosHoy",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "RegalosSemana",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Premio2",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "name": "Fermin",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Puntos",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "HabloHoy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "RegalosHoy",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "RegalosSemana",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Premio2",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "name": "Ramiro",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Puntos",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "HabloHoy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "RegalosHoy",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "RegalosSemana",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Premio2",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "name": "Lupita",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Puntos",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "HabloHoy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "RegalosHoy",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "RegalosSemana",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Premio2",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "name": "Tomas",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Puntos",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "HabloHoy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "RegalosHoy",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "RegalosSemana",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Premio2",
+              "type": "boolean",
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gustos",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Rosa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ama",
+              "type": "string",
+              "value": "|Zanahorias|PezPapa|"
+            },
+            {
+              "name": "Gusta",
+              "type": "string",
+              "value": "|Papa|Carpita|Fibra|Hongo|"
+            },
+            {
+              "name": "Disgusta",
+              "type": "string",
+              "value": "|Piedra|Carbon|"
+            },
+            {
+              "name": "Odia",
+              "type": "string",
+              "value": "|PapaRadiactiva|Mojarra|"
+            },
+            {
+              "name": "PremioId",
+              "type": "string",
+              "value": "Abono"
+            },
+            {
+              "name": "PremioCant",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "FraseAma",
+              "type": "string",
+              "value": "¡Ay, mijo! Esto es justo lo que necesitaba. Eres un sol."
+            },
+            {
+              "name": "FraseGusta",
+              "type": "string",
+              "value": "Qué detalle, gracias. Lo voy a poner en el puesto."
+            },
+            {
+              "name": "FraseDisgusta",
+              "type": "string",
+              "value": "Bueno... gracias, supongo."
+            },
+            {
+              "name": "FraseOdia",
+              "type": "string",
+              "value": "¡Saca eso de mi puesto! ¿Quieres espantar a los clientes?"
+            },
+            {
+              "name": "FraseNeutra",
+              "type": "string",
+              "value": "Muchas gracias, Pedro."
+            }
+          ]
+        },
+        {
+          "name": "Fermin",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ama",
+              "type": "string",
+              "value": "|LingoteHierro|Cristal|"
+            },
+            {
+              "name": "Gusta",
+              "type": "string",
+              "value": "|LingoteCobre|Carbon|Hierro|Cobre|"
+            },
+            {
+              "name": "Disgusta",
+              "type": "string",
+              "value": "|Zanahorias|Fibra|"
+            },
+            {
+              "name": "Odia",
+              "type": "string",
+              "value": "|Hongo|PezPapa|"
+            },
+            {
+              "name": "PremioId",
+              "type": "string",
+              "value": "Carbon"
+            },
+            {
+              "name": "PremioCant",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "FraseAma",
+              "type": "string",
+              "value": "¡Por el yunque! Esto sí es material de verdad."
+            },
+            {
+              "name": "FraseGusta",
+              "type": "string",
+              "value": "Buen material. Me sirve."
+            },
+            {
+              "name": "FraseDisgusta",
+              "type": "string",
+              "value": "Mmm. Esto no se forja."
+            },
+            {
+              "name": "FraseOdia",
+              "type": "string",
+              "value": "¿Me estás tomando el pelo, muchacho?"
+            },
+            {
+              "name": "FraseNeutra",
+              "type": "string",
+              "value": "Hm. Gracias."
+            }
+          ]
+        },
+        {
+          "name": "Ramiro",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ama",
+              "type": "string",
+              "value": "|Trucha|Cristal|"
+            },
+            {
+              "name": "Gusta",
+              "type": "string",
+              "value": "|Papa|Carpita|Bagre|"
+            },
+            {
+              "name": "Disgusta",
+              "type": "string",
+              "value": "|Fibra|Resina|"
+            },
+            {
+              "name": "Odia",
+              "type": "string",
+              "value": "|PapaRadiactiva|Nucleo|"
+            },
+            {
+              "name": "PremioId",
+              "type": "string",
+              "value": "Antorcha"
+            },
+            {
+              "name": "PremioCant",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "FraseAma",
+              "type": "string",
+              "value": "¡Extraordinario! Lo mencionaré en el próximo discurso."
+            },
+            {
+              "name": "FraseGusta",
+              "type": "string",
+              "value": "El pueblo agradece su gesto, joven Gutiérrez."
+            },
+            {
+              "name": "FraseDisgusta",
+              "type": "string",
+              "value": "Ah... qué... particular."
+            },
+            {
+              "name": "FraseOdia",
+              "type": "string",
+              "value": "¡Esto es radiactivo! ¡Llamen al consejo!"
+            },
+            {
+              "name": "FraseNeutra",
+              "type": "string",
+              "value": "Un gesto cívico. Gracias."
+            }
+          ]
+        },
+        {
+          "name": "Lupita",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ama",
+              "type": "string",
+              "value": "|Hongo|PezPapa|"
+            },
+            {
+              "name": "Gusta",
+              "type": "string",
+              "value": "|Zanahorias|Mojarra|Fibra|"
+            },
+            {
+              "name": "Disgusta",
+              "type": "string",
+              "value": "|Carbon|Piedra|"
+            },
+            {
+              "name": "Odia",
+              "type": "string",
+              "value": "|Bagre|Anguila|"
+            },
+            {
+              "name": "PremioId",
+              "type": "string",
+              "value": "Semillas de Papa"
+            },
+            {
+              "name": "PremioCant",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "FraseAma",
+              "type": "string",
+              "value": "¡¿Para mí?! ¡Es lo mejor del mundo mundial!"
+            },
+            {
+              "name": "FraseGusta",
+              "type": "string",
+              "value": "¡Qué chévere! Gracias, Pedro."
+            },
+            {
+              "name": "FraseDisgusta",
+              "type": "string",
+              "value": "Ew. Pero bueno, gracias."
+            },
+            {
+              "name": "FraseOdia",
+              "type": "string",
+              "value": "¡Guácala! ¡Eso huele horrible!"
+            },
+            {
+              "name": "FraseNeutra",
+              "type": "string",
+              "value": "¡Gracias!"
+            }
+          ]
+        },
+        {
+          "name": "Tomas",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Ama",
+              "type": "string",
+              "value": "|Anguila|Lucio|ReyTuberculo|"
+            },
+            {
+              "name": "Gusta",
+              "type": "string",
+              "value": "|Bagre|Carpita|Trucha|Papa|"
+            },
+            {
+              "name": "Disgusta",
+              "type": "string",
+              "value": "|Cristal|Cobre|"
+            },
+            {
+              "name": "Odia",
+              "type": "string",
+              "value": "|Nucleo|Resina|"
+            },
+            {
+              "name": "PremioId",
+              "type": "string",
+              "value": "Trucha"
+            },
+            {
+              "name": "PremioCant",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "name": "FraseAma",
+              "type": "string",
+              "value": "Ahh... este lo pesqué una vez, cuando tenía tu edad. Gracias, hijo."
+            },
+            {
+              "name": "FraseGusta",
+              "type": "string",
+              "value": "Buen ejemplar. Se ve que tienes paciencia."
+            },
+            {
+              "name": "FraseDisgusta",
+              "type": "string",
+              "value": "No tengo dientes para esto, muchacho."
+            },
+            {
+              "name": "FraseOdia",
+              "type": "string",
+              "value": "Eso no debería existir. Devuélvelo a donde lo sacaste."
+            },
+            {
+              "name": "FraseNeutra",
+              "type": "string",
+              "value": "Gracias, hijo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VecinoIter",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Puntos",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "HabloHoy",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "RegalosHoy",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "RegalosSemana",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Premio2",
+          "type": "boolean",
+          "value": false
+        }
+      ]
+    },
+    {
+      "name": "ClaveVecino",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "VecinoActual",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "DialogoVecino",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "name": "PuntosRegalo",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "CorazonesHoy",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PremioFalta",
       "type": "number",
       "value": 0
     }
@@ -42096,6 +43532,15 @@
           "actions": [
             {
               "type": {
+                "value": "JSONToGlobalVariableStructure"
+              },
+              "parameters": [
+                "\"{\\\"Rosa\\\":{\\\"Puntos\\\":0,\\\"HabloHoy\\\":false,\\\"RegalosHoy\\\":0,\\\"RegalosSemana\\\":0,\\\"Premio2\\\":false},\\\"Fermin\\\":{\\\"Puntos\\\":0,\\\"HabloHoy\\\":false,\\\"RegalosHoy\\\":0,\\\"RegalosSemana\\\":0,\\\"Premio2\\\":false},\\\"Ramiro\\\":{\\\"Puntos\\\":0,\\\"HabloHoy\\\":false,\\\"RegalosHoy\\\":0,\\\"RegalosSemana\\\":0,\\\"Premio2\\\":false},\\\"Lupita\\\":{\\\"Puntos\\\":0,\\\"HabloHoy\\\":false,\\\"RegalosHoy\\\":0,\\\"RegalosSemana\\\":0,\\\"Premio2\\\":false},\\\"Tomas\\\":{\\\"Puntos\\\":0,\\\"HabloHoy\\\":false,\\\"RegalosHoy\\\":0,\\\"RegalosSemana\\\":0,\\\"Premio2\\\":false}}\"",
+                "Amistad"
+              ]
+            },
+            {
+              "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
@@ -42768,6 +44213,42 @@
                   "parameters": [
                     "TempTexto",
                     "Granja"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/Amistad\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/Amistad\"",
+                    "",
+                    "TempTexto"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "JSONToGlobalVariableStructure"
+                  },
+                  "parameters": [
+                    "TempTexto",
+                    "Amistad"
                   ]
                 }
               ]
@@ -85414,6 +86895,13 @@
           "include": {
             "includeConfig": 0
           },
+          "target": "Amistad"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
           "target": "Tienda"
         },
         {
@@ -100607,6 +102095,16 @@
                 },
                 {
                   "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraActual) + \"/Amistad\"",
+                    "ToJSON(Amistad)"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetStringVariable"
                   },
                   "parameters": [
@@ -101341,16 +102839,6 @@
             },
             {
               "type": {
-                "value": "SetStringVariable"
-              },
-              "parameters": [
-                "DialogoPedido",
-                "=",
-                "NPC.Tienda"
-              ]
-            },
-            {
-              "type": {
                 "value": "SetBooleanVariable"
               },
               "parameters": [
@@ -101371,7 +102859,7 @@
               "parameters": [
                 "DialogoTerminado",
                 "=",
-                "TipoTienda"
+                "DialogoVecino"
               ]
             },
             {
@@ -101401,6 +102889,16 @@
               "parameters": [
                 "Tiendas",
                 "TipoTienda"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "DialogoVecino",
+                "!=",
+                "\"\""
               ]
             }
           ],
@@ -101584,6 +103082,16 @@
               },
               "parameters": [
                 "DialogoTerminado",
+                "=",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "DialogoVecino",
                 "=",
                 "\"\""
               ]
@@ -111342,6 +112850,96 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEachChildVariable",
+              "iterableVariableName": "Amistad",
+              "valueIteratorVariableName": "VecinoIter",
+              "keyIteratorVariableName": "ClaveVecino",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "VecinoIter.HabloHoy",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[ClaveVecino].Puntos",
+                        "=",
+                        "max(0, Amistad[ClaveVecino].Puntos - 2)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Amistad[ClaveVecino].HabloHoy",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[ClaveVecino].RegalosHoy",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "mod(Calendario.DiaTotal, 7)",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[ClaveVecino].RegalosSemana",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -115638,6 +117236,1907 @@
                     "yes"
                   ]
                 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "Amistad",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "AMISTAD. Amistad[nombre] guarda Puntos (250 = un corazon, maximo 5), HabloHoy, regalos y premio. F entrega el objeto de la mano al vecino cercano."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Corazon"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "RetratoMini"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Pestana",
+                    "=",
+                    "\"Vecinos\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::Text::SetFontSize"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "=",
+                    "11"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "\"70;40;20\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::Text::SetOutlineEnabled"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"TituloVecinos\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Vecinos de Papayork\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::Text::SetFontSize"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "=",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "\"70;40;20\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Hablar al abrir el dialogo: el primero del dia da 20 puntos. El dialogo cambia con la amistad"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "IsCursorOnObject"
+              },
+              "parameters": [
+                "NPC",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), NPC.X(), NPC.Y())",
+                "<",
+                "60"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "VecinoActual",
+                "=",
+                "NPC.Animation::Name()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "DialogoVecino",
+                    "=",
+                    "VecinoActual + \"_\" + ToString(min(4, floor(Amistad[VecinoActual].Puntos / 500) * 2))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "DialogoPedido",
+                    "=",
+                    "DialogoVecino"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].HabloHoy",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].HabloHoy",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].Puntos",
+                    "=",
+                    "min(1249, Amistad[VecinoActual].Puntos + 20)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "CorazonSube",
+                    "NPC.X() + 10",
+                    "NPC.Y() - 28",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "CorazonSube",
+                    "=",
+                    "90000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "CorazonSube",
+                    "Tween",
+                    "\"Subir\"",
+                    "CorazonSube.Y() - 24",
+                    "\"easeOutQuad\"",
+                    "1.1",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "CorazonSube",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "1.3",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].Puntos",
+                    ">=",
+                    "500"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].Premio2",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].Premio2",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Repeat",
+                  "repeatExpression": "Gustos[VecinoActual].PremioCant",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Recursos",
+                        "Personaje_jugador.X() - 16",
+                        "Personaje_jugador.Y() - 30",
+                        "\"\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Recursos",
+                        "Gustos[VecinoActual].PremioId"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "TextoFlotante",
+                        "Personaje_jugador.CenterX() - 40",
+                        "Personaje_jugador.Y() - 58",
+                        "\"\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "TextoFlotante",
+                        "Text",
+                        "=",
+                        "\"¡Te dio un regalo!\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextObject::ChangeColor"
+                      },
+                      "parameters": [
+                        "TextoFlotante",
+                        "\"251;242;54\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetZOrder"
+                      },
+                      "parameters": [
+                        "TextoFlotante",
+                        "=",
+                        "100000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                      },
+                      "parameters": [
+                        "TextoFlotante",
+                        "Tween",
+                        "\"Subir\"",
+                        "TextoFlotante.Y() - 20",
+                        "\"easeOutQuad\"",
+                        "2",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "TextoFlotante",
+                        "Tween",
+                        "\"Desaparecer\"",
+                        "0",
+                        "\"easeInQuad\"",
+                        "2.8",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Regalar con F"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "DialogoAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"f\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PickNearest"
+              },
+              "parameters": [
+                "NPC",
+                "Personaje_jugador.X()",
+                "Personaje_jugador.Y()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), NPC.X(), NPC.Y())",
+                "<",
+                "60"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "!=",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Items[ItemEnMano].Tipo",
+                "!=",
+                "\"Herramienta\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "Mochila[RanuraSeleccionada].Cantidad",
+                ">=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "VecinoActual",
+                "=",
+                "NPC.Animation::Name()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].RegalosHoy",
+                    ">=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "Personaje_jugador.CenterX() - 40",
+                    "Personaje_jugador.Y() - 58",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"Ya le diste un regalo hoy\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"230;170;60\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "1.4",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "2.2",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].RegalosHoy",
+                    "<",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].RegalosSemana",
+                    ">=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "Personaje_jugador.CenterX() - 40",
+                    "Personaje_jugador.Y() - 58",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"Ya van dos regalos esta semana\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"230;170;60\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "1.4",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "2.2",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].RegalosHoy",
+                    "<",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Amistad[VecinoActual].RegalosSemana",
+                    "<",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "PuntosRegalo",
+                    "=",
+                    "20"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Dialogos.RegaloTemp[0].Quien",
+                    "=",
+                    "VecinoActual"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Dialogos.RegaloTemp[0].Texto",
+                    "=",
+                    "Gustos[VecinoActual].FraseNeutra"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "StrFind(Gustos[VecinoActual].Ama, \"|\" + ItemEnMano + \"|\")",
+                        "!=",
+                        "-1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PuntosRegalo",
+                        "=",
+                        "80"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Dialogos.RegaloTemp[0].Texto",
+                        "=",
+                        "Gustos[VecinoActual].FraseAma"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "StrFind(Gustos[VecinoActual].Gusta, \"|\" + ItemEnMano + \"|\")",
+                        "!=",
+                        "-1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PuntosRegalo",
+                        "=",
+                        "45"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Dialogos.RegaloTemp[0].Texto",
+                        "=",
+                        "Gustos[VecinoActual].FraseGusta"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "StrFind(Gustos[VecinoActual].Disgusta, \"|\" + ItemEnMano + \"|\")",
+                        "!=",
+                        "-1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PuntosRegalo",
+                        "=",
+                        "-20"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Dialogos.RegaloTemp[0].Texto",
+                        "=",
+                        "Gustos[VecinoActual].FraseDisgusta"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "StrFind(Gustos[VecinoActual].Odia, \"|\" + ItemEnMano + \"|\")",
+                        "!=",
+                        "-1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PuntosRegalo",
+                        "=",
+                        "-40"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "Dialogos.RegaloTemp[0].Texto",
+                        "=",
+                        "Gustos[VecinoActual].FraseOdia"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[VecinoActual].Puntos",
+                        "=",
+                        "max(0, min(1249, Amistad[VecinoActual].Puntos + PuntosRegalo))"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[VecinoActual].RegalosHoy",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Amistad[VecinoActual].RegalosSemana",
+                        "+",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Mochila[RanuraSeleccionada].Cantidad",
+                        "-",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "DialogoPedido",
+                        "=",
+                        "\"RegaloTemp\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "DialogoPausa",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "DialogoVecino",
+                        "=",
+                        "\"\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "PuntosRegalo",
+                        ">",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "CorazonSube",
+                        "NPC.X() + 10",
+                        "NPC.Y() - 28",
+                        "\"\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetZOrder"
+                      },
+                      "parameters": [
+                        "CorazonSube",
+                        "=",
+                        "90000"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                      },
+                      "parameters": [
+                        "CorazonSube",
+                        "Tween",
+                        "\"Subir\"",
+                        "CorazonSube.Y() - 24",
+                        "\"easeOutQuad\"",
+                        "1.1",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                      },
+                      "parameters": [
+                        "CorazonSube",
+                        "Tween",
+                        "\"Desaparecer\"",
+                        "0",
+                        "\"easeInQuad\"",
+                        "1.3",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Aviso cerca de un vecino"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "AvisoNPC"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "!=",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Items[ItemEnMano].Tipo",
+                "!=",
+                "\"Herramienta\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "AvisoNPC",
+                "Text",
+                "=",
+                "\"Clic: hablar   F: regalar\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "AvisoNPC"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "ItemEnMano",
+                "=",
+                "\"\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "AvisoNPC",
+                "Text",
+                "=",
+                "\"Clic: hablar\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Visible"
+              },
+              "parameters": [
+                "AvisoNPC"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Items[ItemEnMano].Tipo",
+                "=",
+                "\"Herramienta\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "AvisoNPC",
+                "Text",
+                "=",
+                "\"Clic: hablar\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pestana de vecinos: corazones y estado"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "VerPausa",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "PestanaActual",
+                "=",
+                "\"Vecinos\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "Corazon",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "RetratoMini",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Corazon",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Corazon",
+                    "\"Vacio\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Amistad[Corazon.Vecino].Puntos",
+                        ">=",
+                        "Corazon.N * 250"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Corazon",
+                        "\"Lleno\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"NombreRosa\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "NombresPersonajes.Rosa"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoRosa\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Regalos \" + ToString(Amistad.Rosa.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoRosa\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad.Rosa.HabloHoy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Hablaron hoy  \" + ToString(Amistad.Rosa.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"NombreFermin\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "NombresPersonajes.Fermin"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoFermin\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Regalos \" + ToString(Amistad.Fermin.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoFermin\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad.Fermin.HabloHoy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Hablaron hoy  \" + ToString(Amistad.Fermin.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"NombreRamiro\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "NombresPersonajes.Ramiro"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoRamiro\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Regalos \" + ToString(Amistad.Ramiro.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoRamiro\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad.Ramiro.HabloHoy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Hablaron hoy  \" + ToString(Amistad.Ramiro.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"NombreLupita\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "NombresPersonajes.Lupita"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoLupita\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Regalos \" + ToString(Amistad.Lupita.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoLupita\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad.Lupita.HabloHoy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Hablaron hoy  \" + ToString(Amistad.Lupita.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"NombreTomas\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "NombresPersonajes.Tomas"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoTomas\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Regalos \" + ToString(Amistad.Tomas.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Clave",
+                    "=",
+                    "\"EstadoTomas\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Amistad.Tomas.HabloHoy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoPausa",
+                    "Text",
+                    "=",
+                    "\"Hablaron hoy  \" + ToString(Amistad.Tomas.RegalosSemana) + \"/2\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "VerPausa",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Corazon"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "RetratoMini"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "PestanaActual",
+                "!=",
+                "\"Vecinos\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "Corazon"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "RetratoMini"
               ]
             }
           ]
@@ -134583,6 +138082,1138 @@
               "name": "SX",
               "type": "number",
               "value": 345
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "bd21d3ed-6723-43b4-8018-239d52710a1e",
+          "width": 0,
+          "x": 66,
+          "y": 46,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "TituloVecinos"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "RetratoMini",
+          "persistentUuid": "66487dcf-d384-4bf5-a19c-82ef06f6a426",
+          "width": 24,
+          "x": 66,
+          "y": 62,
+          "zOrder": 556,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "5141f47b-4a02-46e3-8a0f-d3d7d047ea53",
+          "width": 0,
+          "x": 96,
+          "y": 68,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "NombreRosa"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "0be94cc1-bd9f-4906-8b5b-ebfffda30efe",
+          "width": 0,
+          "x": 290,
+          "y": 68,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "EstadoRosa"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "637963e1-19b6-49d5-96f5-1d7b54494089",
+          "width": 0,
+          "x": 190,
+          "y": 67,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Rosa"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "189dfe75-daca-43a5-bd62-90c93f6aa11d",
+          "width": 0,
+          "x": 208,
+          "y": 67,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Rosa"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "d96cc341-e756-4e98-bb98-e6aac5c716cb",
+          "width": 0,
+          "x": 226,
+          "y": 67,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Rosa"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "4b35869d-e76a-4ab8-a31a-9cdf1f2ca37d",
+          "width": 0,
+          "x": 244,
+          "y": 67,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Rosa"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "fa7c38ee-455a-4f58-b1d5-bbee7479266e",
+          "width": 0,
+          "x": 262,
+          "y": 67,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Rosa"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "RetratoMini",
+          "persistentUuid": "da623616-1af7-4310-b971-2b54a61e578a",
+          "width": 24,
+          "x": 66,
+          "y": 89,
+          "zOrder": 556,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "f4c34815-3e72-4bc9-85de-caa5d936e2fa",
+          "width": 0,
+          "x": 96,
+          "y": 95,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "NombreFermin"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "8e4956ac-13d2-45ac-b7d3-79016c89dbf8",
+          "width": 0,
+          "x": 290,
+          "y": 95,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "EstadoFermin"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "fb547eb9-101e-4d77-b2ca-7a4f705c5f54",
+          "width": 0,
+          "x": 190,
+          "y": 94,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Fermin"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "6cd8d4fa-777d-4b3f-8398-0aac910ce829",
+          "width": 0,
+          "x": 208,
+          "y": 94,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Fermin"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "283e8a7c-de8d-40cf-9fb7-f2b072fceb81",
+          "width": 0,
+          "x": 226,
+          "y": 94,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Fermin"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "d7f81f86-76d3-4f51-914d-d5d5207c44e3",
+          "width": 0,
+          "x": 244,
+          "y": 94,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Fermin"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "3cf0c112-e69c-4fd6-8f83-6587432aaed0",
+          "width": 0,
+          "x": 262,
+          "y": 94,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Fermin"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "RetratoMini",
+          "persistentUuid": "dc630456-090b-4ff8-87cd-492e86de55de",
+          "width": 24,
+          "x": 66,
+          "y": 116,
+          "zOrder": 556,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "a1c421a3-1ba1-4660-84a8-a35ba43c9ea5",
+          "width": 0,
+          "x": 96,
+          "y": 122,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "NombreRamiro"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "8da58f57-b7b6-4cde-9edb-71c4ff4b7195",
+          "width": 0,
+          "x": 290,
+          "y": 122,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "EstadoRamiro"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "2101c4de-8f82-438e-93ad-1e9002b561e8",
+          "width": 0,
+          "x": 190,
+          "y": 121,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Ramiro"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "1af655d1-7d79-4a8f-9951-75453fbab84b",
+          "width": 0,
+          "x": 208,
+          "y": 121,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Ramiro"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "5c2880b7-6271-4bea-a2e9-672ed0e35c9f",
+          "width": 0,
+          "x": 226,
+          "y": 121,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Ramiro"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "f711b65a-9a19-496b-b8bd-dd3d552a8189",
+          "width": 0,
+          "x": 244,
+          "y": 121,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Ramiro"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "633fc0fb-fe30-4ae5-b839-a125f2697976",
+          "width": 0,
+          "x": 262,
+          "y": 121,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Ramiro"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "RetratoMini",
+          "persistentUuid": "8d365402-2790-4f84-b97d-7f10bb74ba28",
+          "width": 24,
+          "x": 66,
+          "y": 143,
+          "zOrder": 556,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 3
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "855d1ee8-c944-4e12-bfc8-b664ffeb6d1f",
+          "width": 0,
+          "x": 96,
+          "y": 149,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "NombreLupita"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "6dc3d5cf-9b15-45cd-afb2-0be7adab0ffa",
+          "width": 0,
+          "x": 290,
+          "y": 149,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "EstadoLupita"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "e2853e89-3b25-4a2c-b845-ee8dc1b4c4ed",
+          "width": 0,
+          "x": 190,
+          "y": 148,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Lupita"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "6ae7e9d3-25f9-4e45-8edf-7de13ca9c238",
+          "width": 0,
+          "x": 208,
+          "y": 148,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Lupita"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "edaac7f2-ed52-408d-88a1-9fca16b54ac8",
+          "width": 0,
+          "x": 226,
+          "y": 148,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Lupita"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "2b903fec-1679-4e84-bb8d-e60c9fecd0d2",
+          "width": 0,
+          "x": 244,
+          "y": 148,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Lupita"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "6ec663c3-0234-42eb-96c2-a4322526f3e1",
+          "width": 0,
+          "x": 262,
+          "y": 148,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Lupita"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "RetratoMini",
+          "persistentUuid": "4624a908-61da-42c0-ad2c-912618300537",
+          "width": 24,
+          "x": 66,
+          "y": 170,
+          "zOrder": 556,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "eff98dea-b889-4d05-9eef-03f64814779f",
+          "width": 0,
+          "x": 96,
+          "y": 176,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "NombreTomas"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "TextoPausa",
+          "persistentUuid": "fe684d51-420d-4ade-a277-17a87ae973fa",
+          "width": 0,
+          "x": 290,
+          "y": 176,
+          "zOrder": 560,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Clave",
+              "type": "string",
+              "value": "EstadoTomas"
+            },
+            {
+              "name": "Pestana",
+              "type": "string",
+              "value": "Vecinos"
+            },
+            {
+              "name": "CX",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "e75ceef6-050c-4658-aeda-6f8c1359fcbb",
+          "width": 0,
+          "x": 190,
+          "y": 175,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Tomas"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "97fc0f6e-5382-4a84-99c4-361013adac3a",
+          "width": 0,
+          "x": 208,
+          "y": 175,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Tomas"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "f532705d-26b8-48d7-ac15-d21741dcda26",
+          "width": 0,
+          "x": 226,
+          "y": 175,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Tomas"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "d54365e6-0836-4966-9bf4-6eadda27dd2c",
+          "width": 0,
+          "x": 244,
+          "y": 175,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Tomas"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Inventario",
+          "name": "Corazon",
+          "persistentUuid": "71012f12-7895-4df3-8aee-7f0bb786c4bb",
+          "width": 0,
+          "x": 262,
+          "y": 175,
+          "zOrder": 556,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vecino",
+              "type": "string",
+              "value": "Tomas"
+            },
+            {
+              "name": "N",
+              "type": "number",
+              "value": 5
             }
           ]
         }
