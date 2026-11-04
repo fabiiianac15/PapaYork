@@ -8730,6 +8730,240 @@
         "name": "Natural/Salas/Biblioteca.png",
         "userAdded": true,
         "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Brotecito1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Brotecito1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Brotecito2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Brotecito2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Brotecito3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Brotecito3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Brotecito4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Brotecito4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Murcipapa1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Murcipapa1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Murcipapa2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Murcipapa2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Murcipapa3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Murcipapa3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Murcipapa4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Murcipapa4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Topapa1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Topapa1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Topapa2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Topapa2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Topapa3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Topapa3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Topapa4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Topapa4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Escarabajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Escarabajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Escarabajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Escarabajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Escarabajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Escarabajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Escarabajo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Escarabajo4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Golem1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Golem1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Golem2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Golem2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Golem3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Golem3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Golem4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Golem4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Espora1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Espora1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Espora2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Espora2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Espora3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Espora3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Espora4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Espora4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/EscaleraBajar.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/EscaleraBajar.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Atlas.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Atlas.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/Entrada.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/Entrada.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Mina/EscaleraSubir.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Mina/EscaleraSubir.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Audio/Profundidades.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Natural/Audio/Profundidades.ogg",
+        "userAdded": true,
+        "preloadAsMusic": false,
+        "preloadAsSound": true,
+        "preloadInCache": false
       }
     ]
   },
@@ -38197,6 +38431,102 @@
               ]
             }
           ]
+        },
+        {
+          "name": "EntradaMina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Entrada.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 74
+                      },
+                      {
+                        "x": 110,
+                        "y": 74
+                      },
+                      {
+                        "x": 110,
+                        "y": 84
+                      },
+                      {
+                        "x": 0,
+                        "y": 84
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EscaleraArriba",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/EscaleraSubir.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 22
+                      },
+                      {
+                        "x": 30,
+                        "y": 22
+                      },
+                      {
+                        "x": 30,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -38374,6 +38704,54 @@
                       {
                         "x": 4,
                         "y": 13
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EntradaMina",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Entrada.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 74
+                      },
+                      {
+                        "x": 110,
+                        "y": 74
+                      },
+                      {
+                        "x": 110,
+                        "y": 84
+                      },
+                      {
+                        "x": 0,
+                        "y": 84
                       }
                     ]
                   ]
@@ -40566,6 +40944,1098 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "EnemigoMina",
+      "persistentUuid": "3aff79cb-6937-48ef-bb1e-a68d96dda645",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "Tipo",
+          "type": "string",
+          "value": "Brotecito"
+        },
+        {
+          "name": "Vida",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Vel",
+          "type": "number",
+          "value": 30
+        },
+        {
+          "name": "Dano",
+          "type": "number",
+          "value": 5
+        },
+        {
+          "name": "Alcance",
+          "type": "number",
+          "value": 200
+        },
+        {
+          "name": "Iniciado",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Fase",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Brotecito",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Brotecito1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Brotecito2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Brotecito3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Brotecito4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 13,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 4
+                      },
+                      {
+                        "x": 23,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Murcipapa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Murcipapa1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 19,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Murcipapa2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 19,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Murcipapa3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 19,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Murcipapa4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 19,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 4
+                      },
+                      {
+                        "x": 35,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Topapa",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Topapa1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Topapa2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Topapa3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Topapa4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 16,
+                    "y": 26
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 29,
+                        "y": 26
+                      },
+                      {
+                        "x": 3,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Escarabajo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Escarabajo1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 17,
+                    "y": 24
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Escarabajo2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 17,
+                    "y": 24
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Escarabajo3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 17,
+                    "y": 24
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Escarabajo4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 17,
+                    "y": 24
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 2
+                      },
+                      {
+                        "x": 31,
+                        "y": 24
+                      },
+                      {
+                        "x": 3,
+                        "y": 24
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Golem",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Golem1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 26,
+                    "y": 54
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 54
+                      },
+                      {
+                        "x": 3,
+                        "y": 54
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Golem2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 26,
+                    "y": 54
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 54
+                      },
+                      {
+                        "x": 3,
+                        "y": 54
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Golem3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 26,
+                    "y": 54
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 54
+                      },
+                      {
+                        "x": 3,
+                        "y": 54
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Golem4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 26,
+                    "y": 54
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 32
+                      },
+                      {
+                        "x": 49,
+                        "y": 54
+                      },
+                      {
+                        "x": 3,
+                        "y": 54
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Espora",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.14,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Espora1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 30
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 30
+                      },
+                      {
+                        "x": 3,
+                        "y": 30
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Espora2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 30
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 30
+                      },
+                      {
+                        "x": 3,
+                        "y": 30
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Espora3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 30
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 30
+                      },
+                      {
+                        "x": 3,
+                        "y": 30
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Natural/Mina/Espora4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 15,
+                    "y": 30
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 8
+                      },
+                      {
+                        "x": 27,
+                        "y": 30
+                      },
+                      {
+                        "x": 3,
+                        "y": 30
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "EscaleraMina",
+      "persistentUuid": "6bdcbb19-fec3-4ebf-82a9-e8fc167727fa",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Bajar",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Natural/Mina/EscaleraBajar.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "MinaMapa",
+      "persistentUuid": "4cdcddbe-119c-4b83-b9bf-bc5f4d949493",
+      "type": "TileMap::SimpleTileMap",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "atlasImage": "Natural/Mina/Atlas.png",
+        "rowCount": 3,
+        "columnCount": 20,
+        "tileSize": 32,
+        "tilesWithHitBox": ""
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "TextoMina",
+      "persistentUuid": "ecf8802e-0687-49d5-a59a-a2949c8f43f6",
+      "smoothed": false,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Piso 1",
+      "font": "Fuentes/PixelifySans.ttf",
+      "textAlignment": "left",
+      "characterSize": 18,
+      "color": {
+        "r": 255,
+        "g": 236,
+        "b": 170
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "40;24;16",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": false,
+        "underlined": false,
+        "text": "Piso 1",
+        "font": "Fuentes/PixelifySans.ttf",
+        "textAlignment": "left",
+        "verticalTextAlignment": "top",
+        "characterSize": 18,
+        "lineHeight": 0,
+        "color": "255;236;170"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -40970,6 +42440,18 @@
       },
       {
         "objectName": "CasaN"
+      },
+      {
+        "objectName": "EnemigoMina"
+      },
+      {
+        "objectName": "EscaleraMina"
+      },
+      {
+        "objectName": "MinaMapa"
+      },
+      {
+        "objectName": "TextoMina"
       }
     ]
   },
@@ -47621,6 +49103,42 @@
               ]
             }
           ]
+        },
+        {
+          "name": "EvMina",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Pedro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Esta mina lleva años cerrada. Cada vez que entro parece distinta, como si la tierra se moviera."
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "Quien",
+                  "type": "string",
+                  "value": "Pedro"
+                },
+                {
+                  "name": "Texto",
+                  "type": "string",
+                  "value": "Rompiendo rocas o venciendo bichos a veces aparece una escalera. Cada cinco pisos hay un lugar seguro desde donde podré volver a empezar."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -52034,6 +53552,98 @@
               ]
             }
           ]
+        },
+        {
+          "name": "PrimeraMina",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Escena",
+              "type": "string",
+              "value": "Mina"
+            },
+            {
+              "name": "HoraMin",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "HoraMax",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "Personaje",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "PuntosMin",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "EventoPrevio",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "Marca",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "ZonaX",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "ZonaY",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "ZonaR",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Sala",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "Pasos",
+              "type": "array",
+              "children": [
+                {
+                  "type": "structure",
+                  "children": [
+                    {
+                      "name": "Cmd",
+                      "type": "string",
+                      "value": "hablar"
+                    },
+                    {
+                      "name": "A",
+                      "type": "string",
+                      "value": "EvMina"
+                    },
+                    {
+                      "name": "B",
+                      "type": "number",
+                      "value": 0
+                    },
+                    {
+                      "name": "C",
+                      "type": "number",
+                      "value": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -52168,6 +53778,308 @@
       "name": "PedroPantY",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "Enemigos",
+      "type": "structure",
+      "children": [
+        {
+          "name": "Brotecito",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 34
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 190
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Fibra"
+            }
+          ]
+        },
+        {
+          "name": "Murcipapa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 62
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 240
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 5
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 4
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Resina"
+            }
+          ]
+        },
+        {
+          "name": "Topapa",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 50
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 260
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 8
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Carbon"
+            }
+          ]
+        },
+        {
+          "name": "Escarabajo",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 14
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 44
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 8
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 230
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 8
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Cobre"
+            }
+          ]
+        },
+        {
+          "name": "Golem",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 22
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 300
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 18
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 14
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Hierro"
+            }
+          ]
+        },
+        {
+          "name": "Espora",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Vida",
+              "type": "number",
+              "value": 9
+            },
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 30
+            },
+            {
+              "name": "Dano",
+              "type": "number",
+              "value": 9
+            },
+            {
+              "name": "Alcance",
+              "type": "number",
+              "value": 240
+            },
+            {
+              "name": "Exp",
+              "type": "number",
+              "value": 12
+            },
+            {
+              "name": "Monedas",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "name": "Suelta",
+              "type": "string",
+              "value": "Cristal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MinaPiso",
+      "type": "number",
+      "value": 1
+    },
+    {
+      "name": "MinaCheckpoint",
+      "type": "number",
+      "value": 1
+    },
+    {
+      "name": "MinaGenerar",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "MinaEscalera",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "MinaRota",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "RocaX",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "RocaY",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "DistEn",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "GolpeEn",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "DistEsc",
+      "type": "number",
+      "value": 999
     }
   ],
   "layouts": [
@@ -58074,6 +59986,16 @@
           "actions": [
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MinaCheckpoint",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "JSONToGlobalVariableStructure"
               },
               "parameters": [
@@ -58764,6 +60686,42 @@
                   "parameters": [
                     "TempTexto",
                     "Granja"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/MinaCheckpoint\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ReadStringFromStorage"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraElegida) + \"/MinaCheckpoint\"",
+                    "",
+                    "TempTexto"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "JSONToGlobalVariableStructure"
+                  },
+                  "parameters": [
+                    "TempTexto",
+                    "MinaCheckpoint"
                   ]
                 }
               ]
@@ -78505,6 +80463,50 @@
           ],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "c3abee86-0189-4c79-af36-2a99a020f2c8",
+          "width": 0,
+          "x": 414,
+          "y": 932,
+          "zOrder": 872,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "06e2cf8a-76b8-4a43-93f6-b5f71e930d0c",
+          "width": 0,
+          "x": 354,
+          "y": 990,
+          "zOrder": 930,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
         }
       ],
       "objects": [],
@@ -85881,6 +87883,233 @@
           ],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Decorado",
+          "persistentUuid": "4c98eabb-8d3c-4c16-befb-9d700223f691",
+          "width": 0,
+          "x": 490,
+          "y": 36,
+          "zOrder": 120,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 4
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Interactivo",
+          "persistentUuid": "e0e1371f-2fbc-4a9d-976d-c5863f8942e8",
+          "width": 0,
+          "x": 529,
+          "y": 98,
+          "zOrder": 122,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 6
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Dialogo",
+              "type": "string",
+              "value": "Puerta"
+            },
+            {
+              "name": "Solido",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "DestEscena",
+              "type": "string",
+              "value": "Mina"
+            },
+            {
+              "name": "DestSala",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "DestX",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "DestY",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "55609b6d-0e43-4c89-ab83-0d761ebd3fee",
+          "width": 0,
+          "x": 342,
+          "y": 930,
+          "zOrder": 890,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "18bf3dd7-ce72-4452-b470-12c327ff4e8e",
+          "width": 0,
+          "x": 438,
+          "y": 1090,
+          "zOrder": 1050,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "8520aaf2-ac72-4ff0-8dd4-e192fbd2344f",
+          "width": 0,
+          "x": 1558,
+          "y": 290,
+          "zOrder": 250,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Murcipapa"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "d852adb1-086a-40c5-8dd8-a88b57e5cd03",
+          "width": 0,
+          "x": 1462,
+          "y": 578,
+          "zOrder": 538,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "c3ef57f6-00d9-4c7f-94ea-6727fd99e294",
+          "width": 0,
+          "x": 1686,
+          "y": 1154,
+          "zOrder": 1114,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "8242cb5b-37ef-4018-bfcf-9162bdadd252",
+          "width": 0,
+          "x": 726,
+          "y": 706,
+          "zOrder": 666,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Murcipapa"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "EnemigoMina",
+          "persistentUuid": "e9e1ea82-4b3d-45f8-b708-94621daac485",
+          "width": 0,
+          "x": 1398,
+          "y": 1186,
+          "zOrder": 1146,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Tipo",
+              "type": "string",
+              "value": "Brotecito"
+            }
+          ]
         }
       ],
       "objects": [],
@@ -113933,6 +116162,1538 @@
           "type": "YSort::YSort"
         }
       ]
+    },
+    {
+      "b": 16,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Pueblo",
+      "name": "Mina",
+      "r": 14,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 10,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 2.3200620959619918,
+        "windowMask": true,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "BarraVidaAnchoInicial",
+          "persistentUuid": "ca2f83e6-73e5-4075-a072-0f5f2e0a7477",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "GrupoVisible",
+          "persistentUuid": "ccc334d1-021a-4e1b-9357-f641d2914297",
+          "type": "string",
+          "value": "Barra"
+        },
+        {
+          "name": "RanuraAnterior",
+          "persistentUuid": "120e084d-c8fa-4518-a3d1-8abd24be7b6c",
+          "type": "number",
+          "value": -1
+        },
+        {
+          "name": "LimiteCamara",
+          "persistentUuid": "073535af-bfe2-414b-a371-eab64881c148",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Abajo",
+              "persistentUuid": "3e48afa8-ffef-407b-9072-5f2447f6c9ff",
+              "type": "number",
+              "value": 768
+            },
+            {
+              "name": "Arriba",
+              "persistentUuid": "906b88dd-084c-4390-a4c5-6155ff6a7309",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Derecha",
+              "persistentUuid": "ff787b0c-6ac0-4c6b-a0ea-bdb7077964b5",
+              "type": "number",
+              "value": 1280
+            },
+            {
+              "name": "Izquierda",
+              "persistentUuid": "9141dcf1-193d-4202-be30-c84f27e9000b",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "CeldaGranja",
+          "persistentUuid": "ea30115e-550d-4f62-b967-c8ca35d8c3df",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Abono",
+              "persistentUuid": "e443ba39-c864-4a05-9f10-feb8f939738b",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "Escena",
+              "persistentUuid": "30cffe78-7222-41da-b00f-72db76a38b9a",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "Etapa",
+              "persistentUuid": "82f5aee8-e28d-4b3f-a618-b303fd1e7e13",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Horas",
+              "persistentUuid": "c19ce6d1-63a0-44da-92b6-3f8a433dfa42",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Planta",
+              "persistentUuid": "6e9ee744-44e9-4504-894b-bc099e503b0c",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "X",
+              "persistentUuid": "82c99c8f-8da7-48cc-84c4-91555321c40a",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Y",
+              "persistentUuid": "825dfa0c-a580-4bf3-a1db-39a61cb8e333",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "ClaveGranja",
+          "persistentUuid": "34de1ad3-fd88-4d2a-9ecc-447f6f286dcb",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "CeldaConstr",
+          "persistentUuid": "4c302a7d-a549-4cc8-8f38-4ee72094f1b6",
+          "type": "structure",
+          "children": [
+            {
+              "name": "Escena",
+              "persistentUuid": "adae1495-5765-4f50-b202-954646527b74",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "Id",
+              "persistentUuid": "9a3d48ce-c471-48e4-a59d-b74ba5fb45df",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "X",
+              "persistentUuid": "71d7dc42-b67c-4240-943c-7662cdb13700",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "name": "Y",
+              "persistentUuid": "674185d7-5046-4924-ae1a-533ff78040ec",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "name": "ClaveConstr",
+          "persistentUuid": "a6c30fe9-84c5-4424-bb93-334f88395978",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "HoraVista",
+          "persistentUuid": "b60e5861-a3cc-4457-9674-cc4359bc2ed7",
+          "type": "number",
+          "value": -1
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MinaMapa",
+          "persistentUuid": "80355b38-d997-49d4-a5ae-86b8cd677ca9",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": -9000,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":40,\"dimY\":24,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Interactivo",
+          "persistentUuid": "6ca9ae66-b7ad-4d12-aeb6-232d5ff03100",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 10,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 35
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Dialogo",
+              "type": "string",
+              "value": "Puerta"
+            },
+            {
+              "name": "Solido",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "name": "DestEscena",
+              "type": "string",
+              "value": "Nivel 02"
+            },
+            {
+              "name": "DestSala",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "DestX",
+              "type": "number",
+              "value": 545
+            },
+            {
+              "name": "DestY",
+              "type": "number",
+              "value": 140
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Personaje_jugador",
+          "persistentUuid": "9c16be32-7c68-47f4-afbb-2a9f93ba9bb0",
+          "width": 0,
+          "x": 640,
+          "y": 400,
+          "zOrder": 403,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AvisoNPC",
+          "persistentUuid": "8bac99a0-dfa1-480d-af6f-017964e376a8",
+          "width": 0,
+          "x": -900,
+          "y": -900,
+          "zOrder": 100000,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "AvisoInteractivo",
+          "persistentUuid": "02349e01-3694-4cf6-a8d9-554eee789d33",
+          "width": 0,
+          "x": -900,
+          "y": -900,
+          "zOrder": 100000,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "UIHD",
+          "name": "TextoMina",
+          "persistentUuid": "606cf8bc-30e4-4ca4-912f-74fa0c12a49c",
+          "width": 0,
+          "x": 812,
+          "y": 80,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": []
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Zoom 2 en todas las capas: el juego se dibuja a 960x540 y la capa UIHD (barra y reloj) va sin zoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Luz Exterior\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "2",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Interfaz\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "240",
+                "\"Inventario\"",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "135",
+                "\"Inventario\"",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "MinaPiso",
+                "=",
+                "max(1, MinaCheckpoint)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MinaGenerar",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "LuzAntorcha",
+                "640",
+                "400",
+                "\"Luz Exterior\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "LuzAntorcha",
+                "Scale",
+                "=",
+                "3.4"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+              },
+              "parameters": [
+                "",
+                "\"Interfaz\"",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "MusicaActual",
+                    "!=",
+                    "\"Natural/Audio/Profundidades.ogg\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlayMusicOnChannel"
+                  },
+                  "parameters": [
+                    "",
+                    "Natural/Audio/Profundidades.ogg",
+                    "0",
+                    "yes",
+                    "VolumenMusica",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "MusicaActual",
+                    "=",
+                    "\"Natural/Audio/Profundidades.ogg\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PruebaZoom"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Personaje"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Herramientas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "MovAuto4Dir"
+        },
+        {
+          "aiGeneratedEventId": "01KME0AG893QHA071N1FMAGAAK",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarraVidaAnchoInicial",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "BarraVida",
+                "Resizable",
+                "=",
+                "Personaje_jugador.Variable(Vida) * (BarraVidaAnchoInicial / 50)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "BarraVida",
+                "Resizable",
+                "=",
+                "BarraVida.Height()"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KME0AG893QHA071N1FMAGAAK",
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "BarraVida",
+                "Resizable",
+                "=",
+                "Personaje_jugador.Variable(Vida) * (BarraVidaAnchoInicial / 50)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Personaje_jugador",
+                    "Vida",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"GameOver\"",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "MINA. El piso se genera despues de cargar la escena y cada vez que se baja."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MinaGenerar",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MinaGenerar",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "\nconst game = runtimeScene.getGame(), V = game.getVariables();\nconst piso = V.get(\"MinaPiso\").getAsNumber(), zona = Math.min(2, Math.floor((piso - 1) / 10)), W = 40, H = 24;\nfor (const n of [\"Colision\", \"Roca_1\", \"Roca_2\", \"Veta\", \"EnemigoMina\", \"EscaleraMina\", \"Recursos\"]) for (const o of runtimeScene.getObjects(n).slice()) o.deleteFromScene(runtimeScene);\nconst rnd = (a) => Math.floor(Math.random() * a), elige = (l) => l[rnd(l.length)];\nconst nueva = (v) => { const m = []; for (let y = 0; y < H; y++) { m.push([]); for (let x = 0; x < W; x++) m[y].push(v); } return m; };\nconst borde = (x, y) => x < 2 || y < 3 || x >= W - 2 || y >= H - 2;\nfunction cueva(prob, pasos) {\n  let m = nueva(1);\n  for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) m[y][x] = borde(x, y) || Math.random() < prob ? 1 : 0;\n  for (let p = 0; p < pasos; p++) {\n    const s = nueva(1);\n    for (let y = 1; y < H - 1; y++) for (let x = 1; x < W - 1; x++) {\n      let c = 0; for (let a = -1; a <= 1; a++) for (let b = -1; b <= 1; b++) if (a || b) c += m[y + a][x + b];\n      s[y][x] = borde(x, y) ? 1 : c >= 5 ? 1 : 0;\n    }\n    m = s;\n  }\n  return m;\n}\nfunction salas() {\n  const m = nueva(1), c = [], n = 6 + rnd(4);\n  for (let i = 0; i < n; i++) {\n    const w = 5 + rnd(6), h = 4 + rnd(4), x = 3 + rnd(W - w - 6), y = 4 + rnd(H - h - 7);\n    for (let a = y; a < y + h; a++) for (let b = x; b < x + w; b++) m[a][b] = 0;\n    c.push([x + (w >> 1), y + (h >> 1)]);\n  }\n  for (let i = 1; i < c.length; i++) {\n    let [x, y] = c[i - 1]; const [x2, y2] = c[i];\n    while (x !== x2) { m[y][x] = 0; m[y + 1][x] = 0; x += x < x2 ? 1 : -1; }\n    while (y !== y2) { m[y][x] = 0; m[y][x + 1] = 0; y += y < y2 ? 1 : -1; }\n  }\n  return m;\n}\nfunction columnas() {\n  const m = nueva(0);\n  for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) if (borde(x, y)) m[y][x] = 1;\n  const paso = 4 + rnd(3);\n  for (let y = 5; y < H - 3; y += paso) for (let x = 4 + rnd(2); x < W - 4; x += paso) if (Math.random() < 0.75) { m[y][x] = 1; if (Math.random() < 0.5) m[y][x + 1] = 1; }\n  return m;\n}\nfunction descanso() {\n  const m = nueva(1);\n  for (let y = 7; y < 17; y++) for (let x = 12; x < 28; x++) m[y][x] = 0;\n  return m;\n}\nfunction region(m) {\n  const vis = nueva(0); let mejor = [];\n  for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) {\n    if (m[y][x] || vis[y][x]) continue;\n    const pila = [[x, y]], r = []; vis[y][x] = 1;\n    while (pila.length) { const [a, b] = pila.pop(); r.push([a, b]);\n      for (const [c, e] of [[a + 1, b], [a - 1, b], [a, b + 1], [a, b - 1]]) if (c >= 0 && e >= 0 && c < W && e < H && !m[e][c] && !vis[e][c]) { vis[e][c] = 1; pila.push([c, e]); } }\n    if (r.length > mejor.length) mejor = r;\n  }\n  return mejor;\n}\nconst esDescanso = piso % 5 === 0;\nlet mapa, libres = [];\nfor (let i = 0; i < 12; i++) {\n  mapa = esDescanso ? descanso() : elige([() => cueva(0.45, 4), () => cueva(0.42, 3), salas, columnas])();\n  libres = region(mapa);\n  if (libres.length >= (esDescanso ? 100 : 170)) break;\n}\nif (libres.length < 60) { mapa = descanso(); libres = region(mapa); }\nconst dentro = {}; for (const [x, y] of libres) dentro[y * W + x] = 1;\nfor (let y = 0; y < H; y++) for (let x = 0; x < W; x++) if (!mapa[y][x] && !dentro[y * W + x]) mapa[y][x] = 1;\nconst pared = (x, y) => x < 0 || y < 0 || x >= W || y >= H || mapa[y][x] === 1;\n// Dibujar\nconst tm = runtimeScene.getObjects(\"MinaMapa\")[0], base = zona * 20;\nfor (let y = 0; y < H; y++) for (let x = 0; x < W; x++) {\n  let t;\n  if (!mapa[y][x]) t = 17 + (Math.random() < 0.7 ? 0 : 1 + rnd(2));\n  else if (y + 1 < H && !mapa[y + 1][x]) t = 16;\n  else t = (pared(x, y - 1) ? 1 : 0) + (pared(x + 1, y) ? 2 : 0) + (pared(x, y + 1) ? 4 : 0) + (pared(x - 1, y) ? 8 : 0);\n  tm.setTileAtGridCoordinates(base + t, x, y);\n}\n// Colisiones agrupadas por filas\nfor (let y = 0; y < H; y++) { let x = 0; while (x < W) { if (!mapa[y][x]) { x++; continue; } let f = x; while (f < W && mapa[y][f]) f++;\n  const c = runtimeScene.createObject(\"Colision\"); c.setPosition(x * 32, y * 32); c.setWidth((f - x) * 32); c.setHeight(32); c.hide(true); x = f; } }\n// Entrada: una celda con aire alrededor\nconst abiertas = libres.filter(([x, y]) => !pared(x, y + 1) && !pared(x, y - 1) && !pared(x + 1, y) && !pared(x - 1, y) && !pared(x, y + 2));\nconst [ex, ey] = elige(abiertas.length ? abiertas : libres);\nconst subir = runtimeScene.getObjects(\"Interactivo\")[0]; subir.setPosition(ex * 32 + 1, ey * 32 - 12); subir.setZOrder(ey * 32 + 20);\nconst ped = runtimeScene.getObjects(\"Personaje_jugador\")[0]; ped.setPosition(ex * 32 + 16, (ey + 1) * 32 + 24);\nconst lejos = (x, y, r) => Math.abs(x - ex) + Math.abs(y - ey) >= r;\nconst celdas = libres.filter(([x, y]) => !pared(x, y - 1) && lejos(x, y, 3));\nfor (let i = celdas.length - 1; i > 0; i--) { const j = rnd(i + 1); [celdas[i], celdas[j]] = [celdas[j], celdas[i]]; }\nlet ci = 0; const sig = () => celdas[ci++ % Math.max(1, celdas.length)];\nfunction piedra(tipo) {\n  const [x, y] = sig();\n  if (tipo === \"Roca\") { const o = runtimeScene.createObject(Math.random() < 0.5 ? \"Roca_1\" : \"Roca_2\"); o.setPosition(x * 32 + 16, y * 32 + 28); o.setZOrder(y * 32 + 28); }\n  else { const o = runtimeScene.createObject(\"Veta\"); o.setAnimationName(tipo); o.setPosition(x * 32, y * 32 + 2); o.setZOrder(y * 32 + 26); }\n}\nfunction objeto(x, y, id) { const o = runtimeScene.createObject(\"Recursos\"); o.setAnimationName(id); o.setPosition(x, y); o.setZOrder(y + 28); o.getVariables().get(\"Nuevo\").setBoolean(false); o.resetTimer(\"Soltado\"); }\nV.get(\"MinaEscalera\").setBoolean(false);\nconst tabla = [[\"Roca\",\"Roca\",\"Roca\",\"Roca\",\"Cobre\"], [\"Roca\",\"Roca\",\"Roca\",\"Hierro\",\"Cobre\"], [\"Roca\",\"Roca\",\"Hierro\",\"Cristal\"]][zona];\nif (esDescanso) {\n  V.get(\"MinaCheckpoint\").setNumber(piso); V.get(\"MinaEscalera\").setBoolean(true);\n  const e = runtimeScene.createObject(\"EscaleraMina\"); const [lx, ly] = sig(); e.setPosition(lx * 32 + 1, ly * 32 + 1); e.setZOrder(ly * 32 + 30);\n  const premio = [[\"Cobre\",\"Carbon\",\"Madera\",\"Zanahorias\"], [\"Hierro\",\"Carbon\",\"Cobre\",\"PanZanahoria\"], [\"Cristal\",\"Hierro\",\"SopaPapa\",\"Nucleo\"]][zona];\n  for (let i = 0; i < 4 + zona; i++) { const [x, y] = sig(); objeto(x * 32, y * 32, premio[i % premio.length]); }\n} else {\n  const rica = Math.random() < 0.15, plaga = Math.random() < 0.12;\n  const nr = Math.min(celdas.length >> 1, 14 + rnd(14) + Math.floor(piso / 3));\n  for (let i = 0; i < nr; i++) piedra(rica && i % 2 ? tabla[tabla.length - 1] : elige(tabla));\n  const tipos = [[\"Brotecito\",\"Brotecito\",\"Murcipapa\",\"Topapa\"], [\"Topapa\",\"Murcipapa\",\"Escarabajo\",\"Golem\"], [\"Escarabajo\",\"Espora\",\"Golem\",\"Murcipapa\"]][zona];\n  let ne = Math.min(14, 3 + Math.floor(piso / 2) + rnd(3)); if (plaga) ne = Math.min(18, ne * 2);\n  for (let i = 0, k = 0; i < ne && k < 400; k++) { const [x, y] = sig(); if (!lejos(x, y, 8)) continue; const o = runtimeScene.createObject(\"EnemigoMina\"); o.getVariables().get(\"Tipo\").setString(elige(tipos)); o.setPosition(x * 32 + 16, y * 32 + 28); i++; }\n}\nruntimeScene.getObjects(\"TextoMina\").forEach((t) => t.setString(\"Piso \" + piso + (esDescanso ? \" - Descanso\" : \"\")));\n",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Oscuridad por zonas y luz alrededor de Pedro"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetXY"
+              },
+              "parameters": [
+                "LuzAntorcha",
+                "=",
+                "Personaje_jugador.CenterX()",
+                "=",
+                "Personaje_jugador.Y() - 18"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetLayerAmbientLightColor"
+              },
+              "parameters": [
+                "",
+                "\"Luz Exterior\"",
+                "\"168;158;170\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MinaPiso",
+                ">=",
+                "11"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetLayerAmbientLightColor"
+              },
+              "parameters": [
+                "",
+                "\"Luz Exterior\"",
+                "\"140;158;190\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "MinaPiso",
+                ">=",
+                "21"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetLayerAmbientLightColor"
+              },
+              "parameters": [
+                "",
+                "\"Luz Exterior\"",
+                "\"136;170;138\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Las rocas estorban el paso"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Rocas",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Rocas",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "La escalera aparece al romper rocas o vencer enemigos. Si no queda nada mas, aparece seguro."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MinaRota",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MinaRota",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MinaEscalera",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "RandomInRange(1, 100)",
+                    "<=",
+                    "9"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MinaEscalera",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EscaleraMina",
+                    "RocaX",
+                    "RocaY",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "EscaleraMina",
+                    "=",
+                    "RocaY + 30"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "HUD/SubirNivel.wav",
+                    "no",
+                    "40",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MinaEscalera",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "SceneInstancesCount(Roca_1) + SceneInstancesCount(Roca_2) + SceneInstancesCount(Veta)",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MinaEscalera",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "EscaleraMina",
+                "Personaje_jugador.X() + 30",
+                "Personaje_jugador.Y()",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "EscaleraMina",
+                "=",
+                "Personaje_jugador.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Bajar por la escalera"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "EscaleraMina",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), EscaleraMina.X() + 15, EscaleraMina.Y() + 20)",
+                "<",
+                "70"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "AvisoInteractivo",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "AvisoInteractivo",
+                "Text",
+                "=",
+                "\"Clic: bajar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "AvisoInteractivo",
+                "=",
+                "EscaleraMina.X() - 8"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "AvisoInteractivo",
+                "=",
+                "EscaleraMina.Y() - 14"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsCursorOnObject"
+                  },
+                  "parameters": [
+                    "EscaleraMina",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MouseButtonFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Left\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "MinaPiso",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MinaGenerar",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Menu/GolpeLogo.wav",
+                    "no",
+                    "45",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Cortina",
+                    "0",
+                    "0",
+                    "\"DialogoHD\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                  },
+                  "parameters": [
+                    "Cortina",
+                    "Resizable",
+                    "=",
+                    "960"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetHeight"
+                  },
+                  "parameters": [
+                    "Cortina",
+                    "Resizable",
+                    "=",
+                    "540"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "Cortina",
+                    "=",
+                    "999"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Cortina",
+                    "Tween",
+                    "\"Bajar\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "0.6",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "isLocked": false,
+          "name": "Luz Exterior",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Interfaz",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UIHD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Inventario",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "DialogoHD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "BoidsMovement",
+          "type": "BoidsMovement::BoidsMovement"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "TileMap",
+          "type": "TileMap::TileMapBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        },
+        {
+          "name": "YSort",
+          "type": "YSort::YSort"
+        }
+      ]
     }
   ],
   "externalEvents": [
@@ -117489,6 +121250,13 @@
             "includeConfig": 0
           },
           "target": "Pesca"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "EnemigosMina"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -122530,6 +126298,16 @@
                     "!=",
                     "\"Interior\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareStrings"
+                  },
+                  "parameters": [
+                    "CurrentSceneName()",
+                    "!=",
+                    "\"Mina\""
+                  ]
                 }
               ],
               "actions": [],
@@ -123509,6 +127287,36 @@
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [],
                           "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "RocaX",
+                                "=",
+                                "Rocas.X() - 15"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "RocaY",
+                                "=",
+                                "Rocas.Y() - 24"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "MinaRota",
+                                "True",
+                                ""
+                              ]
+                            },
                             {
                               "type": {
                                 "value": "SetNumberVariable"
@@ -129620,6 +133428,16 @@
                     "!=",
                     "\"Interior\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareStrings"
+                  },
+                  "parameters": [
+                    "CurrentSceneName()",
+                    "!=",
+                    "\"Mina\""
+                  ]
                 }
               ],
               "actions": [
@@ -132898,6 +136716,33 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "EscenaAGuardar",
+                    "=",
+                    "\"Mina\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetStringVariable"
+                  },
+                  "parameters": [
+                    "Zona",
+                    "=",
+                    "\"La mina\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
                 {
@@ -133138,6 +136983,16 @@
                     "\"PapayorkPartidas\"",
                     "\"Ranura\" + ToString(RanuraActual) + \"/SalaActual\"",
                     "ToJSON(SalaActual)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"PapayorkPartidas\"",
+                    "\"Ranura\" + ToString(RanuraActual) + \"/MinaCheckpoint\"",
+                    "ToJSON(MinaCheckpoint)"
                   ]
                 },
                 {
@@ -139150,6 +143005,17 @@
                             "!=",
                             "\"Interior\""
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "Interactivo",
+                            "DestEscena",
+                            "!=",
+                            "\"Mina\""
+                          ]
                         }
                       ],
                       "actions": [
@@ -139172,6 +143038,35 @@
                             "AvisoInteractivo",
                             "=",
                             "Interactivo.Y() + 10"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringObjectVariable"
+                          },
+                          "parameters": [
+                            "Interactivo",
+                            "DestEscena",
+                            "=",
+                            "\"Mina\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "AvisoInteractivo",
+                            "Text",
+                            "=",
+                            "\"Clic: bajar a la mina\""
                           ]
                         }
                       ]
@@ -154533,6 +158428,1481 @@
                 "CantidadItem",
                 "=",
                 "516 + BarraOff"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "EnemigosMina",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "ENEMIGOS QUE PERSIGUEN. Enemigos[tipo] tiene sus datos. Cada tipo se mueve distinto cuando Pedro entra en su alcance."
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "EnemigoMina",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Iniciado",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Iniciado",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "EnemigoMina.Tipo"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Vida",
+                "=",
+                "Enemigos[EnemigoMina.Tipo].Vida"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Vel",
+                "=",
+                "Enemigos[EnemigoMina.Tipo].Vel"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Dano",
+                "=",
+                "Enemigos[EnemigoMina.Tipo].Dano"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Alcance",
+                "=",
+                "Enemigos[EnemigoMina.Tipo].Alcance"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "Fase",
+                "=",
+                "RandomFloat(6)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "\"Golpe\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareStrings"
+                  },
+                  "parameters": [
+                    "CurrentSceneName()",
+                    "=",
+                    "\"Mina\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Vida",
+                    "=",
+                    "EnemigoMina.Vida * (1 + MinaPiso * 0.05)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Dano",
+                    "=",
+                    "EnemigoMina.Dano + floor(MinaPiso / 6)"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "EnemigoMina",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "DistEn",
+                "=",
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), EnemigoMina.X(), EnemigoMina.Y())"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetZOrder"
+              },
+              "parameters": [
+                "EnemigoMina",
+                "=",
+                "EnemigoMina.Y()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Personaje_jugador.X()",
+                    ">",
+                    "EnemigoMina.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "Personaje_jugador.X()",
+                    "<=",
+                    "EnemigoMina.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DistEn",
+                    "<",
+                    "EnemigoMina.Alcance"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Brotecito\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel * (0.4 + abs(sin(TimeFromStart() * 5 + EnemigoMina.Fase)))",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Murcipapa\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "cos(TimeFromStart() * 3 + EnemigoMina.Fase) * 46",
+                        "sin(TimeFromStart() * 4.3 + EnemigoMina.Fase) * 46",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Topapa\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Escarabajo\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "mod(TimeFromStart() + EnemigoMina.Fase, 2.4)",
+                        "<",
+                        "0.7"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel * 3.2",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Escarabajo\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "mod(TimeFromStart() + EnemigoMina.Fase, 2.4)",
+                        ">=",
+                        "0.7"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel * 0.5",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Golem\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StringObjectVariable"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Tipo",
+                        "=",
+                        "\"Espora\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceTowardPosition"
+                      },
+                      "parameters": [
+                        "EnemigoMina",
+                        "Personaje_jugador.X()",
+                        "Personaje_jugador.Y() - 8",
+                        "EnemigoMina.Vel * (0.7 + sin(TimeFromStart() * 2 + EnemigoMina.Fase) * 0.5)",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "El topapa va casi bajo tierra hasta que esta cerca"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Tipo",
+                    "=",
+                    "\"Topapa\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DistEn",
+                    ">",
+                    "110"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Opacity",
+                    "=",
+                    "110"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Tipo",
+                    "=",
+                    "\"Topapa\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DistEn",
+                    "<=",
+                    "110"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Opacity",
+                    "=",
+                    "255"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Colision",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Tipo",
+                    "!=",
+                    "\"Murcipapa\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Colision",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Rocas",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "StringObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Tipo",
+                    "!=",
+                    "\"Murcipapa\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Rocas",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "\"Golpe\"",
+                    ">",
+                    "0.15"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeColor"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "\"255;255;255\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Recibir un golpe de la espada"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "CajaDaño",
+                    "EnemigoMina",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "\"Golpe\"",
+                    ">",
+                    "0.3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "\"Golpe\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "GolpeEn",
+                    "=",
+                    "RandomInRange(Estadisticas[\"Daño Min\"], Estadisticas[\"Daño Max\"])"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Vida",
+                    "-",
+                    "GolpeEn"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeColor"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "\"255;110;110\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Cultivos/Comer.wav",
+                    "no",
+                    "45",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetX"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "=",
+                    "EnemigoMina.X() + (EnemigoMina.X() - Personaje_jugador.X()) / max(1, DistEn) * 14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetY"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "=",
+                    "EnemigoMina.Y() + (EnemigoMina.Y() - Personaje_jugador.Y()) / max(1, DistEn) * 14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Gui_Daño",
+                    "EnemigoMina.X() - 8",
+                    "EnemigoMina.Y() - 34",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Gui_Daño",
+                    "Text",
+                    "=",
+                    "GolpeEn"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "Gui_Daño",
+                    "Tween",
+                    "\"Movimiento Vertical\"",
+                    "Gui_Daño.Y() - 26",
+                    "\"easeOutQuint\"",
+                    "0.7",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "Gui_Daño",
+                    "Tween",
+                    "\"Desvanecer\"",
+                    "0",
+                    "\"linear\"",
+                    "0.9",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    "Vida",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Exp",
+                    "+",
+                    "Enemigos[EnemigoMina.Tipo].Exp"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Monedas",
+                    "+",
+                    "Enemigos[EnemigoMina.Tipo].Monedas"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "RocaX",
+                    "=",
+                    "EnemigoMina.X() - 16"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "RocaY",
+                    "=",
+                    "EnemigoMina.Y() - 26"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "MinaRota",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "HUD/Moneda.wav",
+                    "no",
+                    "55",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "TextoFlotante",
+                    "EnemigoMina.X() - 16",
+                    "EnemigoMina.Y() - 30",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Text",
+                    "=",
+                    "\"+\" + ToString(Enemigos[EnemigoMina.Tipo].Monedas) + \" monedas\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::ChangeColor"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "\"251;242;54\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "=",
+                    "100000"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Subir\"",
+                    "TextoFlotante.Y() - 20",
+                    "\"easeOutQuad\"",
+                    "0.9",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "TextoFlotante",
+                    "Tween",
+                    "\"Desaparecer\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "1.3",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Recursos",
+                    "EnemigoMina.X() - 16",
+                    "EnemigoMina.Y() - 26",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Recursos",
+                    "Enemigos[EnemigoMina.Tipo].Suelta"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Recursos",
+                    "Nuevo",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Recursos",
+                    "\"Soltado\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "EnemigoMina",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Tocar a un enemigo hace daño"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "EnemigoMina",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Invencible",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Tween",
+                "\"Knockback\"",
+                "Personaje_jugador.X() + cos(AngleBetweenPositions(EnemigoMina.X(), EnemigoMina.Y(), Personaje_jugador.X(), Personaje_jugador.Y()) * 3.14159 / 180) * 25",
+                "Personaje_jugador.Y() + sin(AngleBetweenPositions(EnemigoMina.X(), EnemigoMina.Y(), Personaje_jugador.X(), Personaje_jugador.Y()) * 3.14159 / 180) * 25",
+                "\"easeOutCubic\"",
+                "0.15",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Vida",
+                "-",
+                "EnemigoMina.Dano"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Vida",
+                "=",
+                "Personaje_jugador.Vida"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "Invencible",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Personaje_jugador",
+                "\"Invulnerable\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectWidthTween2"
+              },
+              "parameters": [
+                "BarraVida",
+                "Tween",
+                "\"BajarVida\"",
+                "Personaje_jugador.Vida * (BarraVidaAnchoInicial / 50)",
+                "\"easeOutCubic\"",
+                "0.3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Las papas radiactivas de siempre tambien vienen hacia ti cuando estas cerca"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Papa",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InventarioAbierto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "Papa",
+                "Hambrienta",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "DistEn",
+                "=",
+                "DistanceBetweenPositions(Personaje_jugador.X(), Personaje_jugador.Y(), Papa.X(), Papa.Y())"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DistEn",
+                    "<",
+                    "130"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanObjectVariable"
+                  },
+                  "parameters": [
+                    "Papa",
+                    "PuedeAndar",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Papa",
+                    "TiemposAndar",
+                    "=",
+                    "9999"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceTowardPosition"
+                  },
+                  "parameters": [
+                    "Papa",
+                    "Personaje_jugador.X()",
+                    "Personaje_jugador.Y()",
+                    "Papa.Velocidad * 1.3",
+                    "0"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Personaje_jugador.X() - Papa.X())",
+                        ">",
+                        "abs(Personaje_jugador.Y() - Papa.Y())"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Personaje_jugador.X()",
+                        ">",
+                        "Papa.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Papa",
+                        "\"CaminarDerecha\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Personaje_jugador.X() - Papa.X())",
+                        ">",
+                        "abs(Personaje_jugador.Y() - Papa.Y())"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Personaje_jugador.X()",
+                        "<=",
+                        "Papa.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Papa",
+                        "\"CaminarIzquierda\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Personaje_jugador.X() - Papa.X())",
+                        "<=",
+                        "abs(Personaje_jugador.Y() - Papa.Y())"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Personaje_jugador.Y()",
+                        ">",
+                        "Papa.Y()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Papa",
+                        "\"CaminarAbajo\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Personaje_jugador.X() - Papa.X())",
+                        "<=",
+                        "abs(Personaje_jugador.Y() - Papa.Y())"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Personaje_jugador.Y()",
+                        "<=",
+                        "Papa.Y()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Papa",
+                        "\"CaminarArriba\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "DistEn",
+                    ">=",
+                    "130"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Papa",
+                    "TiemposAndar",
+                    "=",
+                    "9999"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Papa",
+                    "TiemposAndar",
+                    "=",
+                    "2"
+                  ]
+                }
               ]
             }
           ]
