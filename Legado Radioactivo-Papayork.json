@@ -8964,6 +8964,294 @@
         "preloadAsMusic": false,
         "preloadAsSound": true,
         "preloadInCache": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaIzquierda1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaIzquierda1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaIzquierda2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaIzquierda2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaIzquierda3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaIzquierda3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaDerecha1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaDerecha1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaDerecha2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaDerecha2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaDerecha3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaDerecha3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaArriba1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaArriba1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaArriba2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaArriba2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaArriba3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaArriba3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaAbajo1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaAbajo1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaAbajo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaAbajo2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Pedro2/EspadaAbajo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Pedro2/EspadaAbajo3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonCargar.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonCargar.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonCargarHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonCargarHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonCargarPresionado.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonCargarPresionado.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonNueva.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonNueva.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonNuevaHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonNuevaHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonNuevaPresionado.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonNuevaPresionado.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonAjustes.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonAjustes.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonAjustesHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonAjustesHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonAjustesPresionado.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonAjustesPresionado.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Panel.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Panel.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Ranura.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Ranura.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/RanuraHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/RanuraHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonPeq.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonPeq.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonPeqHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonPeqHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonMini.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonMini.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BotonMiniHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BotonMiniHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BorrarNormal.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BorrarNormal.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/BorrarHover.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/BorrarHover.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/HaloVerde.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/HaloVerde.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Zombie1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Zombie1.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Zombie2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Zombie2.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Zombie3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Zombie3.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Zombie4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Zombie4.png",
+        "userAdded": true,
+        "smoothed": false
+      },
+      {
+        "file": "Natural/Menu/Blanco.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Natural/Menu/Blanco.png",
+        "userAdded": true,
+        "smoothed": false
       }
     ]
   },
@@ -10223,108 +10511,108 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueIzquierda1.png",
+                  "image": "Natural/Pedro2/EspadaIzquierda1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueIzquierda2.png",
+                  "image": "Natural/Pedro2/EspadaIzquierda2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueIzquierda3.png",
+                  "image": "Natural/Pedro2/EspadaIzquierda3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
@@ -11531,108 +11819,108 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueDerecha1.png",
+                  "image": "Natural/Pedro2/EspadaDerecha1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueDerecha2.png",
+                  "image": "Natural/Pedro2/EspadaDerecha2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueDerecha3.png",
+                  "image": "Natural/Pedro2/EspadaDerecha3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
@@ -12839,108 +13127,108 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueArriba1.png",
+                  "image": "Natural/Pedro2/EspadaArriba1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueArriba2.png",
+                  "image": "Natural/Pedro2/EspadaArriba2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueArriba3.png",
+                  "image": "Natural/Pedro2/EspadaArriba3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
@@ -14147,108 +14435,108 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueAbajo1.png",
+                  "image": "Natural/Pedro2/EspadaAbajo1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueAbajo2.png",
+                  "image": "Natural/Pedro2/EspadaAbajo2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Natural/Pedro2/AtaqueAbajo3.png",
+                  "image": "Natural/Pedro2/EspadaAbajo3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 16.5,
-                    "y": 43
+                    "x": 41.5,
+                    "y": 63
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 16,
-                    "y": 33
+                    "x": 41,
+                    "y": 53
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 29
+                        "x": 36,
+                        "y": 49
                       },
                       {
-                        "x": 21,
-                        "y": 28
+                        "x": 46,
+                        "y": 48
                       },
                       {
-                        "x": 20.5,
-                        "y": 39.5
+                        "x": 45.5,
+                        "y": 59.5
                       },
                       {
-                        "x": 12,
-                        "y": 39.5
+                        "x": 37,
+                        "y": 59.5
                       }
                     ]
                   ]
@@ -18956,7 +19244,7 @@
         {
           "name": "Vida",
           "type": "number",
-          "value": 80
+          "value": 30
         },
         {
           "name": "Hambrienta",
@@ -38507,11 +38795,11 @@
                     [
                       {
                         "x": 0,
-                        "y": 22
+                        "y": 0
                       },
                       {
                         "x": 30,
-                        "y": 22
+                        "y": 0
                       },
                       {
                         "x": 30,
@@ -54080,6 +54368,11 @@
       "name": "DistEsc",
       "type": "number",
       "value": 999
+    },
+    {
+      "name": "MenuVisto",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -54183,25 +54476,49 @@
           "persistentUuid": "8c51345a-765d-4766-bb0d-a97db283e919",
           "type": "boolean",
           "value": false
+        },
+        {
+          "name": "TI",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "OffsetMenu",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "SwayM",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "DistM",
+          "type": "number",
+          "value": 300
+        },
+        {
+          "name": "TonoM",
+          "type": "number",
+          "value": 30
+        },
+        {
+          "name": "SaltadoM",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "VueloM",
+          "type": "number",
+          "value": 12
+        },
+        {
+          "name": "AltoM",
+          "type": "number",
+          "value": 40
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "FondoInicio",
-          "persistentUuid": "205c3851-a214-4e2c-894b-32c26a736285",
-          "width": 0,
-          "x": 0,
-          "y": 0,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -55147,6 +55464,258 @@
               "value": 3
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuCielo",
+          "persistentUuid": "29303b4e-2419-4ae6-a72b-bde00238c486",
+          "width": 0,
+          "x": -30,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuMontes",
+          "persistentUuid": "82710414-c324-4740-9e48-dd5e0d3149c4",
+          "width": 0,
+          "x": -30,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuValle",
+          "persistentUuid": "78ec5d02-756c-48f7-8b84-b9cca96dc61a",
+          "width": 0,
+          "x": -30,
+          "y": 0,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MenuFrente",
+          "persistentUuid": "9f464db3-e5c7-4134-b0a4-06453a5feac5",
+          "width": 0,
+          "x": -30,
+          "y": 0,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NubeM",
+          "persistentUuid": "5bf1492d-6101-49b2-957c-509b957d18c4",
+          "width": 0,
+          "x": 40,
+          "y": 18,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NubeM",
+          "persistentUuid": "82a67b07-5dbc-480d-ac97-a2b3c7f7899d",
+          "width": 0,
+          "x": 250,
+          "y": 8,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 2.5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NubeM",
+          "persistentUuid": "1f24800b-cfde-44e2-af01-67dce73fe049",
+          "width": 0,
+          "x": 410,
+          "y": 42,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 5.5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NubeM",
+          "persistentUuid": "90773afb-18cd-4bc4-94e9-5f2b37109843",
+          "width": 0,
+          "x": 120,
+          "y": 54,
+          "zOrder": 1,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fundido",
+          "name": "HaloMenu",
+          "persistentUuid": "c1fa9bb5-0145-4d5e-9627-a176905c6a36",
+          "width": 0,
+          "x": 398,
+          "y": 200,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fundido",
+          "name": "ZombieMenu",
+          "persistentUuid": "ff09e948-e1f4-49d9-8c54-b735259bff4b",
+          "width": 0,
+          "x": 398,
+          "y": 234,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Fundido",
+          "name": "PedroMenu",
+          "persistentUuid": "82a20664-3551-45c9-b809-c89b253a0eef",
+          "width": 0,
+          "x": -40,
+          "y": 232,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HumoM",
+          "persistentUuid": "fa716476-568b-4102-b14b-e212966fde0d",
+          "width": 0,
+          "x": 0,
+          "y": 28,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 270,
+          "keepRatio": true,
+          "layer": "Fundido",
+          "name": "FlashMenu",
+          "persistentUuid": "bb8d2470-9bf3-49a7-9e92-330a6d5c9457",
+          "width": 480,
+          "x": 0,
+          "y": 0,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -55362,7 +55931,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonCargar.png",
+                      "image": "Natural/Menu/BotonCargar.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55410,7 +55979,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonCargarHover.png",
+                      "image": "Natural/Menu/BotonCargarHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55458,7 +56027,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonCargarPresionado.png",
+                      "image": "Natural/Menu/BotonCargarPresionado.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55506,7 +56075,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonNueva.png",
+                      "image": "Natural/Menu/BotonNueva.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55554,7 +56123,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonNuevaHover.png",
+                      "image": "Natural/Menu/BotonNuevaHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55602,7 +56171,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonNuevaPresionado.png",
+                      "image": "Natural/Menu/BotonNuevaPresionado.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55650,7 +56219,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonAjustes.png",
+                      "image": "Natural/Menu/BotonAjustes.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55698,7 +56267,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonAjustesHover.png",
+                      "image": "Natural/Menu/BotonAjustesHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55746,7 +56315,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Menu/BotonAjustesPresionado.png",
+                      "image": "Natural/Menu/BotonAjustesPresionado.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55896,7 +56465,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/PanelMadera.png",
+                      "image": "Natural/Menu/Panel.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55954,7 +56523,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/Ranura.png",
+                      "image": "Natural/Menu/Ranura.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -55983,7 +56552,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/RanuraHover.png",
+                      "image": "Natural/Menu/RanuraHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56051,7 +56620,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BotonPeq.png",
+                      "image": "Natural/Menu/BotonPeq.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56080,7 +56649,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BotonPeqHover.png",
+                      "image": "Natural/Menu/BotonPeqHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56109,7 +56678,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BotonMini.png",
+                      "image": "Natural/Menu/BotonMini.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56138,7 +56707,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BotonMiniHover.png",
+                      "image": "Natural/Menu/BotonMiniHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56167,7 +56736,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BorrarNormal.png",
+                      "image": "Natural/Menu/BorrarNormal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56196,7 +56765,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Menu/BorrarHover.png",
+                      "image": "Natural/Menu/BorrarHover.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -56290,13 +56859,13 @@
           "textAlignment": "left",
           "characterSize": 18,
           "color": {
-            "b": 170,
-            "g": 236,
-            "r": 255
+            "r": 63,
+            "g": 36,
+            "b": 24
           },
           "content": {
             "bold": false,
-            "isOutlineEnabled": true,
+            "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
             "outlineColor": "60;30;12",
@@ -56314,7 +56883,7 @@
             "verticalTextAlignment": "top",
             "characterSize": 18,
             "lineHeight": 0,
-            "color": "255;236;170"
+            "color": "63;36;24"
           }
         },
         {
@@ -56474,6 +57043,985 @@
             "lineHeight": 0,
             "color": "255;246;210"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "MenuCielo",
+          "persistentUuid": "b961cb06-bc52-4eea-8736-0040c54bb666",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Valle_Cielo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "MenuMontes",
+          "persistentUuid": "e725aa15-e6b9-42e7-8b20-097d2f0c8e9d",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Valle_Montes.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "MenuValle",
+          "persistentUuid": "e6444137-a88e-4892-b1c9-f9eeb717cae8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Valle_Valle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "MenuFrente",
+          "persistentUuid": "19db2ef4-b952-4a30-887f-c9b281014483",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Valle_Frente.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "NubeM",
+          "persistentUuid": "55c4e7a9-0a78-430a-b8dd-5e40689c3c13",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Vel",
+              "type": "number",
+              "value": 4
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Nube1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Nube1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Nube2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Nube2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Nube3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Nube3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "AveM",
+          "persistentUuid": "5e6f1764-8241-44ac-8653-8f4967da8f6d",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.13,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Ave1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Ave2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Ave3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Ave2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "HumoM",
+          "persistentUuid": "5c721cbf-8299-402e-8c64-e981002b26ee",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.28,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Humo1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Humo2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Humo3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/IntroN/Humo4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "HaloMenu",
+          "persistentUuid": "7e0de440-b13b-4fe7-9d27-c62b028a08ac",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/HaloVerde.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 170,
+                        "y": 170
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "ZombieMenu",
+          "persistentUuid": "9c2ef45d-6ad7-4e01-8245-d98a6dd7444d",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.24,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/Zombie1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 35,
+                        "y": 72
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/Zombie2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 35,
+                        "y": 72
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/Zombie3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 35,
+                        "y": 72
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/Zombie4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 35,
+                        "y": 72
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "PedroMenu",
+          "persistentUuid": "84dad39f-816d-4b67-b046-96d1467ce75b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Corre",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/CorrerDerecha8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ataque",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.09,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/EspadaDerecha1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 41.5,
+                        "y": 63
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/EspadaDerecha2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 41.5,
+                        "y": 63
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/EspadaDerecha3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 41.5,
+                        "y": 63
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Quieto",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.6,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/QuietoDerecha1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Pedro2/QuietoDerecha2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 43
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "FlashMenu",
+          "persistentUuid": "a1f82a87-0acf-47a5-ad4e-cc026348e371",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Natural/Menu/Blanco.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "EsporaM",
+          "persistentUuid": "6f2b054f-2162-47ce-87df-40b226fd0ef0",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "N",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Menu/Espora.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -56771,15 +58319,6 @@
             },
             {
               "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "FondoInicio",
-                "\"SinLogo\""
-              ]
-            },
-            {
-              "type": {
                 "value": "ScalableCapability::ScalableBehavior::SetValue"
               },
               "parameters": [
@@ -56845,34 +58384,6 @@
             },
             {
               "type": {
-                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
-              },
-              "parameters": [
-                "Fundido",
-                "Tween",
-                "\"Aclarar\"",
-                "0",
-                "\"easeInQuad\"",
-                "1.4",
-                "no"
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition2"
-              },
-              "parameters": [
-                "",
-                "\"Paneo\"",
-                "240",
-                "275",
-                "\"\"",
-                "\"easeInOutSine\"",
-                "2.8"
-              ]
-            },
-            {
-              "type": {
                 "value": "ResetTimer"
               },
               "parameters": [
@@ -56897,6 +58408,88 @@
                 "Pantalla",
                 "=",
                 "\"Intro\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Fundido",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "HaloMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "PedroMenu",
+                "\"Corre\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "OffsetMenu",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"AvesM\""
               ]
             }
           ],
@@ -57199,37 +58792,51 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "StringVariable"
+                    "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "MusicaActual",
-                    "!=",
-                    "\"Natural/Audio/TemaPapayork.ogg\""
+                    "MenuVisto",
+                    "True",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "PlayMusicOnChannel"
+                    "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "",
-                    "Natural/Audio/TemaPapayork.ogg",
-                    "0",
-                    "yes",
-                    "VolumenMusica",
-                    "1"
+                    "OffsetMenu",
+                    "=",
+                    "5.4"
                   ]
                 },
                 {
                   "type": {
-                    "value": "SetStringVariable"
+                    "value": "Delete"
                   },
                   "parameters": [
-                    "MusicaActual",
-                    "=",
-                    "\"Natural/Audio/TemaPapayork.ogg\""
+                    "HaloMenu",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "ZombieMenu",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "PedroMenu",
+                    ""
                   ]
                 }
               ]
@@ -57246,20 +58853,1237 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "INTRO: primero aparece el campo, despues cae el logo y al final salen los botones"
+          "comment": "MENU. Oscuridad, una papa zombie alumbra la esquina, Pedro la vence, se abre el valle, baja el logo y salen las opciones. Clic, Espacio o Esc lo saltan. Al volver al menu se va directo al valle."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "TI",
+                "=",
+                "TimerElapsedTime(\"Intro\") + OffsetMenu"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "SwayM",
+                "=",
+                "sin(TimeFromStart() * 0.14)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "MenuCielo",
+                "=",
+                "-30 + SwayM * 6"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "MenuMontes",
+                "=",
+                "-30 + SwayM * 14"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "MenuValle",
+                "=",
+                "-30 + SwayM * 24"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "MenuFrente",
+                "=",
+                "-30 + SwayM * 30"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "HumoM",
+                "=",
+                "-30 + SwayM * 24 + 194"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "NubeM",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "NubeM",
+                "=",
+                "NubeM.X() + NubeM.Vel * TimeDelta()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "NubeM.X()",
+                    ">",
+                    "500"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetX"
+                  },
+                  "parameters": [
+                    "NubeM",
+                    "=",
+                    "-110"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pedro sale de la oscuridad a medida que se acerca a la luz verde"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "DistM",
+                "=",
+                "abs(398 - PedroMenu.X())"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "TonoM",
+                "=",
+                "round(26 + 229 * min(1, max(0, 1 - (DistM - 50) / 210)))"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "PedroMenu",
+                "ToString(TonoM) + \";\" + ToString(TonoM) + \";\" + ToString(TonoM)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "HaloMenu",
+                "Tween",
+                "\"Luz\"",
+                "255",
+                "\"easeOutQuad\"",
+                "1.3",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "Tween",
+                "\"Ver\"",
+                "255",
+                "\"easeInQuad\"",
+                "1.3",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Cultivos/Temblor.wav",
+                "no",
+                "75",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "2.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "PedroMenu",
+                "Tween",
+                "\"Correr\"",
+                "330",
+                "\"linear\"",
+                "1.45",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "3.55"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "PedroMenu",
+                "\"Ataque\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "PedroMenu",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+              },
+              "parameters": [
+                "PedroMenu",
+                "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Espada.ogg",
+                "no",
+                "80",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "\"255;120;120\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "Tween",
+                "\"Empujon\"",
+                "412",
+                "\"easeOutQuad\"",
+                "0.2",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Cultivos/Comer.wav",
+                "no",
+                "80",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "3.85"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "\"255;255;255\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "4.05"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "PedroMenu",
+                "\"Ataque\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "PedroMenu",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+              },
+              "parameters": [
+                "PedroMenu",
+                "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/Espada.ogg",
+                "no",
+                "80",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeColor"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "\"255;90;90\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Opacity",
+                "=",
+                "170"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Tween",
+                "\"Pasar\"",
+                "0",
+                "\"easeOutQuad\"",
+                "0.45",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Intro/Explosion.wav",
+                "no",
+                "60",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "Tween",
+                "\"Morir\"",
+                "0",
+                "\"easeInQuad\"",
+                "0.5",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "ZombieMenu",
+                "Tween",
+                "\"Caer\"",
+                "244",
+                "\"easeInQuad\"",
+                "0.5",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "HaloMenu",
+                "Tween",
+                "\"Apagar\"",
+                "0",
+                "\"easeInQuad\"",
+                "0.9",
+                "no"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "18",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EsporaM",
+                    "RandomInRange(372, 424)",
+                    "RandomInRange(180, 228)",
+                    "\"Fundido\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "=",
+                    "12"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "Scale",
+                    "=",
+                    "RandomInRange(1, 3)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeColor"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "\"168;236;74\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "Tween",
+                    "\"Subir\"",
+                    "EsporaM.Y() - RandomInRange(30, 90)",
+                    "\"easeOutQuad\"",
+                    "0.9",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "Tween",
+                    "\"Lado\"",
+                    "EsporaM.X() + RandomInRange(-40, 40)",
+                    "\"easeOutQuad\"",
+                    "0.9",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "EsporaM",
+                    "Tween",
+                    "\"Apagar\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "1.1",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "4.45"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "PedroMenu",
+                "\"Quieto\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Se abre el valle y entra la musica"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "5.4"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "MusicaActual",
+                "!=",
+                "\"Natural/Audio/TemaPapayork.ogg\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/TemaPapayork.ogg",
+                "0",
+                "yes",
+                "VolumenMusica",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "MusicaActual",
+                "=",
+                "\"Natural/Audio/TemaPapayork.ogg\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "MusicaActual",
+                "!=",
+                "\"Natural/Audio/TemaPapayork.ogg\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "Natural/Audio/TemaPapayork.ogg",
+                "0",
+                "yes",
+                "VolumenMusica",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "MusicaActual",
+                "=",
+                "\"Natural/Audio/TemaPapayork.ogg\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "5.4"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "Fundido",
+                "Tween",
+                "\"Aclarar\"",
+                "0",
+                "\"easeInOutSine\"",
+                "2",
+                "no"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "MenuVisto",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+                  },
+                  "parameters": [
+                    "PedroMenu",
+                    "Tween",
+                    "\"Irse\"",
+                    "0",
+                    "\"easeInQuad\"",
+                    "1.1",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "5.8"
+              ]
+            },
+            {
+              "type": {
                 "value": "CompareTimer"
               },
               "parameters": [
                 "",
-                "\"Intro\"",
+                "\"AvesM\"",
                 ">=",
-                "0.6"
+                "3.5"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"AvesM\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "VueloM",
+                "=",
+                "RandomFloatInRange(10, 15)"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "AltoM",
+                "=",
+                "RandomInRange(14, 70)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Repeat",
+              "repeatExpression": "3",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "AveM",
+                    "-20 - RandomInRange(0, 46)",
+                    "AltoM + RandomInRange(0, 16)",
+                    "\"\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetZOrder"
+                  },
+                  "parameters": [
+                    "AveM",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "AveM",
+                    "Scale",
+                    "=",
+                    "1.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                  },
+                  "parameters": [
+                    "AveM",
+                    "Tween",
+                    "\"Volar\"",
+                    "530",
+                    "\"linear\"",
+                    "VueloM",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "AveM",
+                ">",
+                "510"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "AveM",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "El logo baja poco a poco"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">=",
+                "7.2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57278,9 +60102,9 @@
                 "LogoPapayork",
                 "Tween",
                 "\"Caer\"",
-                "160",
-                "\"easeOutBounce\"",
-                "1.2",
+                "20",
+                "\"easeOutSine\"",
+                "3.2",
                 "no"
               ]
             }
@@ -57291,13 +60115,22 @@
           "conditions": [
             {
               "type": {
-                "value": "CompareTimer"
+                "value": "BuiltinCommonInstructions::CompareNumbers"
               },
               "parameters": [
-                "",
-                "\"Intro\"",
+                "TI",
                 ">=",
-                "1.03"
+                "10.4"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57316,40 +60149,8 @@
                 "",
                 "Menu/GolpeLogo.wav",
                 "no",
-                "80",
+                "45",
                 "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "Tween::HasFinished"
-              },
-              "parameters": [
-                "LogoPapayork",
-                "Tween",
-                "\"Caer\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "FondoInicio",
-                "\"ConLogo\""
               ]
             },
             {
@@ -57360,9 +60161,9 @@
                 "LogoPapayork",
                 "Tween",
                 "\"Pulso\"",
-                "1.04",
+                "1.03",
                 "\"easeOutQuad\"",
-                "0.12",
+                "0.14",
                 "no",
                 "yes"
               ]
@@ -57408,17 +60209,38 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Las opciones"
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "CompareTimer"
+                "value": "BuiltinCommonInstructions::CompareNumbers"
               },
               "parameters": [
-                "",
-                "\"Intro\"",
+                "TI",
                 ">=",
-                "2.9"
+                "10.8"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57482,13 +60304,22 @@
           "conditions": [
             {
               "type": {
-                "value": "CompareTimer"
+                "value": "BuiltinCommonInstructions::CompareNumbers"
               },
               "parameters": [
-                "",
-                "\"Intro\"",
+                "TI",
                 ">=",
-                "3.05"
+                "10.98"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57552,13 +60383,22 @@
           "conditions": [
             {
               "type": {
-                "value": "CompareTimer"
+                "value": "BuiltinCommonInstructions::CompareNumbers"
               },
               "parameters": [
-                "",
-                "\"Intro\"",
+                "TI",
                 ">=",
-                "3.2"
+                "11.16"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57622,13 +60462,22 @@
           "conditions": [
             {
               "type": {
-                "value": "CompareTimer"
+                "value": "BuiltinCommonInstructions::CompareNumbers"
               },
               "parameters": [
-                "",
-                "\"Intro\"",
+                "TI",
                 ">=",
-                "3.5"
+                "11.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
               ]
             },
             {
@@ -57641,12 +60490,49 @@
           "actions": [
             {
               "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "HaloMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "PedroMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetStringVariable"
               },
               "parameters": [
                 "Pantalla",
                 "=",
                 "\"Principal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "True",
+                ""
               ]
             },
             {
@@ -61412,6 +64298,639 @@
                     "VolumenMusica"
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Saltar la presentacion"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Intro\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">",
+                ".4"
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Left\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Fundido",
+                "Tween",
+                "\"Aclarar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Fundido",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "HaloMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "PedroMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "EsporaM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "Tween",
+                "\"Caer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Tween",
+                "\"Aparecer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Scale",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Principal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MiNombre",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "NombreAsignatura",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Intro\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">",
+                ".4"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Fundido",
+                "Tween",
+                "\"Aclarar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Fundido",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "HaloMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "PedroMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "EsporaM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "Tween",
+                "\"Caer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Tween",
+                "\"Aparecer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Scale",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Principal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MiNombre",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "NombreAsignatura",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Intro\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "False",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::CompareNumbers"
+              },
+              "parameters": [
+                "TI",
+                ">",
+                ".4"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Escape\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "SaltadoM",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "Fundido",
+                "Tween",
+                "\"Aclarar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "Fundido",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "FlashMenu",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "HaloMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "PedroMenu",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "EsporaM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "Tween",
+                "\"Caer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "LogoPapayork",
+                "=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::RemoveTween"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Tween",
+                "\"Aparecer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ScalableCapability::ScalableBehavior::SetValue"
+              },
+              "parameters": [
+                "BotonMenu",
+                "Scale",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "Pantalla",
+                "=",
+                "\"Principal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "MenuVisto",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MiNombre",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "NombreAsignatura",
+                "Opacity",
+                "=",
+                "255"
               ]
             }
           ]
@@ -87893,9 +91412,9 @@
           "name": "Decorado",
           "persistentUuid": "4c98eabb-8d3c-4c16-befb-9d700223f691",
           "width": 0,
-          "x": 490,
-          "y": 36,
-          "zOrder": 120,
+          "x": 790,
+          "y": 606,
+          "zOrder": 690,
           "numberProperties": [
             {
               "name": "animation",
@@ -87914,9 +91433,9 @@
           "name": "Interactivo",
           "persistentUuid": "e0e1371f-2fbc-4a9d-976d-c5863f8942e8",
           "width": 0,
-          "x": 529,
-          "y": 98,
-          "zOrder": 122,
+          "x": 829,
+          "y": 668,
+          "zOrder": 692,
           "numberProperties": [
             {
               "name": "animation",
@@ -116405,12 +119924,12 @@
             {
               "name": "DestX",
               "type": "number",
-              "value": 545
+              "value": 845
             },
             {
               "name": "DestY",
               "type": "number",
-              "value": 140
+              "value": 716
             }
           ]
         },
@@ -135279,7 +138798,7 @@
                 "Papa",
                 "Vida",
                 "=",
-                "40"
+                "20"
               ]
             },
             {
@@ -142542,7 +146061,7 @@
                     "Papa",
                     "Vida",
                     "=",
-                    "50"
+                    "25"
                   ]
                 }
               ]
@@ -142591,7 +146110,7 @@
                     "Papa",
                     "Vida",
                     "=",
-                    "160"
+                    "70"
                   ]
                 },
                 {
