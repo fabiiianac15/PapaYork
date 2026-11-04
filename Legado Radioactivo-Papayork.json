@@ -47763,12 +47763,12 @@
     {
       "name": "Energia",
       "type": "number",
-      "value": 100
+      "value": 150
     },
     {
       "name": "EnergiaMax",
       "type": "number",
-      "value": 100
+      "value": 150
     },
     {
       "name": "RegaderaAgua",
@@ -52151,6 +52151,21 @@
     },
     {
       "name": "PaginasTotal",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "BarraOff",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "BarraMeta",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PedroPantY",
       "type": "number",
       "value": 0
     }
@@ -58082,7 +58097,7 @@
               "parameters": [
                 "Energia",
                 "=",
-                "100"
+                "150"
               ]
             },
             {
@@ -115776,9 +115791,20 @@
                       "parameters": [
                         "",
                         "CajaDaño",
-                        "Personaje_jugador.PointX(\"Center\")-15",
+                        "Personaje_jugador.PointX(\"Center\")-24",
                         "Personaje_jugador.PointY(\"Center\")",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "CajaDaño",
+                        "Scale",
+                        "=",
+                        "2.4"
                       ]
                     },
                     {
@@ -115912,9 +115938,20 @@
                       "parameters": [
                         "",
                         "CajaDaño",
-                        "Personaje_jugador.PointX(\"Center\")+15",
+                        "Personaje_jugador.PointX(\"Center\")+24",
                         "Personaje_jugador.PointY(\"Center\")",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "CajaDaño",
+                        "Scale",
+                        "=",
+                        "2.4"
                       ]
                     },
                     {
@@ -116049,8 +116086,19 @@
                         "",
                         "CajaDaño",
                         "Personaje_jugador.PointX(\"Center\")",
-                        "Personaje_jugador.PointY(\"Center\")-15",
+                        "Personaje_jugador.PointY(\"Center\")-24",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "CajaDaño",
+                        "Scale",
+                        "=",
+                        "2.4"
                       ]
                     },
                     {
@@ -116185,8 +116233,19 @@
                         "",
                         "CajaDaño",
                         "Personaje_jugador.PointX(\"Center\")",
-                        "Personaje_jugador.PointY(\"Center\")+15",
+                        "Personaje_jugador.PointY(\"Center\")+24",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "CajaDaño",
+                        "Scale",
+                        "=",
+                        "2.4"
                       ]
                     },
                     {
@@ -117395,6 +117454,13 @@
             "includeConfig": 0
           },
           "target": "Recursos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BarraMovil"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
@@ -122273,7 +122339,7 @@
                       "parameters": [
                         "Energia",
                         "-",
-                        "3"
+                        "1"
                       ]
                     }
                   ],
@@ -122560,7 +122626,7 @@
                       "parameters": [
                         "Energia",
                         "-",
-                        "2"
+                        "1"
                       ]
                     }
                   ],
@@ -122941,7 +123007,7 @@
                       "parameters": [
                         "Energia",
                         "-",
-                        "3"
+                        "1"
                       ]
                     }
                   ],
@@ -144896,7 +144962,7 @@
               "parameters": [
                 "Energia",
                 "-",
-                "1"
+                "0.5"
               ]
             },
             {
@@ -146308,7 +146374,7 @@
               "parameters": [
                 "Energia",
                 "-",
-                "2"
+                "1"
               ]
             },
             {
@@ -154249,6 +154315,224 @@
               "parameters": [
                 "",
                 "\"EvRevisar\""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Nivel 01",
+      "name": "BarraMovil",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Si Pedro baja hasta la zona de la barra rapida, la barra sube a la parte de arriba para no tapar nada. Vuelve cuando el sube."
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "PedroPantY",
+                "=",
+                "(Personaje_jugador.Y() - CameraCenterY(\"\")) * CameraZoom(\"\") + 270"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PedroPantY",
+                ">",
+                "345"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarraMeta",
+                "=",
+                "-484"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "PedroPantY",
+                "<",
+                "290"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarraMeta",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "BarraOff",
+                "=",
+                "lerp(BarraOff, BarraMeta, min(1, TimeDelta() * 14))"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "BarraRapida",
+                "=",
+                "492 + BarraOff"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "EtiquetaItem",
+                "=",
+                "472 + BarraOff * 0.86"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "TextoEtiqueta",
+                "=",
+                "474 + BarraOff * 0.86"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "SlotUI",
+                "Grupo",
+                "=",
+                "\"Barra\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "SlotUI",
+                "=",
+                "496 + BarraOff"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "IconoItem",
+                "Grupo",
+                "=",
+                "\"Barra\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "IconoItem",
+                "=",
+                "513 + BarraOff"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "CantidadItem",
+                "Grupo",
+                "=",
+                "\"Barra\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "CantidadItem",
+                "=",
+                "516 + BarraOff"
               ]
             }
           ]
